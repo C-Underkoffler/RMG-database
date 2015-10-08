@@ -2284,6 +2284,66 @@ u"""
 )
 
 entry(
+    index = 414,
+    label = "CsClHHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    H  u0 {1,S}
+4    H  u0 {1,S}
+5    Cl u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 415,
+    label = "CsNHHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    H  u0 {1,S}
+4    H  u0 {1,S}
+5    N  ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 416,
+    label = "CsSiHHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    H  u0 {1,S}
+4    H  u0 {1,S}
+5    Si ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 417,
+    label = "CsSHHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    H  u0 {1,S}
+4    H  u0 {1,S}
+5    S  ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
     index = 45,
     label = "CsRRHH",
     group = 
@@ -2783,6 +2843,66 @@ u"""
 [<Entry index=132 label="C/H2/Cs/O">, <Entry index=72 label="CtjC">]
 [<Entry index=132 label="C/H2/Cs/O">, <Entry index=62 label="OjCs">]
 """,
+)
+
+entry(
+    index = 418,
+    label = "CsCClHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    H  u0 {1,S}
+4    C  ux {1,S}
+5    Cl u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 419,
+    label = "CsCNHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    H  u0 {1,S}
+4    C  ux {1,S}
+5    N  ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 420,
+    label = "CsCSiHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    H  u0 {1,S}
+4    C  ux {1,S}
+5    Si ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 421,
+    label = "CsCSHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    H  u0 {1,S}
+4    C  ux {1,S}
+5    S  ux {1,S}
+""",
+    distances = DistanceData(distances={}),
 )
 
 entry(
@@ -3343,6 +3463,66 @@ u"""
 [<Entry index=156 label="C/H/Cs/Cs/O">, <Entry index=208 label="Csj/Cs/H2">]
 [<Entry index=156 label="C/H/Cs/Cs/O">, <Entry index=32 label="OjO">]
 """,
+)
+
+entry(
+    index = 422,
+    label = "CsCCClH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    C  ux {1,S}
+4    C  ux {1,S}
+5    Cl u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 423,
+    label = "CsCCNH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    C  ux {1,S}
+4    C  ux {1,S}
+5    N  ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 424,
+    label = "CsCCSiH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    C  ux {1,S}
+4    C  ux {1,S}
+5    Si ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 425,
+    label = "CsCCSH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cs u0 {2,S} {3,S} {4,S} {5,S}
+2 *2 H  u0 {1,S}
+3    C  ux {1,S}
+4    C  ux {1,S}
+5    S  ux {1,S}
+""",
+    distances = DistanceData(distances={}),
 )
 
 entry(
@@ -6044,6 +6224,696 @@ u"""
 [<Entry index=29 label="OOH">, <Entry index=17 label="Cj">]
 [<Entry index=29 label="OOH">, <Entry index=209 label="Csj/Cd/H2">]
 """,
+)
+
+entry(
+    index = 340,
+    label = "Cl_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Cl u0 {2,S}
+2 *2 H  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 341,
+    label = "Si_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 Si ux {2,S}
+2 *2 H  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 342,
+    label = "N_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 N ux {2,S}
+2 *2 H u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 344,
+    label = "N3_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 [N3s,N3d] ux {2,S}
+2 *2 H         u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 348,
+    label = "N3s_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 N3s ux {2,S}
+2 *2 H   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 359,
+    label = "NH3",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    H   u0 {1,S}
+4    H   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 360,
+    label = "N3s/H2/R",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    H   u0 {1,S}
+4    R!H ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 366,
+    label = "N3s/H2/C",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    H   u0 {1,S}
+4    C   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 367,
+    label = "N3s/H2/N",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    H   u0 {1,S}
+4    N   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 368,
+    label = "N3s/H2/O",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    H   u0 {1,S}
+4    O   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 369,
+    label = "N3s/H2/Si",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    H   u0 {1,S}
+4    Si  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 370,
+    label = "N3s/H2/S",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    H   u0 {1,S}
+4    S   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 371,
+    label = "N3s/H2/Cl",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    H   u0 {1,S}
+4    Cl  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 361,
+    label = "N3s/H/R/R",
+    group = 
+"""
+1 *1 N3s ux {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    R!H ux {1,S}
+4    R!H ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 372,
+    label = "N3s/H/C/C",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    C   u0 {1,S}
+4    C   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 373,
+    label = "N3s/H/C/N",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    C   u0 {1,S}
+4    N   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 374,
+    label = "N3s/H/C/O",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    C   u0 {1,S}
+4    O   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 375,
+    label = "N3s/H/C/Si",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    C   u0 {1,S}
+4    Si  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 376,
+    label = "N3s/H/C/S",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    C   u0 {1,S}
+4    S   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 377,
+    label = "N3s/H/C/Cl",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    C   u0 {1,S}
+4    Cl  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 378,
+    label = "N3s/H/N/N",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    N   u0 {1,S}
+4    N   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 379,
+    label = "N3s/H/N/O",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    N   u0 {1,S}
+4    O   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 380,
+    label = "N3s/H/N/Si",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    N   u0 {1,S}
+4    Si  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 381,
+    label = "N3s/H/N/S",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    N   u0 {1,S}
+4    S   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 382,
+    label = "N3s/H/N/Cl",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    N   u0 {1,S}
+4    Cl  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 383,
+    label = "N3s/H/O/O",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    O   u0 {1,S}
+4    O   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 384,
+    label = "N3s/H/O/Si",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    O   u0 {1,S}
+4    Si  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 385,
+    label = "N3s/H/O/S",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    O   u0 {1,S}
+4    Si  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 386,
+    label = "N3s/H/O/S",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    O   u0 {1,S}
+4    S   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 387,
+    label = "N3s/H/O/Cl",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    O   u0 {1,S}
+4    Cl  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 388,
+    label = "N3s/H/Si/Si",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    Si  u0 {1,S}
+4    Si  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 389,
+    label = "N3s/H/Si/S",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    Si  u0 {1,S}
+4    S   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 390,
+    label = "N3s/H/Si/Cl",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    Si  u0 {1,S}
+4    Cl  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 391,
+    label = "N3s/H/S/S",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    R!H u0 {1,S}
+4    R!H u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 392,
+    label = "N3s/H/S/Cl",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    S   u0 {1,S}
+4    Cl  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 393,
+    label = "N3s/H/Cl/Cl",
+    group = 
+"""
+1 *1 N3s u0 {2,S} {3,S}
+2 *2 H   u0 {1,S}
+3    Cl  u0 {1,S}
+4    Cl  u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 349,
+    label = "N3d_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 N3d ux {2,S}
+2 *2 H   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 345,
+    label = "N5_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 [N5s,N5d,N5dd,N5t,N5b] ux {2,S}
+2 *2 H                      u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 350,
+    label = "N5s_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 N5s ux {2,S}
+2 *2 H   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 351,
+    label = "N5d_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 [N5d,N5dd] ux {2,S}
+2 *2 H          u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 343,
+    label = "S_H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S ux {2,S}
+2 *2 H u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 346,
+    label = "SradH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S u1 {2,S}
+2 *2 H u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 347,
+    label = "SRH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S u0 {2,S}
+2 *2 H u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 352,
+    label = "SHH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S u0 {2,S} {3,S}
+2 *2 H u0 {1,S}
+3    H u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 353,
+    label = "SClH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S  u0 {2,S} {3,S}
+2 *2 H  u0 {1,S}
+3    Cl u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 354,
+    label = "SOH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S u0 {2,S} {3,S}
+2 *2 H u0 {1,S}
+3    O ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 355,
+    label = "SCH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S u0 {2,S} {3,S}
+2 *2 H u0 {1,S}
+3    C ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 362,
+    label = "S/Cs/H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S  u0 {2,S} {3,S}
+2 *2 H  u0 {1,S}
+3    Cs ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 363,
+    label = "S/Cd/H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S  u0 {2,S} {3,S}
+2 *2 H  u0 {1,S}
+3    Cd ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 364,
+    label = "S/Ct/H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S  u0 {2,S} {3,S}
+2 *2 H  u0 {1,S}
+3    Ct u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 365,
+    label = "S/Cb/H",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S  u0 {2,S} {3,S}
+2 *2 H  u0 {1,S}
+3    Cb u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 356,
+    label = "SSH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S u0 {2,S} {3,S}
+2 *2 H u0 {1,S}
+3    S ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 357,
+    label = "SNH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S u0 {2,S} {3,S}
+2 *2 H u0 {1,S}
+3    N ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 358,
+    label = "SSiH",
+    group = 
+"""
+multiplicity [1,2,3,4,5]
+1 *1 S  u0 {2,S} {3,S}
+2 *2 H  u0 {1,S}
+3    Si ux {1,S}
+""",
+    distances = DistanceData(distances={}),
 )
 
 entry(
@@ -11569,6 +12439,251 @@ multiplicity [1,2,3,4,5]
     distances = DistanceData(distances={}),
 )
 
+entry(
+    index = 394,
+    label = "Clrad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 Cl u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+    
+entry(
+    index = 395,
+    label = "Sirad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 Si u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+    
+entry(
+    index = 396,
+    label = "Srad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 398,
+    label = "Srad_H",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S u[1,2,3,4] {2,S}
+2    H u0         {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 399,
+    label = "Srad_R",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S   u[1,2,3,4] {2,S}
+2    R!H u0         {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 402,
+    label = "Srad_C",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S u[1,2,3,4] {2,S}
+2    C u0         {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 403,
+    label = "Srad_N",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S u[1,2,3,4] {2,S}
+2    N u0         {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 404,
+    label = "Srad_O",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S u[1,2,3,4] {2,S}
+2    O u0         {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 405,
+    label = "Srad_Si",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S  u[1,2,3,4] {2,S}
+2    Si u0         {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 406,
+    label = "Srad_S",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S u[1,2,3,4] {2,S}
+2    S u0         {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 407,
+    label = "Srad_Cl",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 S  u[1,2,3,4] {2,S}
+2    Cl u0         {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+    
+entry(
+    index = 397,
+    label = "Nrad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 N u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 400,
+    label = "N3_rad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 [N3s,N3d] u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 408,
+    label = "N3s_rad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 N3s u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 411,
+    label = "NH2",
+    group =
+"""
+multiplicity 2
+1 *3 N3s u1 {2,S} {3,S}
+2    H   u0 {1,S}
+3    H   u0 {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 412,
+    label = "N3s/H/R",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 N3s u1 {2,S} {3,S}
+2    H   u0 {1,S}
+3    R!H ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 413,
+    label = "N3s/R/R",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 N3s u1 {2,S} {3,S}
+2    R!H ux {1,S}
+3    R!H ux {1,S}
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 400,
+    label = "N3d_rad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 N3d u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 401,
+    label = "N5_rad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 [N5s,N5d,N5dd,N5t,N5b] u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 409,
+    label = "N5s_rad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 N5s u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+
+entry(
+    index = 410,
+    label = "N5d_rad",
+    group =
+"""
+multiplicity [1,2,3,4,5]
+1 *3 [N5d,N5dd] u[1,2,3,4]
+""",
+    distances = DistanceData(distances={}),
+)
+
 tree(
 """
 L1: X_H_or_Xrad_H_Xbirad_H_Xtrirad_H
@@ -11584,6 +12699,10 @@ L1: X_H_or_Xrad_H_Xbirad_H_Xtrirad_H
                         L7: C/H3/Ct
                         L7: C/H3/Cb
                     L6: CsOHHH
+                    L6: CsClHHH
+                    L6: CsNHHH
+                    L6: CsSiHHH
+                    L6: CsSHHH
                 L5: CsRRHH
                     L6: CsCCHH
                         L7: C/H2/Cs/Cs
@@ -11601,6 +12720,10 @@ L1: X_H_or_Xrad_H_Xbirad_H_Xtrirad_H
                         L7: C/H2/Cd/O
                         L7: C/H2/Ct/O
                         L7: C/H2/Cb/O
+                    L6: CsCClHH
+                    L6: CsCNHH
+                    L6: CsCSiHH
+                    L6: CsCSHH
                     L6: CsOOHH
                 L5: CsRRRH
                     L6: CsCCCH
@@ -11635,6 +12758,10 @@ L1: X_H_or_Xrad_H_Xbirad_H_Xtrirad_H
                         L7: C/H/Ct/Ct/O
                         L7: C/H/Ct/Cb/O
                         L7: C/H/Cb/Cb/O
+                    L6: CsCCClH
+                    L6: CsCCNH
+                    L6: CsCCSiH
+                    L6: CsCCSH
                     L6: CsCOOH
                         L7: C/H/Cs/O/O
                         L7: C/H/Cd/O/O
@@ -11733,6 +12860,59 @@ L1: X_H_or_Xrad_H_Xbirad_H_Xtrirad_H
                 L5: O/Ct/H
                 L5: O/Cb/H
             L4: OOH
+    L2: Cl_H
+    L2: Si_H
+    L2: N_H
+        L3: N3_H
+            L4: N3s_H
+                L5: NH3
+                L5: N3s/H2/R
+                    L6: N3s/H2/C
+                    L6: N3s/H2/N
+                    L6: N3s/H2/O
+                    L6: N3s/H2/Si
+                    L6: N3s/H2/S
+                    L6: N3s/H2/Cl
+                L5: N3s/H/R/R
+                    L6: N3s/H/C/C
+                    L6: N3s/H/C/N
+                    L6: N3s/H/C/O
+                    L6: N3s/H/C/Si
+                    L6: N3s/H/C/S
+                    L6: N3s/H/C/Cl
+                    L6: N3s/H/N/N
+                    L6: N3s/H/N/O
+                    L6: N3s/H/N/Si
+                    L6: N3s/H/N/S
+                    L6: N3s/H/N/Cl
+                    L6: N3s/H/O/O
+                    L6: N3s/H/O/Si
+                    L6: N3s/H/O/S
+                    L6: N3s/H/O/Cl
+                    L6: N3s/H/Si/Si
+                    L6: N3s/H/Si/S
+                    L6: N3s/H/Si/Cl
+                    L6: N3s/H/S/S
+                    L6: N3s/H/S/Cl
+                    L6: N3s/H/Cl/Cl
+            L4: N3d_H
+        L3: N5_H
+            L4: N5s_H
+            L4: N5d_H
+    L2: S_H
+        L3: SradH
+        L3: SRH
+            L4: SHH
+            L4: SClH
+            L4: SOH
+            L4: SCH
+                L5: S/Cs/H
+                L5: S/Cd/H
+                L5: S/Ct/H
+                L5: S/Cb/H
+            L4: SSH
+            L4: SNH
+            L4: SSiH
 L1: Y_rad_birad_trirad_quadrad
     L2: Hrad
     L2: Orad
@@ -11910,6 +13090,26 @@ L1: Y_rad_birad_trirad_quadrad
         L3: Cjjjj
             L4: C_quintet
             L4: C_triplet
+    L2: Clrad
+    L2: Sirad
+    L2: Srad
+        L3: Srad_H
+        L3: Srad_R
+            L4: Srad_C
+            L4: Srad_N
+            L4: Srad_O
+            L4: Srad_Si
+            L4: Srad_S
+            L4: Srad_Cl
+    L2: Nrad
+        L3: N3_rad
+            L4: N3s_rad
+                L4: NH2
+                L4: N3s/H/R
+                L4: N3s/R/R
+            L4: N3d_rad
+        L3: N5_rad
+            L4: N5s_rad
+            L4: N5d_rad
 """
 )
-

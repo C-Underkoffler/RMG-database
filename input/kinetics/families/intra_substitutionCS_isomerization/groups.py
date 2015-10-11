@@ -7,7 +7,7 @@ longDesc = u"""
 
 """
 
-template(reactants=["XSYJ"], products=["XSYJ"], ownReverse=True)
+template(reactants=["XSYJ"], products=["XYSJ"], ownReverse=False)
 
 recipe(actions=[
     ['BREAK_BOND', '*1', 'S', '*2'],
@@ -26,14 +26,20 @@ entry(
 entry(
     index = 2,
     label = "YJ",
-    group = "OR{CJ, SJ, CJ-3, SJ-3}",
+    group = 
+"""
+1 *3 R!H u1
+""",
     kinetics = None,
 )
 
 entry(
     index = 3,
     label = "C",
-    group = "OR{C-RRR, Cds-R, Ct}",
+    group = 
+"""
+1 *1 C u0
+""",
     kinetics = None,
 )
 
@@ -1231,12 +1237,10 @@ entry(
 
 entry(
     index = 98,
-    label = "Cds-R",
+    label = "Cds",
     group = 
 """
-1 *1 Cd u0 {2,S} {3,D}
-2    R  u0 {1,S}
-3    R  u0 {1,D}
+1 *1 Cd u0
 """,
     kinetics = None,
 )
@@ -1250,6 +1254,7 @@ entry(
 2    R u0 {1,S}
 3    R u0 {1,S}
 4    R u0 {1,S}
+
 """,
     kinetics = None,
 )
@@ -1555,6 +1560,32 @@ L1: XSYJ
         L3: XSR5J_SDD
     L2: XSR6J
     L2: XSR7J
+L1: C
+    L2: Ct
+    L2: Cds
+    L2: C-RRR
+        L3: C-NonDe
+            L4: C-HHH
+            L4: C-CsHH
+            L4: C-CsCsH
+            L4: C-CsCsCs
+            L4: C-OneS
+                L5: C-SsHH
+                L5: C-SsCsH
+                L5: C-SsCsCs
+        L3: C-OneDe
+            L4: C-CdHH
+            L4: C-CdCsH
+            L4: C-CdCsCs
+            L4: C-CdSsH
+            L4: C-CdSsCs
+            L4: C-CdSsSs
+            L4: C-CtHH
+            L4: C-CtCsH
+            L4: C-CtCsCs
+            L4: C-CtSsH
+            L4: C-CtSsCs
+            L4: C-CtSsSs
 L1: YJ
     L2: CJ
         L3: CdsJ
@@ -1637,32 +1668,6 @@ L1: YJ
                     L6: CsJ-3-SsCdSs
             L4: CsJ-3-SsTwoDe
     L2: SJ-3
-L1: C
-    L2: Ct
-    L2: Cds-R
-    L2: C-RRR
-        L3: C-NonDe
-            L4: C-HHH
-            L4: C-CsHH
-            L4: C-CsCsH
-            L4: C-CsCsCs
-            L4: C-OneS
-                L5: C-SsHH
-                L5: C-SsCsH
-                L5: C-SsCsCs
-        L3: C-OneDe
-            L4: C-CdHH
-            L4: C-CdCsH
-            L4: C-CdCsCs
-            L4: C-CdSsH
-            L4: C-CdSsCs
-            L4: C-CdSsSs
-            L4: C-CtHH
-            L4: C-CtCsH
-            L4: C-CtCsCs
-            L4: C-CtSsH
-            L4: C-CtSsCs
-            L4: C-CtSsSs
 """
 )
 

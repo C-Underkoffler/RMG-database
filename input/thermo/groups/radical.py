@@ -3602,9 +3602,9 @@ entry(
 """,
     thermo = ThermoData(
         Tdata = ([300,400,500,600,800,1000,1500],'K'),
-        Cpdata = ([-1.38,-1.32,-1.19,-1.14,-1.39,-1.94,-3.4],'cal/(mol*K)'),
-        H298 = (92.1,'kcal/mol'),
-        S298 = (1.95,'cal/(mol*K)'),
+        Cpdata = ([-2.21,-2.38,-2.47,-2.55,-2.89,-3.33,-4.54],'cal/(mol*K)'),
+        H298 = (92.6,'kcal/mol'),
+        S298 = (1.67,'cal/(mol*K)'),
     ),
     shortDesc = u"""CAC CBS-QB3 1d-hr""",
     longDesc = 
@@ -4169,6 +4169,43 @@ entry(
     longDesc = 
 u"""
 
+""",
+)
+
+entry(
+    index = 73,
+    label = "SidsJ",
+    group = 
+"""
+1 * [Sid,SiO] u1
+""",
+    thermo = u'SidsJ_Si',
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+
+""",
+)
+
+entry(
+    index = 74,
+    label = "SidsJ_Si",
+    group = 
+"""
+1 * Sid u1 p0 {2,D} {3,S}
+2   Si u0 {1,D}
+3   H  u0 p0 {1,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-1.023,-1.984,-2.724,-3.255,-3.909,-4.307,-4.983],'cal/(mol*K)'),
+        H298 = (82.785,'kcal/mol'),
+        S298 = (4.272,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+Calculated from difference between [SiH]=SiH2 and Si=Si, from CBS-QB3.
 """,
 )
 
@@ -5276,7 +5313,7 @@ entry(
 """
 1 * Si u1
 """,
-    thermo = u'CJ',
+    thermo = u'SisJ',
     shortDesc = u"""""",
     longDesc = 
 u"""
@@ -5285,7 +5322,143 @@ u"""
 )
 
 entry(
+    index = 135,
+    label = "SiH3",
+    group = 
+"""
+1 * Sis u1 p0 c0 {2,S} {3,S} {4,S}
+2   H  u0 p0 c0 {1,S}
+3   H  u0 p0 c0 {1,S}
+4   H  u0 p0 c0 {1,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-0.705,-1.402,-2.068,-2.653,-3.563,-4.184,-5.021],'cal/(mol*K)'),
+        H298 = (92.425,'kcal/mol'),
+        S298 = (0.201,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""Compared to SiH4""",
+    longDesc = 
+u"""
+Calculated from HBI for SiH3 and SiH4, from CBS-QB3 calculation 
+""",
+)
+
+entry(
+    index = 136,
+    label = "SiJ_LP_H",
+    group = 
+"""
+1 * Si u1 p1 c0 {2,S}
+2   H  u0 p0 c0 {1,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-1.391,-1.761,-2.181,-2.592,-3.227,-3.665,-4.288],'cal/(mol*K)'),
+        H298 = (77.356,'kcal/mol'),
+        S298 = (-4.920,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+Calculated from HBI for SiH and SiH2 (with lone pair), from CBS-QB3 calculation
+""",
+)
+
+entry(
     index = 137,
+    label = "SiJ_LP_Si",
+    group = 
+"""
+1 * Si u1 p1 c0 {2,S}
+2   Si u0 p0 c0 {1,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-4.316,-4.949,-5.439,-5.824,-6.383,-6.759,-7.282],'cal/(mol*K)'),
+        H298 = (75.524,'kcal/mol'),
+        S298 = (-5.834,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+Calculated from HBI for Si-SiH3 and SiH-SiH3 (with lone pair), from CBS-QB3 calculation
+""",
+)
+
+entry(
+    index = 138,
+    label = "SiJ_LP",
+    group = 
+"""
+1 * Si u1 p1 c0
+""",
+    thermo = u'SiJ_LP_H',
+    shortDesc = u"""Taken as same as SiH""",
+    longDesc = 
+u"""
+""",
+)
+
+entry(
+    index = 231,
+    label = "SisJ_Si",
+    group = 
+"""
+1 * Sis u1 p0 c0 {2,S}
+2   Si u0 p0 {1,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-0.948,-1.654,-2.317,-2.891,-3.756,-4.327,-5.079],'cal/(mol*K)'),
+        H298 = (89.445,'kcal/mol'),
+        S298 = (0.812,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+Taken as HBI value for Si2H5 (by comparing to Si2H6).
+""",
+)
+
+entry(
+    index = 232,
+    label = "SisJ",
+    group = 
+"""
+1 * Sis u1 p0
+""",
+    thermo = u'SiH3',
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+Si with all single bonds & one radical
+""",
+)
+
+entry(
+    index = 233,
+    label = "SisJ_SiLP",
+    group = 
+"""
+1 * Sis u1 p0 c0 {2,S}
+2   Si  u0 p1 c0 {1,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-1.096,-1.836,-2.544,-3.136,-3.964,-4.465,-5.093],'cal/(mol*K)'),
+        H298 = (75.092,'kcal/mol'),
+        S298 = (-0.108,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+Calculated from HBI for [SiH][SiH2] compared to [SiH]SiH3, from CBS-QB3 calculation 
+""",
+)
+
+entry(
+    index = 234,
     label = "SJ",
     group = 
 """
@@ -5454,9 +5627,9 @@ entry(
 """,
     thermo = ThermoData(
         Tdata = ([300,400,500,600,800,1000,1500],'K'),
-        Cpdata = ([-2.33,-2.82,-3.2,-3.55,-4.16,-4.61,-5.12],'cal/(mol*K)'),
-        H298 = (89.86,'kcal/mol'),
-        S298 = (-0.3,'cal/(mol*K)'),
+        Cpdata = ([-2.26,-2.82,-3.17,-3.44,-3.89,-4.29,-4.95],'cal/(mol*K)'),
+        H298 = (89.6,'kcal/mol'),
+        S298 = (-0.42,'cal/(mol*K)'),
     ),
     shortDesc = u"""CBS-QB3 CAC""",
     longDesc = 
@@ -5807,17 +5980,54 @@ u"""
 )
 
 entry(
-    index = 135,
+    index = 401,
     label = "SiJ2_triplet",
     group = 
 """
-1 * Si u2
+1 * Si u2 p0 c0
 """,
-    thermo = u'CJ2_triplet',
+    thermo = u'SisJ2_triplet',
     shortDesc = u"""""",
     longDesc = 
 u"""
 
+""",
+)
+
+entry(
+    index = 402,
+    label = "SisJ2_triplet",
+    group = 
+"""
+1 * Sis u2 p0 c0
+""",
+    thermo = u'SiH2_triplet',
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+
+""",
+)
+
+entry(
+    index = 403,
+    label = "SiH2_triplet",
+    group = 
+"""
+1 * Sis u2 p0 c0 {2,S} {3,S}
+2   H u0 p0 c0 {1,S}
+3   H u0 p0 c0 {1,S}
+""",
+    thermo = ThermoData(
+        Tdata = ([300,400,500,600,800,1000,1500],'K'),
+        Cpdata = ([-1.823,-3.262,-4.586,-5.719,-7.427,-8.571,-10.116],'cal/(mol*K)'),
+        H298 = (183.518,'kcal/mol'),
+        S298 = (-1.023,'cal/(mol*K)'),
+    ),
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+Taken from difference between SiH2(T) and SiH4.
 """,
 )
 
@@ -5886,7 +6096,7 @@ entry(
     longDesc = 
 u"""
 
-""",
+"""
 )
 
 entry(
@@ -6194,7 +6404,7 @@ u"""
 )
 
 entry(
-    index = 136,
+    index = 3005,
     label = "SiJ3",
     group = 
 """
@@ -6436,6 +6646,15 @@ L1: Radical
                     L6: C3COOJ
                 L5: HOOJ
         L3: SiJ
+            L4: SisJ
+                L5: SisJ_SiLP
+                L5: SiH3
+                L5: SisJ_Si
+            L4: SiJ_LP
+                L5: SiJ_LP_H
+                L5: SiJ_LP_Si
+            L4: SidsJ
+                L5: SidsJ_Si
         L3: SJ
             L4: SJ-H
             L4: SJ-C
@@ -6464,6 +6683,8 @@ L1: Radical
                 L5: CdJ2-Sd_triplet
         L3: Oa_triplet
         L3: SiJ2_triplet
+            L4: SisJ2_triplet
+                L5: SiH2_triplet
         L3: SJ2_triplet
     L2: RJ2_singlet
         L3: CO

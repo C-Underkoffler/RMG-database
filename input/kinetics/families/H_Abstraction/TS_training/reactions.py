@@ -4,10 +4,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29429, 'd13': 2.25818, 'd23': 0.964372},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -16,10 +16,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16089, 'd13': 2.53998, 'd23': 1.39444},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -28,10 +28,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16829, 'd13': 2.52734, 'd23': 1.38856},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -40,10 +40,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11714, 'd13': 2.58514, 'd23': 1.4872},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -52,10 +52,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.02548, 'd13': 2.71755, 'd23': 1.70887},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -64,10 +64,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.863963, 'd13': 2.30267, 'd23': 1.43871},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -76,10 +76,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20143, 'd13': 2.48234, 'd23': 1.29764},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -88,10 +88,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.10118, 'd13': 2.51218, 'd23': 1.41939},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -100,10 +100,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24081, 'd13': 2.69952, 'd23': 1.46367},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -112,10 +112,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23949, 'd13': 2.6721, 'd23': 1.43987},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -124,10 +124,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23879, 'd13': 2.66223, 'd23': 1.43316},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -136,10 +136,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23782, 'd13': 2.51432, 'd23': 1.29485},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -148,10 +148,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22823, 'd13': 2.71466, 'd23': 1.49307},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -160,10 +160,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17506, 'd13': 2.57332, 'd23': 1.40599},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -172,10 +172,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14303, 'd13': 2.5876, 'd23': 1.44974},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -184,10 +184,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24169, 'd13': 2.28501, 'd23': 1.04792},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -196,10 +196,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26321, 'd13': 2.51752, 'd23': 1.2818},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -208,10 +208,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28937, 'd13': 2.71084, 'd23': 1.42929},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -220,10 +220,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27631, 'd13': 2.6899, 'd23': 1.42317},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -232,10 +232,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28653, 'd13': 2.67292, 'd23': 1.39168},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -244,10 +244,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31802, 'd13': 2.68772, 'd23': 1.39143},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -256,10 +256,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21509, 'd13': 2.33131, 'd23': 1.11664},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -268,10 +268,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14278, 'd13': 2.6537, 'd23': 1.5609},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -280,10 +280,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25253, 'd13': 2.53945, 'd23': 1.30413},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -292,10 +292,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27154, 'd13': 2.71853, 'd23': 1.45419},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -304,10 +304,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26587, 'd13': 2.71157, 'd23': 1.45239},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -316,10 +316,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.875435, 'd13': 2.28904, 'd23': 1.41583},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -328,10 +328,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19826, 'd13': 2.48347, 'd23': 1.30794},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -340,10 +340,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.03948, 'd13': 2.65148, 'd23': 1.64481},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -352,10 +352,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1138, 'd13': 2.50659, 'd23': 1.40308},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -364,10 +364,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31116, 'd13': 2.64253, 'd23': 1.33973},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -376,10 +376,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22123, 'd13': 2.7132, 'd23': 1.51519},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -388,10 +388,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21775, 'd13': 2.71729, 'd23': 1.50467},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -400,10 +400,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2049, 'd13': 2.75678, 'd23': 1.56363},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -412,10 +412,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30549, 'd13': 2.68461, 'd23': 1.38273},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -424,10 +424,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25087, 'd13': 2.66446, 'd23': 1.42468},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -436,10 +436,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31908, 'd13': 2.70098, 'd23': 1.38408},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -448,10 +448,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13377, 'd13': 2.77186, 'd23': 1.64103},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -460,10 +460,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12895, 'd13': 2.80635, 'd23': 1.81579},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -472,10 +472,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11842, 'd13': 2.92561, 'd23': 1.92436},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -484,10 +484,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1357, 'd13': 2.74708, 'd23': 1.63784},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -496,10 +496,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.03032, 'd13': 2.70779, 'd23': 1.69229},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -508,10 +508,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11246, 'd13': 2.50817, 'd23': 1.40439},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -520,10 +520,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31533, 'd13': 2.64119, 'd23': 1.3329},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -532,10 +532,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21725, 'd13': 2.73396, 'd23': 1.52719},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -544,10 +544,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21065, 'd13': 2.75365, 'd23': 1.55054},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -556,10 +556,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25311, 'd13': 2.68089, 'd23': 1.42807},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -568,10 +568,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13352, 'd13': 2.782, 'd23': 1.6608},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -580,10 +580,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.04109, 'd13': 2.67214, 'd23': 1.64509},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -592,10 +592,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14267, 'd13': 2.50461, 'd23': 1.36766},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -604,10 +604,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28554, 'd13': 2.65879, 'd23': 1.37662},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -616,10 +616,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23787, 'd13': 2.70705, 'd23': 1.47766},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -628,10 +628,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22146, 'd13': 2.72915, 'd23': 1.52564},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -640,10 +640,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27301, 'd13': 2.66332, 'd23': 1.39444},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -652,10 +652,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39367, 'd13': 2.28754, 'd23': 0.89387},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -664,10 +664,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18721, 'd13': 2.53015, 'd23': 1.34972},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -676,10 +676,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06293, 'd13': 2.63067, 'd23': 1.57678},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -688,10 +688,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2924, 'd13': 2.66748, 'd23': 1.37511},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -700,10 +700,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22886, 'd13': 2.74275, 'd23': 1.51722},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -712,10 +712,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17376, 'd13': 2.50779, 'd23': 1.33927},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -724,10 +724,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24581, 'd13': 2.7249, 'd23': 1.49143},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -736,10 +736,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30866, 'd13': 2.66791, 'd23': 1.36677},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -748,10 +748,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20167, 'd13': 2.50733, 'd23': 1.31076},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -760,10 +760,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27756, 'd13': 2.70403, 'd23': 1.43905},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -772,10 +772,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28593, 'd13': 2.6921, 'd23': 1.41101},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -784,10 +784,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33117, 'd13': 2.66142, 'd23': 1.33751},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -796,10 +796,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12062, 'd13': 2.84485, 'd23': 1.83964},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -808,10 +808,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.238, 'd13': 2.72057, 'd23': 1.48294},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -820,10 +820,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25432, 'd13': 2.70702, 'd23': 1.4568},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -832,10 +832,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32017, 'd13': 2.63625, 'd23': 1.33047},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -844,10 +844,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3004, 'd13': 2.65083, 'd23': 1.36116},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -856,10 +856,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23665, 'd13': 2.70715, 'd23': 1.47886},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -868,10 +868,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29405, 'd13': 2.64922, 'd23': 1.36623},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -880,10 +880,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27435, 'd13': 2.67949, 'd23': 1.40726},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -892,10 +892,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30736, 'd13': 2.6748, 'd23': 1.37471},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -904,10 +904,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2989, 'd13': 2.69039, 'd23': 1.40177},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -916,10 +916,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27912, 'd13': 2.68031, 'd23': 1.40281},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -928,10 +928,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25852, 'd13': 2.68364, 'd23': 1.4322},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -940,10 +940,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08374, 'd13': 2.58042, 'd23': 1.51572},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -952,10 +952,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20894, 'd13': 2.37828, 'd23': 1.28541},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -964,10 +964,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13828, 'd13': 2.43193, 'd23': 1.36667},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -976,10 +976,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21615, 'd13': 2.67111, 'd23': 1.46309},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -988,10 +988,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20339, 'd13': 2.68918, 'd23': 1.5019},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1000,10 +1000,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19207, 'd13': 2.72322, 'd23': 1.56813},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1012,10 +1012,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19879, 'd13': 2.70826, 'd23': 1.54305},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1024,10 +1024,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30622, 'd13': 2.62821, 'd23': 1.32292},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1036,10 +1036,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26828, 'd13': 2.63862, 'd23': 1.37254},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1048,10 +1048,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23012, 'd13': 2.64379, 'd23': 1.4223},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1060,10 +1060,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13702, 'd13': 2.52224, 'd23': 1.46132},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1072,10 +1072,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38352, 'd13': 2.70046, 'd23': 1.34343},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1084,10 +1084,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28896, 'd13': 2.71347, 'd23': 1.44639},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1096,10 +1096,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27438, 'd13': 2.50503, 'd23': 1.26913},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1108,10 +1108,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31001, 'd13': 2.69203, 'd23': 1.39946},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1120,10 +1120,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23244, 'd13': 2.7239, 'd23': 1.51853},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1132,10 +1132,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35064, 'd13': 2.69115, 'd23': 1.3732},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1144,10 +1144,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31218, 'd13': 2.70729, 'd23': 1.43643},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1156,10 +1156,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32975, 'd13': 2.71528, 'd23': 1.41139},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1168,10 +1168,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26216, 'd13': 2.72997, 'd23': 1.47526},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1180,10 +1180,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2668, 'd13': 2.74286, 'd23': 1.47729},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1192,10 +1192,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31562, 'd13': 2.69363, 'd23': 1.41644},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1204,10 +1204,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12284, 'd13': 2.54708, 'd23': 1.48263},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1216,10 +1216,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15063, 'd13': 2.57058, 'd23': 1.50472},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1228,10 +1228,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25056, 'd13': 2.68233, 'd23': 1.45716},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1240,10 +1240,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32359, 'd13': 2.67219, 'd23': 1.39238},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1252,10 +1252,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31014, 'd13': 2.68538, 'd23': 1.40064},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1264,10 +1264,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27727, 'd13': 2.70354, 'd23': 1.46371},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1276,10 +1276,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3068, 'd13': 2.69787, 'd23': 1.43159},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1288,10 +1288,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26318, 'd13': 2.67317, 'd23': 1.44012},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1300,10 +1300,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28156, 'd13': 2.67526, 'd23': 1.41572},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1312,10 +1312,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28625, 'd13': 2.70078, 'd23': 1.41933},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1324,10 +1324,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3141, 'd13': 2.68879, 'd23': 1.39091},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1336,10 +1336,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34136, 'd13': 2.67914, 'd23': 1.36275},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1348,10 +1348,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.304, 'd13': 2.65247, 'd23': 1.36244},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1360,10 +1360,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.893488, 'd13': 2.2681, 'd23': 1.37462},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1372,10 +1372,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.04106, 'd13': 2.65255, 'd23': 1.62095},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1384,10 +1384,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21541, 'd13': 2.72728, 'd23': 1.51602},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1396,10 +1396,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26532, 'd13': 2.6758, 'd23': 1.41049},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1408,10 +1408,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12253, 'd13': 2.83796, 'd23': 1.71577},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1420,10 +1420,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31451, 'd13': 2.5001, 'd23': 1.18564},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1432,10 +1432,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13544, 'd13': 2.54805, 'd23': 1.46401},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1444,10 +1444,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28296, 'd13': 2.4907, 'd23': 1.23278},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1456,10 +1456,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17282, 'd13': 2.56055, 'd23': 1.39273},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1468,10 +1468,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.05464, 'd13': 2.25495, 'd23': 1.30097},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1480,10 +1480,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18908, 'd13': 2.50813, 'd23': 1.32482},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1492,10 +1492,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.0907, 'd13': 2.34208, 'd23': 1.26753},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1504,10 +1504,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37417, 'd13': 2.67587, 'd23': 1.33628},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1516,10 +1516,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28916, 'd13': 2.66232, 'd23': 1.38},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1528,10 +1528,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37262, 'd13': 2.64429, 'd23': 1.32124},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1540,10 +1540,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23639, 'd13': 2.68474, 'd23': 1.47985},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1552,10 +1552,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28225, 'd13': 2.70662, 'd23': 1.42761},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1564,10 +1564,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33156, 'd13': 2.68289, 'd23': 1.37945},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1576,10 +1576,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20738, 'd13': 2.54626, 'd23': 1.34423},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1588,10 +1588,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32327, 'd13': 2.69545, 'd23': 1.39458},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1600,10 +1600,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23984, 'd13': 2.73677, 'd23': 1.50198},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1612,10 +1612,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28502, 'd13': 2.69905, 'd23': 1.44872},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1624,10 +1624,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25307, 'd13': 2.71417, 'd23': 1.47083},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1636,10 +1636,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30437, 'd13': 2.69066, 'd23': 1.42257},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1648,10 +1648,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24444, 'd13': 2.69949, 'd23': 1.46842},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1660,10 +1660,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28245, 'd13': 2.66834, 'd23': 1.38892},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1672,10 +1672,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19204, 'd13': 2.477, 'd23': 1.2896},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1684,10 +1684,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26947, 'd13': 2.68027, 'd23': 1.43501},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1696,10 +1696,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23172, 'd13': 2.48996, 'd23': 1.26004},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1708,10 +1708,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33091, 'd13': 2.68227, 'd23': 1.35476},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1720,10 +1720,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30452, 'd13': 2.69633, 'd23': 1.40708},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1732,10 +1732,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3046, 'd13': 2.68341, 'd23': 1.38322},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1744,10 +1744,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21874, 'd13': 2.53143, 'd23': 1.31493},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1756,10 +1756,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22278, 'd13': 2.46055, 'd23': 1.25118},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1768,10 +1768,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31744, 'd13': 2.65773, 'd23': 1.35141},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1780,10 +1780,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12539, 'd13': 2.78624, 'd23': 1.87771},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1792,10 +1792,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19919, 'd13': 2.66425, 'd23': 1.50082},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1804,10 +1804,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36, 'd13': 2.63632, 'd23': 1.38457},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1816,10 +1816,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34617, 'd13': 2.66976, 'd23': 1.37526},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1828,10 +1828,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28767, 'd13': 2.70294, 'd23': 1.41971},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1840,10 +1840,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1862, 'd13': 2.54826, 'd23': 1.38278},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1852,10 +1852,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1331, 'd13': 2.81507, 'd23': 1.69997},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1864,10 +1864,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26716, 'd13': 2.63108, 'd23': 1.36612},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1876,10 +1876,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28021, 'd13': 2.72254, 'd23': 1.46034},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1888,10 +1888,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30263, 'd13': 2.69753, 'd23': 1.39917},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1900,10 +1900,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19687, 'd13': 2.41073, 'd23': 1.27793},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1912,10 +1912,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19469, 'd13': 2.54285, 'd23': 1.38043},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1924,10 +1924,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2835, 'd13': 2.2699, 'd23': 0.988982},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1936,10 +1936,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26594, 'd13': 2.509, 'd23': 1.24337},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1948,10 +1948,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33898, 'd13': 2.67345, 'd23': 1.3371},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1960,10 +1960,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29899, 'd13': 2.71053, 'd23': 1.41884},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1972,10 +1972,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31509, 'd13': 2.69476, 'd23': 1.38198},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1984,10 +1984,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38142, 'd13': 2.73419, 'd23': 1.35777},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -1996,10 +1996,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23815, 'd13': 2.71907, 'd23': 1.51077},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2008,10 +2008,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26406, 'd13': 2.72247, 'd23': 1.48187},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2020,10 +2020,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31358, 'd13': 2.67539, 'd23': 1.37596},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2032,10 +2032,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34478, 'd13': 2.67719, 'd23': 1.36561},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2044,10 +2044,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36326, 'd13': 2.64477, 'd23': 1.39001},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2056,10 +2056,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28374, 'd13': 2.68723, 'd23': 1.41906},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2068,10 +2068,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27669, 'd13': 2.73719, 'd23': 1.47522},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2080,10 +2080,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23891, 'd13': 2.503, 'd23': 1.28001},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2092,10 +2092,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18584, 'd13': 2.57286, 'd23': 1.41532},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2104,10 +2104,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17982, 'd13': 2.78509, 'd23': 1.62371},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2116,10 +2116,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3191, 'd13': 2.72768, 'd23': 1.42279},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2128,10 +2128,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13807, 'd13': 2.82491, 'd23': 1.69131},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2140,10 +2140,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32077, 'd13': 2.72822, 'd23': 1.41002},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2152,10 +2152,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36017, 'd13': 2.63431, 'd23': 1.36251},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2164,10 +2164,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3556, 'd13': 2.27781, 'd23': 0.923854},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2176,10 +2176,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16128, 'd13': 2.58129, 'd23': 1.42871},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2188,10 +2188,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18051, 'd13': 2.502, 'd23': 1.33003},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2200,10 +2200,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24657, 'd13': 2.72313, 'd23': 1.48928},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2212,10 +2212,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30523, 'd13': 2.66293, 'd23': 1.36484},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2224,10 +2224,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12448, 'd13': 2.84901, 'd23': 1.77031},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2236,10 +2236,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27848, 'd13': 2.67973, 'd23': 1.40632},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2248,10 +2248,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2791, 'd13': 2.67322, 'd23': 1.40141},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2260,10 +2260,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2938, 'd13': 2.71507, 'd23': 1.44276},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2272,10 +2272,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31607, 'd13': 2.68893, 'd23': 1.38918},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2284,10 +2284,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32896, 'd13': 2.67947, 'd23': 1.35819},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2296,10 +2296,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30228, 'd13': 2.68903, 'd23': 1.40589},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2308,10 +2308,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29072, 'd13': 2.74355, 'd23': 1.4566},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2320,10 +2320,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34625, 'd13': 2.6847, 'd23': 1.34484},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2332,10 +2332,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31863, 'd13': 2.68547, 'd23': 1.37018},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2344,10 +2344,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23814, 'd13': 2.5461, 'd23': 1.42541},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2356,10 +2356,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22447, 'd13': 2.65518, 'd23': 1.45282},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2368,10 +2368,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22851, 'd13': 2.66445, 'd23': 1.45534},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2380,10 +2380,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25782, 'd13': 2.66063, 'd23': 1.41193},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2392,10 +2392,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12964, 'd13': 2.73886, 'd23': 1.80501},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2404,10 +2404,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34446, 'd13': 2.64444, 'd23': 1.40076},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2416,10 +2416,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29557, 'd13': 2.65918, 'd23': 1.36887},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2428,10 +2428,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32882, 'd13': 2.69912, 'd23': 1.38361},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2440,10 +2440,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2296, 'd13': 2.71452, 'd23': 1.49058},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2452,10 +2452,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34518, 'd13': 2.70794, 'd23': 1.36733},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2464,10 +2464,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24093, 'd13': 2.70515, 'd23': 1.47374},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2476,10 +2476,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26608, 'd13': 2.70924, 'd23': 1.44373},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2488,10 +2488,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35377, 'd13': 2.67764, 'd23': 1.3583},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2500,10 +2500,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20098, 'd13': 2.55933, 'd23': 1.36702},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2512,10 +2512,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34864, 'd13': 2.74343, 'd23': 1.39821},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2524,10 +2524,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11369, 'd13': 3.02434, 'd23': 1.92365},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2536,10 +2536,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3605, 'd13': 2.71051, 'd23': 1.38045},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2548,10 +2548,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28834, 'd13': 2.55114, 'd23': 1.26977},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2560,10 +2560,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35154, 'd13': 2.72595, 'd23': 1.38621},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2572,10 +2572,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31832, 'd13': 2.73038, 'd23': 1.43828},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2584,10 +2584,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30526, 'd13': 2.70487, 'd23': 1.40546},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2596,10 +2596,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26354, 'd13': 2.73766, 'd23': 1.47802},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2608,10 +2608,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24541, 'd13': 2.75861, 'd23': 1.51687},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2620,10 +2620,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39696, 'd13': 2.78275, 'd23': 1.3858},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2632,10 +2632,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32835, 'd13': 2.72713, 'd23': 1.41741},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2644,10 +2644,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28825, 'd13': 2.74272, 'd23': 1.46084},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2656,10 +2656,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29948, 'd13': 2.72285, 'd23': 1.43639},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2668,10 +2668,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30052, 'd13': 2.74595, 'd23': 1.44902},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2680,10 +2680,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.86239, 'd13': 2.2983, 'd23': 1.43782},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2692,10 +2692,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20715, 'd13': 2.72106, 'd23': 1.52486},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2704,10 +2704,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26356, 'd13': 2.67127, 'd23': 1.42033},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2716,10 +2716,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24194, 'd13': 2.68962, 'd23': 1.45416},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2728,10 +2728,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32577, 'd13': 2.25494, 'd23': 0.934703},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2740,10 +2740,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25686, 'd13': 2.6938, 'd23': 1.44101},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2752,10 +2752,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27452, 'd13': 2.68689, 'd23': 1.41709},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2764,10 +2764,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30557, 'd13': 2.66673, 'd23': 1.38363},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2776,10 +2776,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28694, 'd13': 2.66635, 'd23': 1.40233},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2788,10 +2788,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27972, 'd13': 2.70939, 'd23': 1.44337},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2800,10 +2800,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36184, 'd13': 2.27416, 'd23': 0.916182},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2812,10 +2812,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20349, 'd13': 2.49703, 'd23': 1.30031},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2824,10 +2824,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24357, 'd13': 2.51754, 'd23': 1.31034},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2836,10 +2836,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13391, 'd13': 2.58993, 'd23': 1.47468},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2848,10 +2848,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27258, 'd13': 2.29683, 'd23': 1.02425},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2860,10 +2860,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19795, 'd13': 2.57366, 'd23': 1.38024},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2872,10 +2872,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13826, 'd13': 2.68698, 'd23': 1.56688},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2884,10 +2884,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33334, 'd13': 2.71645, 'd23': 1.39021},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2896,10 +2896,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31592, 'd13': 2.68893, 'd23': 1.38866},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2908,10 +2908,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24309, 'd13': 2.70749, 'd23': 1.47821},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2920,10 +2920,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26427, 'd13': 2.70747, 'd23': 1.45209},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2932,10 +2932,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32269, 'd13': 2.70085, 'd23': 1.38658},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2944,10 +2944,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3794, 'd13': 2.71184, 'd23': 1.36693},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2956,10 +2956,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22756, 'd13': 2.71548, 'd23': 1.50228},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2968,10 +2968,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17221, 'd13': 2.10708, 'd23': 0.937577},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2980,10 +2980,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20258, 'd13': 2.57887, 'd23': 1.39989},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -2992,10 +2992,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29246, 'd13': 2.26945, 'd23': 0.977884},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3004,10 +3004,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26772, 'd13': 2.50718, 'd23': 1.24182},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3016,10 +3016,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17334, 'd13': 2.55818, 'd23': 1.3975},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3028,10 +3028,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3314, 'd13': 2.68729, 'd23': 1.35655},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3040,10 +3040,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33117, 'd13': 2.67376, 'd23': 1.34695},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3052,10 +3052,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31181, 'd13': 2.6992, 'd23': 1.39115},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3064,10 +3064,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25117, 'd13': 2.6909, 'd23': 1.44434},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3076,10 +3076,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.304, 'd13': 2.69336, 'd23': 1.38996},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3088,10 +3088,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32744, 'd13': 2.67448, 'd23': 1.36322},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3100,10 +3100,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33278, 'd13': 2.68099, 'd23': 1.37871},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3112,10 +3112,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30451, 'd13': 2.69447, 'd23': 1.39121},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3124,10 +3124,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3104, 'd13': 2.73412, 'd23': 1.43504},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3136,10 +3136,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33375, 'd13': 2.6698, 'd23': 1.34492},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3148,10 +3148,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24384, 'd13': 2.6519, 'd23': 1.40806},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3160,10 +3160,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34429, 'd13': 2.69505, 'd23': 1.35705},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3172,10 +3172,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13451, 'd13': 2.82673, 'd23': 1.7064},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3184,10 +3184,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31947, 'd13': 2.70389, 'd23': 1.39347},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3196,10 +3196,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3159, 'd13': 2.7251, 'd23': 1.42272},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3208,10 +3208,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30083, 'd13': 2.67241, 'd23': 1.37193},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3220,10 +3220,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28525, 'd13': 2.69021, 'd23': 1.41027},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3232,10 +3232,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33035, 'd13': 2.69608, 'd23': 1.37277},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3244,10 +3244,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25278, 'd13': 2.2939, 'd23': 1.04276},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3256,10 +3256,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22446, 'd13': 2.72203, 'd23': 1.50747},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3268,10 +3268,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24194, 'd13': 2.71985, 'd23': 1.48174},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3280,10 +3280,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29177, 'd13': 2.69187, 'd23': 1.41098},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3292,10 +3292,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25846, 'd13': 2.69783, 'd23': 1.44527},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3304,10 +3304,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23044, 'd13': 2.73213, 'd23': 1.50298},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3316,10 +3316,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23344, 'd13': 2.72066, 'd23': 1.49618},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3328,10 +3328,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22195, 'd13': 2.31786, 'd23': 1.10827},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3340,10 +3340,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22334, 'd13': 2.70803, 'd23': 1.49591},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3352,10 +3352,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34474, 'd13': 2.26775, 'd23': 0.925569},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3364,10 +3364,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17381, 'd13': 2.52182, 'd23': 1.37475},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3376,10 +3376,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15346, 'd13': 2.61123, 'd23': 1.48476},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3388,10 +3388,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14956, 'd13': 2.63671, 'd23': 1.55043},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3400,10 +3400,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09601, 'd13': 2.5987, 'd23': 1.51283},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3412,10 +3412,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17121, 'd13': 2.56276, 'd23': 1.40169},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3424,10 +3424,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19836, 'd13': 2.58114, 'd23': 1.3926},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3436,10 +3436,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17101, 'd13': 2.4995, 'd23': 1.33502},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3448,10 +3448,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2625, 'd13': 2.53577, 'd23': 1.27831},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3460,10 +3460,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25002, 'd13': 2.55894, 'd23': 1.31685},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3472,10 +3472,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24326, 'd13': 2.69413, 'd23': 1.45773},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3484,10 +3484,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30619, 'd13': 2.65607, 'd23': 1.35764},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3496,10 +3496,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31915, 'd13': 2.6379, 'd23': 1.32869},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3508,10 +3508,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26785, 'd13': 2.66171, 'd23': 1.39908},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3520,10 +3520,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28122, 'd13': 2.65101, 'd23': 1.38457},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3532,10 +3532,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27479, 'd13': 2.65584, 'd23': 1.38786},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3544,10 +3544,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34806, 'd13': 2.66402, 'd23': 1.31616},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3556,10 +3556,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26407, 'd13': 2.6525, 'd23': 1.40244},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3568,10 +3568,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29046, 'd13': 2.69234, 'd23': 1.40769},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3580,10 +3580,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31168, 'd13': 2.63523, 'd23': 1.33775},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3592,10 +3592,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27788, 'd13': 2.68277, 'd23': 1.41052},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3604,10 +3604,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26652, 'd13': 2.7145, 'd23': 1.4522},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3616,10 +3616,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25108, 'd13': 2.73836, 'd23': 1.49045},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3628,10 +3628,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26709, 'd13': 2.67652, 'd23': 1.43051},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3640,10 +3640,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19956, 'd13': 2.73629, 'd23': 1.56756},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3652,10 +3652,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34171, 'd13': 2.71439, 'd23': 1.39501},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3664,10 +3664,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33317, 'd13': 2.67611, 'd23': 1.40518},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3676,10 +3676,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27675, 'd13': 2.71438, 'd23': 1.46478},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3688,10 +3688,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26293, 'd13': 2.72099, 'd23': 1.46049},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3700,10 +3700,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19996, 'd13': 2.55492, 'd23': 1.36954},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3712,10 +3712,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2915, 'd13': 2.72027, 'd23': 1.44841},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3724,10 +3724,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3715, 'd13': 2.67317, 'd23': 1.30771},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3736,10 +3736,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26262, 'd13': 2.47315, 'd23': 1.22374},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3748,10 +3748,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19167, 'd13': 2.46742, 'd23': 1.29281},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3760,10 +3760,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3031, 'd13': 2.69908, 'd23': 1.4035},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3772,10 +3772,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30426, 'd13': 2.67549, 'd23': 1.38149},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3784,10 +3784,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24191, 'd13': 2.69416, 'd23': 1.4648},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3796,10 +3796,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2516, 'd13': 2.73592, 'd23': 1.48985},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3808,10 +3808,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25253, 'd13': 2.67681, 'd23': 1.45256},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3820,10 +3820,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23344, 'd13': 2.73543, 'd23': 1.51785},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3832,10 +3832,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30563, 'd13': 2.7049, 'd23': 1.42103},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3844,10 +3844,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35345, 'd13': 2.73862, 'd23': 1.39477},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3856,10 +3856,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31698, 'd13': 2.73633, 'd23': 1.44654},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3868,10 +3868,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24477, 'd13': 2.68253, 'd23': 1.44365},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3880,10 +3880,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25004, 'd13': 2.7138, 'd23': 1.47071},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3892,10 +3892,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33069, 'd13': 2.69409, 'd23': 1.36693},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3904,10 +3904,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24931, 'd13': 2.28907, 'd23': 1.04556},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3916,10 +3916,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1469, 'd13': 2.63461, 'd23': 1.50989},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3928,10 +3928,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14943, 'd13': 2.58595, 'd23': 1.44047},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3940,10 +3940,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27808, 'd13': 2.5216, 'd23': 1.25759},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3952,10 +3952,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30388, 'd13': 2.69887, 'd23': 1.39822},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3964,10 +3964,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23827, 'd13': 2.7203, 'd23': 1.48659},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3976,10 +3976,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22245, 'd13': 2.71956, 'd23': 1.50256},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -3988,10 +3988,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22274, 'd13': 2.71493, 'd23': 1.50503},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4000,10 +4000,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24181, 'd13': 2.71435, 'd23': 1.47479},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4012,10 +4012,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28031, 'd13': 2.70008, 'd23': 1.4227},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4024,10 +4024,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31124, 'd13': 2.68493, 'd23': 1.40173},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4036,10 +4036,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36021, 'd13': 2.71526, 'd23': 1.37804},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4048,10 +4048,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30218, 'd13': 2.68806, 'd23': 1.39284},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4060,10 +4060,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26907, 'd13': 2.70983, 'd23': 1.44471},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4072,10 +4072,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1971, 'd13': 2.69609, 'd23': 1.51223},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4084,10 +4084,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12015, 'd13': 2.90963, 'd23': 1.87803},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4096,10 +4096,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23495, 'd13': 2.73802, 'd23': 1.50981},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4108,10 +4108,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31543, 'd13': 2.72946, 'd23': 1.41701},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4120,10 +4120,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22696, 'd13': 2.31365, 'd23': 1.08669},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4132,10 +4132,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20524, 'd13': 2.56073, 'd23': 1.35558},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4144,10 +4144,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29463, 'd13': 2.53967, 'd23': 1.26548},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4156,10 +4156,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28483, 'd13': 2.70766, 'd23': 1.42982},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4168,10 +4168,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24783, 'd13': 2.73394, 'd23': 1.49281},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4180,10 +4180,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25929, 'd13': 2.72785, 'd23': 1.47588},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4192,10 +4192,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28719, 'd13': 2.71445, 'd23': 1.45355},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4204,10 +4204,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24675, 'd13': 2.73547, 'd23': 1.49597},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4216,10 +4216,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21167, 'd13': 2.55664, 'd23': 1.35029},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4228,10 +4228,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33141, 'd13': 2.73482, 'd23': 1.41773},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4240,10 +4240,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27473, 'd13': 2.71553, 'd23': 1.44527},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4252,10 +4252,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2491, 'd13': 2.73256, 'd23': 1.49166},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4264,10 +4264,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22726, 'd13': 2.69238, 'd23': 1.48687},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4276,10 +4276,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31716, 'd13': 2.70575, 'd23': 1.44528},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4288,10 +4288,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32679, 'd13': 2.71818, 'd23': 1.39346},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4300,10 +4300,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39771, 'd13': 2.67085, 'd23': 1.27339},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4312,10 +4312,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2163, 'd13': 2.71499, 'd23': 1.50984},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4324,10 +4324,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46973, 'd13': 2.31972, 'd23': 0.850002},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4336,10 +4336,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22001, 'd13': 2.46578, 'd23': 1.26358},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4348,10 +4348,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.02215, 'd13': 2.71885, 'd23': 1.71724},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4360,10 +4360,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08854, 'd13': 2.51563, 'd23': 1.43772},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4372,10 +4372,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22673, 'd13': 2.6851, 'd23': 1.45942},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4384,10 +4384,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36199, 'd13': 2.64125, 'd23': 1.2893},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4396,10 +4396,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35669, 'd13': 2.63872, 'd23': 1.292},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4408,10 +4408,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39863, 'd13': 2.65954, 'd23': 1.26716},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4420,10 +4420,10 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25243, 'd13': 2.683, 'd23': 1.43377},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4432,9 +4432,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.2397, 'd13': 2.54065, 'd23': 1.31272},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4443,9 +4443,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.30176, 'd13': 2.70556, 'd23': 1.41366},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4454,9 +4454,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27053, 'd13': 2.74347, 'd23': 1.47295},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4465,9 +4465,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31707, 'd13': 2.68611, 'd23': 1.37457},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4476,9 +4476,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.3154, 'd13': 2.68928, 'd23': 1.38695},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4487,9 +4487,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.3388, 'd13': 2.67854, 'd23': 1.37393},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4498,9 +4498,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.10753, 'd13': 2.50949, 'd23': 1.41137},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4509,9 +4509,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.34691, 'd13': 2.72011, 'd23': 1.38629},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4520,9 +4520,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.23697, 'd13': 2.5442, 'd23': 1.31812},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4531,9 +4531,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1551, 'd13': 2.61984, 'd23': 1.4756},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4542,9 +4542,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28566, 'd13': 2.66596, 'd23': 1.41018},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4553,9 +4553,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19064, 'd13': 2.34146, 'd23': 1.16512},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4564,9 +4564,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.31259, 'd13': 2.68284, 'd23': 1.3725},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4575,9 +4575,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27346, 'd13': 2.6232, 'd23': 1.35092},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4586,9 +4586,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12912, 'd13': 2.37922, 'd23': 1.25764},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4597,9 +4597,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.18827, 'd13': 2.59176, 'd23': 1.41159},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4608,9 +4608,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.3031, 'd13': 2.68154, 'd23': 1.38809},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4619,9 +4619,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.3078, 'd13': 2.67929, 'd23': 1.37491},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4630,9 +4630,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31213, 'd13': 2.75581, 'd23': 1.4517},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4641,9 +4641,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.12015, 'd13': 2.88828, 'd23': 1.81999},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4652,9 +4652,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.25669, 'd13': 2.6645, 'd23': 1.42124},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4663,9 +4663,9 @@ entry(
     degeneracy = 12,
     distances = DistanceData(
         distances = {'d12': 1.39483, 'd13': 2.65039, 'd23': 1.27497},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4674,9 +4674,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3021, 'd13': 2.66512, 'd23': 1.36509},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4685,9 +4685,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27178, 'd13': 2.68587, 'd23': 1.43053},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4696,9 +4696,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.25129, 'd13': 2.49822, 'd23': 1.25191},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4707,9 +4707,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24491, 'd13': 2.73182, 'd23': 1.4955},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4718,9 +4718,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.26366, 'd13': 2.71186, 'd23': 1.45239},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4729,9 +4729,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.34046, 'd13': 2.68402, 'd23': 1.34671},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4740,9 +4740,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.26395, 'd13': 2.70656, 'd23': 1.4483},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4751,9 +4751,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.16827, 'd13': 2.60362, 'd23': 1.47037},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4762,9 +4762,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.33432, 'd13': 2.70859, 'd23': 1.38363},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4773,9 +4773,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22745, 'd13': 2.74998, 'd23': 1.53858},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4784,9 +4784,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.32553, 'd13': 2.69973, 'd23': 1.38253},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4795,9 +4795,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20931, 'd13': 2.42545, 'd23': 1.29442},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4806,9 +4806,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.25779, 'd13': 2.68301, 'd23': 1.4303},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4817,9 +4817,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.22945, 'd13': 2.69941, 'd23': 1.48121},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4828,9 +4828,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.28725, 'd13': 2.66941, 'd23': 1.38918},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4839,9 +4839,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22264, 'd13': 2.76781, 'd23': 1.55081},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4850,9 +4850,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.22102, 'd13': 2.65835, 'd23': 1.45614},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4861,9 +4861,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.21856, 'd13': 2.739, 'd23': 1.52394},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4872,9 +4872,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.18443, 'd13': 2.51157, 'd23': 1.32976},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4883,9 +4883,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.01926, 'd13': 2.52174, 'd23': 1.52675},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4894,9 +4894,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.22479, 'd13': 2.4977, 'd23': 1.28802},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4905,9 +4905,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.071, 'd13': 2.63014, 'd23': 1.56838},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4916,9 +4916,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25756, 'd13': 2.22931, 'd23': 0.998142},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4927,9 +4927,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.11789, 'd13': 2.95802, 'd23': 1.92812},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4938,9 +4938,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1924, 'd13': 2.55699, 'd23': 1.38954},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4949,9 +4949,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.38366, 'd13': 2.63338, 'd23': 1.25087},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4960,9 +4960,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24881, 'd13': 2.65744, 'd23': 1.41691},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4971,9 +4971,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.29263, 'd13': 2.69713, 'd23': 1.40578},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4982,9 +4982,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.22111, 'd13': 2.71297, 'd23': 1.50812},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -4993,9 +4993,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31083, 'd13': 2.72403, 'd23': 1.4195},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5004,9 +5004,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.16316, 'd13': 2.5778, 'd23': 1.42849},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5015,9 +5015,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07128, 'd13': 2.63224, 'd23': 1.56784},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5026,9 +5026,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1136, 'd13': 2.12218, 'd23': 1.01225},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5037,9 +5037,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.17855, 'd13': 2.53153, 'd23': 1.38018},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5048,9 +5048,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.29393, 'd13': 2.65751, 'd23': 1.36785},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5059,9 +5059,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.23714, 'd13': 2.70344, 'd23': 1.47425},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5070,9 +5070,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31658, 'd13': 2.68174, 'd23': 1.36865},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5081,9 +5081,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08298, 'd13': 2.6123, 'd23': 1.53916},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5092,9 +5092,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.21574, 'd13': 2.33091, 'd23': 1.11688},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5103,9 +5103,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.3268, 'd13': 2.65341, 'd23': 1.34368},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5114,9 +5114,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.23896, 'd13': 2.51204, 'd23': 1.27424},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5125,9 +5125,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 0.868906, 'd13': 2.29421, 'd23': 1.42789},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5136,9 +5136,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.25326, 'd13': 2.67051, 'd23': 1.41772},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5147,9 +5147,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28656, 'd13': 2.68616, 'd23': 1.4021},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5158,9 +5158,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.33239, 'd13': 2.67842, 'd23': 1.35237},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5169,9 +5169,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32683, 'd13': 2.73119, 'd23': 1.40624},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5180,9 +5180,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.25029, 'd13': 2.67572, 'd23': 1.4357},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5191,9 +5191,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.28684, 'd13': 2.27534, 'd23': 0.989057},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5202,9 +5202,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.20907, 'd13': 2.7289, 'd23': 1.52599},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5213,9 +5213,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21204, 'd13': 2.75883, 'd23': 1.56594},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5224,9 +5224,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.39573, 'd13': 2.69101, 'd23': 1.32711},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5235,9 +5235,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2596, 'd13': 2.54094, 'd23': 1.29536},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5246,9 +5246,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29402, 'd13': 2.65919, 'd23': 1.37455},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5257,9 +5257,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.26281, 'd13': 2.70619, 'd23': 1.45623},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5268,9 +5268,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23924, 'd13': 2.28474, 'd23': 1.05547},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5279,9 +5279,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.02673, 'd13': 2.35893, 'd23': 1.4036},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5290,9 +5290,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29256, 'd13': 2.71979, 'd23': 1.44608},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5301,9 +5301,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07958, 'd13': 2.60996, 'd23': 1.54151},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5312,9 +5312,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.25999, 'd13': 2.72483, 'd23': 1.46614},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5323,9 +5323,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30123, 'd13': 2.65081, 'd23': 1.38924},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5334,9 +5334,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.26308, 'd13': 2.68515, 'd23': 1.44379},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5345,9 +5345,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31688, 'd13': 2.49416, 'd23': 1.17731},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5356,9 +5356,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23749, 'd13': 2.76161, 'd23': 1.52791},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5367,9 +5367,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24201, 'd13': 2.49561, 'd23': 1.2536},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5378,9 +5378,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14021, 'd13': 2.50003, 'd23': 1.36034},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5389,9 +5389,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.28393, 'd13': 2.68344, 'd23': 1.40156},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5400,9 +5400,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.38164, 'd13': 2.68056, 'd23': 1.31356},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5411,9 +5411,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33338, 'd13': 2.73703, 'd23': 1.41055},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5422,9 +5422,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.28114, 'd13': 2.70064, 'd23': 1.4242},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5433,9 +5433,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2249, 'd13': 2.73975, 'd23': 1.52504},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5444,9 +5444,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.26228, 'd13': 2.7051, 'd23': 1.45857},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5455,9 +5455,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.29249, 'd13': 2.70409, 'd23': 1.41556},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5466,9 +5466,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.26734, 'd13': 2.68016, 'd23': 1.41706},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5477,9 +5477,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.37135, 'd13': 2.69133, 'd23': 1.32919},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5488,9 +5488,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.30055, 'd13': 2.66745, 'd23': 1.3757},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5499,9 +5499,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.3087, 'd13': 2.70951, 'd23': 1.40551},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5510,9 +5510,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.34303, 'd13': 2.69934, 'd23': 1.36251},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5521,9 +5521,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.26746, 'd13': 2.71432, 'd23': 1.46173},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5532,9 +5532,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24668, 'd13': 2.68706, 'd23': 1.44809},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5543,9 +5543,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.26576, 'd13': 2.69421, 'd23': 1.434},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5554,9 +5554,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27603, 'd13': 2.65577, 'd23': 1.39236},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5565,9 +5565,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31203, 'd13': 2.65995, 'd23': 1.35872},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5576,9 +5576,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12823, 'd13': 2.57092, 'd23': 1.46156},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5587,9 +5587,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20322, 'd13': 2.47449, 'd23': 1.30463},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5598,9 +5598,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.24875, 'd13': 2.722, 'd23': 1.47417},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5609,9 +5609,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.26992, 'd13': 2.67805, 'd23': 1.4125},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5620,9 +5620,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.21344, 'd13': 2.72756, 'd23': 1.5263},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5631,9 +5631,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.35991, 'd13': 2.27964, 'd23': 0.922801},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5642,9 +5642,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1049, 'd13': 2.59673, 'd23': 1.50072},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5653,9 +5653,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1624, 'd13': 2.45359, 'd23': 1.34106},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5664,9 +5664,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24544, 'd13': 2.71399, 'd23': 1.47544},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5675,9 +5675,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.20818, 'd13': 2.70272, 'd23': 1.50799},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5686,9 +5686,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2802, 'd13': 2.65511, 'd23': 1.37946},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5697,9 +5697,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.227, 'd13': 2.70108, 'd23': 1.48813},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5708,9 +5708,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.34419, 'd13': 2.68744, 'd23': 1.3542},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5719,9 +5719,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.1247, 'd13': 2.854, 'd23': 1.76717},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5730,9 +5730,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.38704, 'd13': 2.73712, 'd23': 1.35364},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5741,9 +5741,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12442, 'd13': 2.11848, 'd23': 0.995758},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5752,9 +5752,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.25175, 'd13': 2.69783, 'd23': 1.45755},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5763,9 +5763,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.33552, 'd13': 2.66325, 'd23': 1.33444},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5774,9 +5774,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.27723, 'd13': 2.69438, 'd23': 1.42433},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5785,9 +5785,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.311, 'd13': 2.67475, 'd23': 1.36923},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5796,9 +5796,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.37479, 'd13': 2.28497, 'd23': 0.910186},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5807,9 +5807,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28691, 'd13': 2.73049, 'd23': 1.45431},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5818,9 +5818,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.21749, 'd13': 2.70768, 'd23': 1.51119},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5829,9 +5829,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.38408, 'd13': 2.6733, 'd23': 1.29385},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5840,9 +5840,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25835, 'd13': 2.26959, 'd23': 1.02105},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5851,9 +5851,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.37417, 'd13': 2.68214, 'd23': 1.31883},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5862,9 +5862,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28222, 'd13': 2.70728, 'd23': 1.43207},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5873,9 +5873,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24707, 'd13': 2.73212, 'd23': 1.49367},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5884,9 +5884,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28931, 'd13': 2.71038, 'd23': 1.45617},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5895,9 +5895,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.29343, 'd13': 2.69759, 'd23': 1.41322},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5906,9 +5906,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.31609, 'd13': 2.63793, 'd23': 1.3296},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5917,9 +5917,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2934, 'd13': 2.61734, 'd23': 1.32838},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5928,9 +5928,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17086, 'd13': 2.50574, 'd23': 1.35068},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5939,9 +5939,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.31482, 'd13': 2.70454, 'd23': 1.39366},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5950,9 +5950,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29048, 'd13': 2.70823, 'd23': 1.42472},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5961,9 +5961,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29695, 'd13': 2.25538, 'd23': 0.958432},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5972,9 +5972,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.05085, 'd13': 2.45125, 'd23': 1.40891},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5983,9 +5983,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.35993, 'd13': 2.69198, 'd23': 1.36847},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -5994,9 +5994,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30166, 'd13': 2.69315, 'd23': 1.39287},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6005,9 +6005,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.26771, 'd13': 2.71409, 'd23': 1.44869},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6016,9 +6016,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.26035, 'd13': 2.72489, 'd23': 1.46951},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6027,9 +6027,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.3149, 'd13': 2.69717, 'd23': 1.39395},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6038,9 +6038,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.28004, 'd13': 2.70043, 'd23': 1.42978},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6049,9 +6049,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.29871, 'd13': 2.65801, 'd23': 1.36436},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6060,9 +6060,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.28345, 'd13': 2.69893, 'd23': 1.4242},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6071,9 +6071,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.20054, 'd13': 2.73647, 'd23': 1.54533},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6082,9 +6082,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.21568, 'd13': 2.72718, 'd23': 1.51387},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6093,9 +6093,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.25295, 'd13': 2.69011, 'd23': 1.43716},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6104,9 +6104,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.30783, 'd13': 2.66526, 'd23': 1.36645},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6115,9 +6115,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.35448, 'd13': 2.64694, 'd23': 1.33566},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6126,9 +6126,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30241, 'd13': 2.6941, 'd23': 1.39855},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6137,9 +6137,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17526, 'd13': 2.10644, 'd23': 0.933968},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6148,9 +6148,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31982, 'd13': 2.69065, 'd23': 1.37102},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6159,9 +6159,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06311, 'd13': 2.3205, 'd23': 1.32703},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6170,9 +6170,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.33539, 'd13': 2.65038, 'd23': 1.32523},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6181,9 +6181,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31682, 'd13': 2.65929, 'd23': 1.35739},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6192,9 +6192,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.22668, 'd13': 2.74045, 'd23': 1.5169},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6203,9 +6203,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31227, 'd13': 2.65729, 'd23': 1.3528},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6214,9 +6214,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.3144, 'd13': 2.68485, 'd23': 1.3737},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6225,9 +6225,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.30064, 'd13': 2.66707, 'd23': 1.36853},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6236,9 +6236,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.33514, 'd13': 2.67222, 'd23': 1.33881},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6247,9 +6247,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.21437, 'd13': 2.7376, 'd23': 1.53766},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6258,9 +6258,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28997, 'd13': 2.67993, 'd23': 1.39458},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6269,9 +6269,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.33993, 'd13': 2.68325, 'd23': 1.34623},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6280,9 +6280,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.26231, 'd13': 2.69766, 'd23': 1.4453},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6291,9 +6291,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31549, 'd13': 2.67588, 'd23': 1.36225},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6302,9 +6302,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24174, 'd13': 2.70502, 'd23': 1.48068},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6313,9 +6313,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24523, 'd13': 2.53143, 'd23': 1.28905},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6324,9 +6324,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30583, 'd13': 2.68, 'd23': 1.41848},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6335,9 +6335,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.33942, 'd13': 2.63237, 'd23': 1.3049},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6346,9 +6346,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.28705, 'd13': 2.70273, 'd23': 1.41911},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6357,9 +6357,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2934, 'd13': 2.67343, 'd23': 1.38322},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6368,9 +6368,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27336, 'd13': 2.48545, 'd23': 1.22055},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6379,9 +6379,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.27451, 'd13': 2.69334, 'd23': 1.43806},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6390,9 +6390,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.29624, 'd13': 2.7028, 'd23': 1.41609},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6401,9 +6401,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27671, 'd13': 2.7273, 'd23': 1.46189},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6412,9 +6412,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29547, 'd13': 2.44288, 'd23': 1.22556},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6423,9 +6423,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.19794, 'd13': 2.75226, 'd23': 1.55714},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6434,9 +6434,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.23187, 'd13': 2.48503, 'd23': 1.26673},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6445,9 +6445,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.25163, 'd13': 2.69261, 'd23': 1.46878},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6456,9 +6456,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21228, 'd13': 2.77185, 'd23': 1.56487},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6467,9 +6467,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.43422, 'd13': 2.67314, 'd23': 1.25801},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6478,9 +6478,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.20374, 'd13': 2.69602, 'd23': 1.50184},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6489,9 +6489,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.19369, 'd13': 2.5118, 'd23': 1.33001},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6500,9 +6500,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.25402, 'd13': 2.68374, 'd23': 1.43673},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6511,9 +6511,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28818, 'd13': 2.71621, 'd23': 1.43215},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6522,9 +6522,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24145, 'd13': 2.74478, 'd23': 1.50625},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6533,9 +6533,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12756, 'd13': 2.58337, 'd23': 1.47776},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6544,9 +6544,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.26738, 'd13': 2.62923, 'd23': 1.36841},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6555,9 +6555,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.25832, 'd13': 2.50711, 'd23': 1.24903},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6566,9 +6566,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.27855, 'd13': 2.69884, 'd23': 1.43642},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6577,9 +6577,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32693, 'd13': 2.72644, 'd23': 1.40764},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6588,9 +6588,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21026, 'd13': 2.49975, 'd23': 1.30339},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6599,9 +6599,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.3051, 'd13': 2.69432, 'd23': 1.40875},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6610,9 +6610,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.18004, 'd13': 2.50468, 'd23': 1.33384},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6621,9 +6621,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.23808, 'd13': 2.50752, 'd23': 1.27554},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6632,9 +6632,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25933, 'd13': 2.66027, 'd23': 1.40789},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6643,9 +6643,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.23336, 'd13': 2.70964, 'd23': 1.48512},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6654,9 +6654,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.14543, 'd13': 2.74504, 'd23': 1.60344},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6665,9 +6665,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29821, 'd13': 2.71699, 'd23': 1.43014},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6676,9 +6676,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.33986, 'd13': 2.66562, 'd23': 1.33683},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6687,9 +6687,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.12575, 'd13': 2.85671, 'd23': 1.77057},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6698,9 +6698,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.36224, 'd13': 2.2802, 'd23': 0.920142},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6709,9 +6709,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.22321, 'd13': 2.67029, 'd23': 1.45619},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6720,9 +6720,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35348, 'd13': 2.68208, 'd23': 1.36598},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6731,9 +6731,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.36139, 'd13': 2.73144, 'd23': 1.37055},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6742,9 +6742,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.33507, 'd13': 2.68418, 'd23': 1.37294},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6753,9 +6753,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29824, 'd13': 2.44224, 'd23': 1.22384},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6764,9 +6764,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29628, 'd13': 2.72409, 'd23': 1.44175},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6775,9 +6775,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.26516, 'd13': 2.33001, 'd23': 1.06488},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6786,9 +6786,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31088, 'd13': 2.67032, 'd23': 1.36145},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6797,9 +6797,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.14261, 'd13': 2.69644, 'd23': 1.5699},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6808,9 +6808,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2591, 'd13': 2.73884, 'd23': 1.48009},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6819,9 +6819,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24498, 'd13': 2.70693, 'd23': 1.46572},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6830,9 +6830,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.34613, 'd13': 2.69062, 'd23': 1.34864},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6841,9 +6841,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28226, 'd13': 2.70645, 'd23': 1.43343},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6852,9 +6852,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.27312, 'd13': 2.70184, 'd23': 1.43129},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6863,9 +6863,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.23646, 'd13': 2.70816, 'd23': 1.48483},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6874,9 +6874,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.31514, 'd13': 2.69186, 'd23': 1.40066},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6885,9 +6885,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.32513, 'd13': 2.66456, 'd23': 1.34118},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6896,9 +6896,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17806, 'd13': 2.5809, 'd23': 1.41009},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6907,9 +6907,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.3537, 'd13': 2.68425, 'd23': 1.34774},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6918,9 +6918,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31649, 'd13': 2.69835, 'd23': 1.39228},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6929,9 +6929,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.30584, 'd13': 2.66777, 'd23': 1.36856},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6940,9 +6940,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.34357, 'd13': 2.68932, 'd23': 1.34993},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6951,9 +6951,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.29952, 'd13': 2.65527, 'd23': 1.36789},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6962,9 +6962,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07676, 'd13': 2.61526, 'd23': 1.55153},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6973,9 +6973,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.24513, 'd13': 2.67111, 'd23': 1.43661},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6984,9 +6984,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.18121, 'd13': 2.50415, 'd23': 1.36928},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -6995,9 +6995,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.37633, 'd13': 2.64671, 'd23': 1.29438},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7006,9 +7006,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.3731, 'd13': 2.6576, 'd23': 1.29024},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7017,9 +7017,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.26672, 'd13': 2.52787, 'd23': 1.2669},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7028,9 +7028,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2334, 'd13': 2.75993, 'd23': 1.53124},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7039,9 +7039,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.24294, 'd13': 2.69569, 'd23': 1.46406},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7050,9 +7050,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.27191, 'd13': 2.66815, 'd23': 1.41251},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7061,9 +7061,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28329, 'd13': 2.70711, 'd23': 1.45592},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7072,9 +7072,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30948, 'd13': 2.71554, 'd23': 1.41318},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7083,9 +7083,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28156, 'd13': 2.66668, 'd23': 1.38512},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7094,9 +7094,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.28375, 'd13': 2.67551, 'd23': 1.39697},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7105,9 +7105,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30356, 'd13': 2.65764, 'd23': 1.373},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7116,9 +7116,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27728, 'd13': 2.69872, 'd23': 1.43575},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7127,9 +7127,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29165, 'd13': 2.71612, 'd23': 1.4446},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7138,9 +7138,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29795, 'd13': 2.70193, 'd23': 1.42844},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7149,9 +7149,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.23286, 'd13': 2.698, 'd23': 1.48209},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7160,9 +7160,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.28012, 'd13': 2.67229, 'd23': 1.40053},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7171,9 +7171,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27256, 'd13': 2.71035, 'd23': 1.44138},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7182,9 +7182,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.23772, 'd13': 2.69945, 'd23': 1.4622},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7193,9 +7193,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.25894, 'd13': 2.2779, 'd23': 1.02314},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7204,9 +7204,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.24746, 'd13': 2.69391, 'd23': 1.458},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7215,9 +7215,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.27659, 'd13': 2.67701, 'd23': 1.40569},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7226,9 +7226,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30459, 'd13': 2.29106, 'd23': 0.986983},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7237,9 +7237,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38531, 'd13': 2.7684, 'd23': 1.39267},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7248,9 +7248,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.33324, 'd13': 2.66168, 'd23': 1.33955},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7259,9 +7259,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.44989, 'd13': 2.74742, 'd23': 1.29897},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7270,9 +7270,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.15129, 'd13': 2.61929, 'd23': 1.5128},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7281,9 +7281,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.20857, 'd13': 2.52067, 'd23': 1.33439},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7292,9 +7292,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26037, 'd13': 2.3462, 'd23': 1.09304},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7303,9 +7303,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.33958, 'd13': 2.4856, 'd23': 1.14961},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7314,9 +7314,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32517, 'd13': 2.5139, 'd23': 1.19512},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7325,9 +7325,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30432, 'd13': 2.36242, 'd23': 1.07937},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7336,9 +7336,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.36001, 'd13': 2.28149, 'd23': 0.923371},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7347,9 +7347,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31948, 'd13': 2.27445, 'd23': 0.956339},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7358,9 +7358,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.34128, 'd13': 2.27818, 'd23': 0.939134},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7369,9 +7369,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.23401, 'd13': 2.50632, 'd23': 1.27888},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7380,9 +7380,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24581, 'd13': 2.11077, 'd23': 0.872138},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7391,9 +7391,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31731, 'd13': 2.68214, 'd23': 1.37024},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7402,9 +7402,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.32663, 'd13': 2.68127, 'd23': 1.35844},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7413,9 +7413,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.26724, 'd13': 2.70769, 'd23': 1.44175},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7424,9 +7424,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.29765, 'd13': 2.53367, 'd23': 1.24578},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7435,9 +7435,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.27649, 'd13': 2.2845, 'd23': 1.0081},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7446,9 +7446,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28261, 'd13': 2.52461, 'd23': 1.25026},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7457,9 +7457,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1394, 'd13': 2.71514, 'd23': 1.64209},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7468,9 +7468,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27174, 'd13': 2.33697, 'd23': 1.06616},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7479,9 +7479,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2669, 'd13': 2.33437, 'd23': 1.06805},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7490,9 +7490,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.16667, 'd13': 2.57381, 'd23': 1.41389},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7501,9 +7501,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09023, 'd13': 2.38761, 'd23': 1.32505},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7512,9 +7512,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.36467, 'd13': 2.50432, 'd23': 1.14895},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7523,9 +7523,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30405, 'd13': 2.52347, 'd23': 1.23616},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7534,9 +7534,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27729, 'd13': 2.51981, 'd23': 1.25562},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7545,9 +7545,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24231, 'd13': 2.10535, 'd23': 0.871769},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7556,9 +7556,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.41851, 'd13': 2.71121, 'd23': 1.31801},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7567,9 +7567,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.27518, 'd13': 2.28333, 'd23': 1.00899},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7578,9 +7578,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14746, 'd13': 2.28522, 'd23': 1.16845},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7589,9 +7589,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.34691, 'd13': 2.27361, 'd23': 0.927919},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7600,9 +7600,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.20727, 'd13': 2.34013, 'd23': 1.15115},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7611,9 +7611,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.35986, 'd13': 2.27802, 'd23': 0.919176},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7622,9 +7622,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.33804, 'd13': 2.50362, 'd23': 1.17556},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7633,9 +7633,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30042, 'd13': 2.48627, 'd23': 1.23729},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7644,9 +7644,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37129, 'd13': 2.53866, 'd23': 1.19569},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7655,9 +7655,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.14619, 'd13': 2.63898, 'd23': 1.49384},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7666,9 +7666,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.22209, 'd13': 2.34994, 'd23': 1.12824},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7677,9 +7677,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.29409, 'd13': 2.53334, 'd23': 1.24195},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7688,9 +7688,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.17593, 'd13': 2.54751, 'd23': 1.3834},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7699,9 +7699,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15805, 'd13': 2.11145, 'd23': 0.959583},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7710,9 +7710,9 @@ entry(
     degeneracy = 12,
     distances = DistanceData(
         distances = {'d12': 1.57444, 'd13': 2.64023, 'd23': 1.0692},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7721,9 +7721,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32576, 'd13': 2.50003, 'd23': 1.20571},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7732,9 +7732,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.30205, 'd13': 2.52018, 'd23': 1.23527},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7743,9 +7743,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.14772, 'd13': 2.65012, 'd23': 1.51053},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7754,9 +7754,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.34469, 'd13': 2.6813, 'd23': 1.34243},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7765,9 +7765,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.3291, 'd13': 2.50023, 'd23': 1.20941},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7776,9 +7776,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27912, 'd13': 2.5225, 'd23': 1.2667},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7787,9 +7787,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09227, 'd13': 2.38721, 'd23': 1.32425},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7798,9 +7798,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.44518, 'd13': 2.57556, 'd23': 1.14894},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7809,9 +7809,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.1486, 'd13': 2.63742, 'd23': 1.49396},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7820,9 +7820,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.38853, 'd13': 2.51842, 'd23': 1.13273},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7831,9 +7831,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2947, 'd13': 2.74598, 'd23': 1.4558},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7842,9 +7842,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18165, 'd13': 2.58792, 'd23': 1.43529},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7853,9 +7853,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31028, 'd13': 2.51075, 'd23': 1.23612},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7864,9 +7864,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.3091, 'd13': 2.67744, 'd23': 1.37518},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7875,9 +7875,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28981, 'd13': 2.53331, 'd23': 1.24798},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7886,9 +7886,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.2, 'd13': 2.55486, 'd23': 1.36669},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7897,9 +7897,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26304, 'd13': 2.33252, 'd23': 1.07201},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7908,9 +7908,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30729, 'd13': 2.52377, 'd23': 1.24666},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7919,9 +7919,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.02853, 'd13': 2.39182, 'd23': 1.40874},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7930,9 +7930,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.39294, 'd13': 2.69369, 'd23': 1.31308},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7941,9 +7941,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.3639, 'd13': 2.70101, 'd23': 1.34699},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7952,9 +7952,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30771, 'd13': 2.51841, 'd23': 1.23072},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7963,9 +7963,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.16073, 'd13': 2.59098, 'd23': 1.44045},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7974,9 +7974,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.36495, 'd13': 2.28211, 'd23': 0.917993},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7985,9 +7985,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2599, 'd13': 2.51965, 'd23': 1.26669},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -7996,9 +7996,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14733, 'd13': 2.27975, 'd23': 1.16904},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8007,9 +8007,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.22248, 'd13': 2.72056, 'd23': 1.5076},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8018,9 +8018,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.34814, 'd13': 2.68891, 'd23': 1.34222},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8029,9 +8029,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28575, 'd13': 2.51299, 'd23': 1.25651},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8040,9 +8040,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30833, 'd13': 2.4966, 'd23': 1.23023},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8051,9 +8051,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.3855, 'd13': 2.51739, 'd23': 1.13375},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8062,9 +8062,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.28552, 'd13': 2.50953, 'd23': 1.23065},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8073,9 +8073,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30835, 'd13': 2.49914, 'd23': 1.20304},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8084,9 +8084,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.15913, 'd13': 2.33924, 'd23': 1.20033},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8095,9 +8095,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.18973, 'd13': 2.50932, 'd23': 1.344},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8106,9 +8106,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.32705, 'd13': 2.50451, 'd23': 1.18567},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8117,9 +8117,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14228, 'd13': 2.37343, 'd23': 1.237},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8128,9 +8128,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3546, 'd13': 2.54411, 'd23': 1.20057},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8139,9 +8139,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31492, 'd13': 2.52411, 'd23': 1.20983},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8150,9 +8150,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.21085, 'd13': 2.52587, 'd23': 1.31884},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8161,9 +8161,9 @@ entry(
     degeneracy = 36,
     distances = DistanceData(
         distances = {'d12': 1.56254, 'd13': 2.62781, 'd23': 1.06983},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8172,9 +8172,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30237, 'd13': 2.69707, 'd23': 1.39687},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8183,9 +8183,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30262, 'd13': 2.50952, 'd23': 1.23375},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8194,9 +8194,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.23797, 'd13': 2.30767, 'd23': 1.07312},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8205,9 +8205,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.39211, 'd13': 2.7005, 'd23': 1.31742},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8216,9 +8216,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.179, 'd13': 2.50383, 'd23': 1.33028},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8227,9 +8227,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.34575, 'd13': 2.51703, 'd23': 1.17563},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8238,9 +8238,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.18852, 'd13': 2.51422, 'd23': 1.3522},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8249,9 +8249,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.18621, 'd13': 2.33583, 'd23': 1.16367},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8260,9 +8260,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29131, 'd13': 2.35508, 'd23': 1.07627},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8271,9 +8271,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23177, 'd13': 2.48667, 'd23': 1.2616},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8282,9 +8282,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35101, 'd13': 2.51344, 'd23': 1.1649},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8293,9 +8293,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.3138, 'd13': 2.50293, 'd23': 1.2206},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8304,9 +8304,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.289, 'd13': 2.35144, 'd23': 1.07655},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8315,9 +8315,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.16705, 'd13': 2.60424, 'd23': 1.49674},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8326,9 +8326,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13985, 'd13': 2.73101, 'd23': 1.66881},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8337,9 +8337,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30349, 'd13': 2.68906, 'd23': 1.39075},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8348,9 +8348,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.35257, 'd13': 2.50215, 'd23': 1.16999},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8359,9 +8359,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.28781, 'd13': 2.51429, 'd23': 1.23203},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8370,9 +8370,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.35568, 'd13': 2.50829, 'd23': 1.16276},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8381,9 +8381,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32147, 'd13': 2.29595, 'd23': 0.97553},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8392,9 +8392,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.363, 'd13': 2.51388, 'd23': 1.16052},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8403,9 +8403,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29837, 'd13': 2.52349, 'd23': 1.24567},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8414,9 +8414,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34703, 'd13': 2.67071, 'd23': 1.32482},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8425,9 +8425,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.05914, 'd13': 2.255, 'd23': 1.29438},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8436,9 +8436,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25222, 'd13': 2.33214, 'd23': 1.09648},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8447,9 +8447,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39335, 'd13': 2.29131, 'd23': 0.898102},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8458,9 +8458,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.40795, 'd13': 2.70647, 'd23': 1.30244},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8469,9 +8469,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29978, 'd13': 2.52368, 'd23': 1.24399},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8480,9 +8480,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.27958, 'd13': 2.50958, 'd23': 1.23479},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8491,9 +8491,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.26072, 'd13': 2.28979, 'd23': 1.03036},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8502,9 +8502,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.14482, 'd13': 2.59898, 'd23': 1.53008},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8513,9 +8513,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.45402, 'd13': 2.25662, 'd23': 0.823648},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8524,9 +8524,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24689, 'd13': 2.55044, 'd23': 1.31131},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8535,9 +8535,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.1636, 'd13': 2.58203, 'd23': 1.43006},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8546,9 +8546,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.31996, 'd13': 2.66462, 'd23': 1.35367},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8557,9 +8557,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28644, 'd13': 2.50143, 'd23': 1.25819},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8568,9 +8568,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.3576, 'd13': 2.46923, 'd23': 1.15135},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8579,9 +8579,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.26602, 'd13': 2.7064, 'd23': 1.4409},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8590,9 +8590,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31226, 'd13': 2.68362, 'd23': 1.37373},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8601,9 +8601,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.33531, 'd13': 2.27978, 'd23': 0.945076},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8612,9 +8612,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29003, 'd13': 2.53106, 'd23': 1.25859},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8623,9 +8623,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.31788, 'd13': 2.69122, 'd23': 1.37493},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8634,9 +8634,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30649, 'd13': 2.70146, 'd23': 1.39624},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8645,9 +8645,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19229, 'd13': 2.5516, 'd23': 1.38276},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8656,9 +8656,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.00806, 'd13': 2.12085, 'd23': 1.11579},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8667,9 +8667,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.2415, 'd13': 2.5083, 'd23': 1.27249},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8678,9 +8678,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26658, 'd13': 2.76299, 'd23': 1.49673},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8689,9 +8689,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41203, 'd13': 2.56616, 'd23': 1.18724},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8700,9 +8700,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.24533, 'd13': 2.49963, 'd23': 1.2632},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8711,9 +8711,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27923, 'd13': 2.69597, 'd23': 1.42849},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8722,9 +8722,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.209, 'd13': 2.52811, 'd23': 1.32351},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8733,9 +8733,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.35515, 'd13': 2.71187, 'd23': 1.37831},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8744,9 +8744,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35943, 'd13': 2.27971, 'd23': 0.923213},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8755,9 +8755,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.44073, 'd13': 2.67447, 'd23': 1.29618},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8766,9 +8766,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26421, 'd13': 2.53207, 'd23': 1.29584},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8777,9 +8777,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29884, 'd13': 2.27889, 'd23': 0.980083},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8788,9 +8788,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.15777, 'd13': 2.59631, 'd23': 1.46779},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8799,9 +8799,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.29506, 'd13': 2.38434, 'd23': 1.11295},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8810,9 +8810,9 @@ entry(
     degeneracy = 12,
     distances = DistanceData(
         distances = {'d12': 1.57351, 'd13': 2.6273, 'd23': 1.06683},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8821,9 +8821,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.34236, 'd13': 2.68247, 'd23': 1.3442},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8832,9 +8832,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14075, 'd13': 2.68618, 'd23': 1.61152},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8843,9 +8843,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2608, 'd13': 2.51552, 'd23': 1.25596},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8854,9 +8854,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23972, 'd13': 2.53767, 'd23': 1.30185},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8865,9 +8865,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.35719, 'd13': 2.27789, 'd23': 0.923602},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8876,9 +8876,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2736, 'd13': 2.33744, 'd23': 1.06431},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8887,9 +8887,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11669, 'd13': 2.38898, 'd23': 1.27233},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8898,9 +8898,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.22398, 'd13': 2.52894, 'd23': 1.33706},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8909,9 +8909,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17108, 'd13': 2.53319, 'd23': 1.38566},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8920,9 +8920,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28434, 'd13': 2.53356, 'd23': 1.27035},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8931,9 +8931,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30065, 'd13': 2.53603, 'd23': 1.24038},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8942,9 +8942,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08484, 'd13': 2.39177, 'd23': 1.33634},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8953,9 +8953,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31274, 'd13': 2.68299, 'd23': 1.37312},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8964,9 +8964,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.14646, 'd13': 2.57079, 'd23': 1.5442},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8975,9 +8975,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28334, 'd13': 2.52814, 'd23': 1.27133},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8986,9 +8986,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30384, 'd13': 2.48474, 'd23': 1.23424},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -8997,9 +8997,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06982, 'd13': 2.39795, 'd23': 1.36481},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9008,9 +9008,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1418, 'd13': 2.70928, 'd23': 1.59328},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9019,9 +9019,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.41954, 'd13': 2.51709, 'd23': 1.10655},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9030,9 +9030,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08163, 'd13': 2.39802, 'd23': 1.34195},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9041,9 +9041,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27598, 'd13': 2.50681, 'd23': 1.23866},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9052,9 +9052,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.3541, 'd13': 2.51345, 'd23': 1.16451},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9063,9 +9063,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29011, 'd13': 2.29229, 'd23': 1.00528},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9074,9 +9074,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24053, 'd13': 2.73086, 'd23': 1.51859},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9085,9 +9085,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.18669, 'd13': 2.54893, 'd23': 1.3831},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9096,9 +9096,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35371, 'd13': 2.50879, 'd23': 1.1654},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9107,9 +9107,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.21392, 'd13': 2.53079, 'd23': 1.32343},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9118,9 +9118,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30943, 'd13': 2.75289, 'd23': 1.49264},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9129,9 +9129,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.44235, 'd13': 2.71438, 'd23': 1.29321},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9140,9 +9140,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.23608, 'd13': 2.5064, 'd23': 1.27628},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9151,9 +9151,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.28844, 'd13': 2.68745, 'd23': 1.40476},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9162,9 +9162,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.18, 'd13': 2.5, 'd23': 1.33485},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9173,9 +9173,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27303, 'd13': 2.54642, 'd23': 1.29371},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9184,9 +9184,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31598, 'd13': 2.51976, 'd23': 1.20809},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9195,9 +9195,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14635, 'd13': 2.28948, 'd23': 1.17143},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9206,9 +9206,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.24069, 'd13': 2.49865, 'd23': 1.27477},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9217,9 +9217,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35299, 'd13': 2.5134, 'd23': 1.16839},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9228,9 +9228,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.15241, 'd13': 2.6084, 'd23': 1.49733},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9239,9 +9239,9 @@ entry(
     degeneracy = 12,
     distances = DistanceData(
         distances = {'d12': 1.47337, 'd13': 2.59445, 'd23': 1.13083},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9250,9 +9250,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.01377, 'd13': 2.12282, 'd23': 1.1112},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9261,9 +9261,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30699, 'd13': 2.70891, 'd23': 1.40356},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9272,9 +9272,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28942, 'd13': 2.49994, 'd23': 1.25406},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9283,9 +9283,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.3866, 'd13': 2.5178, 'd23': 1.13447},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9294,9 +9294,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.33512, 'd13': 2.50583, 'd23': 1.17787},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9305,9 +9305,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.40347, 'd13': 2.70052, 'd23': 1.30151},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9316,9 +9316,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.16891, 'd13': 2.50908, 'd23': 1.38139},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9327,9 +9327,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14147, 'd13': 2.71181, 'd23': 1.66205},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9338,9 +9338,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30021, 'd13': 2.52497, 'd23': 1.24556},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9349,9 +9349,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.53092, 'd13': 2.52428, 'd23': 1.01808},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9360,9 +9360,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26669, 'd13': 2.54523, 'd23': 1.29047},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9371,9 +9371,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.27385, 'd13': 2.50444, 'd23': 1.2335},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9382,9 +9382,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23461, 'd13': 2.09844, 'd23': 0.873731},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9393,9 +9393,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07916, 'd13': 2.39776, 'd23': 1.34808},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9404,9 +9404,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.34651, 'd13': 2.66961, 'd23': 1.3747},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9415,9 +9415,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.45775, 'd13': 2.69872, 'd23': 1.28637},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9426,9 +9426,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.36764, 'd13': 2.28068, 'd23': 0.914925},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9437,9 +9437,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2316, 'd13': 2.52848, 'd23': 1.33458},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9448,9 +9448,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.1573, 'd13': 2.60218, 'd23': 1.46249},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9459,9 +9459,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29371, 'd13': 2.50005, 'd23': 1.24853},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9470,9 +9470,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.17582, 'd13': 2.53679, 'd23': 1.39936},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9481,9 +9481,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.29094, 'd13': 2.26985, 'd23': 0.979885},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9492,9 +9492,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30091, 'd13': 2.49294, 'd23': 1.19234},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9503,9 +9503,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24343, 'd13': 2.71571, 'd23': 1.50701},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9514,9 +9514,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.31538, 'd13': 2.52809, 'd23': 1.22268},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9525,9 +9525,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30443, 'd13': 2.5108, 'd23': 1.23368},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9536,9 +9536,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.35653, 'd13': 2.50658, 'd23': 1.16486},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9547,9 +9547,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36863, 'd13': 2.68492, 'd23': 1.34196},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9558,9 +9558,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33303, 'd13': 2.71608, 'd23': 1.39269},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9569,9 +9569,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.05935, 'd13': 2.25049, 'd23': 1.2879},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9580,9 +9580,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32838, 'd13': 2.51268, 'd23': 1.19173},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9591,9 +9591,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09689, 'd13': 2.38639, 'd23': 1.31348},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9602,9 +9602,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23653, 'd13': 2.48666, 'd23': 1.2577},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9613,9 +9613,9 @@ entry(
     degeneracy = 8,
     distances = DistanceData(
         distances = {'d12': 1.49718, 'd13': 2.59555, 'd23': 1.10499},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9624,9 +9624,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.43393, 'd13': 2.52118, 'd23': 1.10082},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9635,9 +9635,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29195, 'd13': 2.71242, 'd23': 1.42299},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9646,9 +9646,9 @@ entry(
     degeneracy = 24,
     distances = DistanceData(
         distances = {'d12': 1.56523, 'd13': 2.62937, 'd23': 1.07258},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9657,9 +9657,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27488, 'd13': 2.56453, 'd23': 1.2996},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9668,9 +9668,9 @@ entry(
     degeneracy = 8,
     distances = DistanceData(
         distances = {'d12': 1.51982, 'd13': 2.59323, 'd23': 1.09198},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9679,9 +9679,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.21797, 'd13': 2.51933, 'd23': 1.3229},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9690,9 +9690,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08804, 'd13': 2.39271, 'd23': 1.32566},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9701,9 +9701,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08662, 'd13': 2.39019, 'd23': 1.33126},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9712,9 +9712,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16596, 'd13': 2.64965, 'd23': 1.50715},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9723,9 +9723,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35591, 'd13': 2.51335, 'd23': 1.16563},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9734,9 +9734,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29639, 'd13': 2.52141, 'd23': 1.2395},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9745,9 +9745,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.33024, 'd13': 2.27562, 'd23': 0.948716},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9756,9 +9756,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17461, 'd13': 2.52139, 'd23': 1.37148},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9767,9 +9767,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26562, 'd13': 2.76196, 'd23': 1.49667},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9778,9 +9778,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.15969, 'd13': 2.49905, 'd23': 1.34925},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9789,9 +9789,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.19713, 'd13': 2.5725, 'd23': 1.37566},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9800,9 +9800,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.27536, 'd13': 2.69577, 'd23': 1.42046},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9811,9 +9811,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11453, 'd13': 2.38294, 'd23': 1.27129},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9822,9 +9822,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.11981, 'd13': 2.34343, 'd23': 1.23747},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9833,9 +9833,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.3681, 'd13': 2.48218, 'd23': 1.15881},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9844,9 +9844,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.45646, 'd13': 2.58815, 'd23': 1.13405},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9855,9 +9855,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29818, 'd13': 2.51782, 'd23': 1.23171},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9866,9 +9866,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30122, 'd13': 2.69076, 'd23': 1.39149},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9877,9 +9877,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31808, 'd13': 2.51986, 'd23': 1.20664},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9888,9 +9888,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2712, 'd13': 2.34445, 'd23': 1.08808},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9899,9 +9899,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27819, 'd13': 2.54622, 'd23': 1.28485},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9910,9 +9910,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.43988, 'd13': 2.58202, 'd23': 1.15541},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9921,9 +9921,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26491, 'd13': 2.756, 'd23': 1.4911},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9932,9 +9932,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20753, 'd13': 2.46728, 'd23': 1.30303},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9943,9 +9943,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.16134, 'd13': 2.58315, 'd23': 1.42809},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9954,9 +9954,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33781, 'd13': 2.54336, 'd23': 1.21096},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9965,9 +9965,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.19907, 'd13': 2.47989, 'd23': 1.30518},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9976,9 +9976,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.3541, 'd13': 2.51405, 'd23': 1.1675},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9987,9 +9987,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.15273, 'd13': 2.62763, 'd23': 1.48312},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -9998,9 +9998,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 0.807698, 'd13': 2.1649, 'd23': 1.37764},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10009,9 +10009,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09316, 'd13': 2.39726, 'd23': 1.32075},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10020,9 +10020,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30157, 'd13': 2.68434, 'd23': 1.3878},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10031,9 +10031,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.23628, 'd13': 2.29327, 'd23': 1.05863},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10042,9 +10042,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.0094, 'd13': 2.12211, 'd23': 1.11523},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10053,9 +10053,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1779, 'd13': 2.65104, 'd23': 1.47913},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10064,9 +10064,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.34409, 'd13': 2.51431, 'd23': 1.17458},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10075,9 +10075,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.18618, 'd13': 2.33512, 'd23': 1.16952},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10086,9 +10086,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27322, 'd13': 2.70814, 'd23': 1.44002},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10097,9 +10097,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.4872, 'd13': 2.58069, 'd23': 1.1193},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10108,9 +10108,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28079, 'd13': 2.53443, 'd23': 1.27641},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10119,9 +10119,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30994, 'd13': 2.52181, 'd23': 1.22256},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10130,9 +10130,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2188, 'd13': 2.53735, 'd23': 1.32031},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10141,9 +10141,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.26249, 'd13': 2.68204, 'd23': 1.43174},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10152,9 +10152,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.3582, 'd13': 2.27817, 'd23': 0.923499},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10163,9 +10163,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.14999, 'd13': 2.68023, 'd23': 1.576},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10174,9 +10174,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31734, 'd13': 2.5013, 'd23': 1.21935},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10185,9 +10185,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.31021, 'd13': 2.67991, 'd23': 1.37275},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10196,9 +10196,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15584, 'd13': 2.27115, 'd23': 1.15614},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10207,9 +10207,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.18767, 'd13': 2.51643, 'd23': 1.36939},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10218,9 +10218,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15497, 'd13': 2.66467, 'd23': 1.5552},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10229,9 +10229,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14744, 'd13': 2.27419, 'd23': 1.16826},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10240,9 +10240,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.35041, 'd13': 2.51022, 'd23': 1.17148},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10251,9 +10251,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.29704, 'd13': 2.51931, 'd23': 1.2412},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10262,9 +10262,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20087, 'd13': 2.6059, 'd23': 1.40977},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10273,9 +10273,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.41804, 'd13': 2.45523, 'd23': 1.04166},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10284,9 +10284,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.16014, 'd13': 2.59174, 'd23': 1.45826},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10295,9 +10295,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.15004, 'd13': 2.33173, 'd23': 1.21074},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10306,9 +10306,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29485, 'd13': 2.55209, 'd23': 1.26097},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10317,9 +10317,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.33507, 'd13': 2.50829, 'd23': 1.18093},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10328,9 +10328,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09299, 'd13': 2.39945, 'd23': 1.32444},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10339,9 +10339,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 0.92189, 'd13': 2.10094, 'd23': 1.17905},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10350,9 +10350,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.48842, 'd13': 2.71449, 'd23': 1.22826},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10361,9 +10361,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29035, 'd13': 2.74376, 'd23': 1.46332},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10372,9 +10372,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.34299, 'd13': 2.50971, 'd23': 1.1709},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10383,9 +10383,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.27588, 'd13': 2.69414, 'd23': 1.41879},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10394,9 +10394,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25856, 'd13': 2.34255, 'd23': 1.08536},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10405,9 +10405,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30581, 'd13': 2.52855, 'd23': 1.22796},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10416,9 +10416,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.44221, 'd13': 2.57829, 'd23': 1.1508},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10427,9 +10427,9 @@ entry(
     degeneracy = 12,
     distances = DistanceData(
         distances = {'d12': 1.56939, 'd13': 2.63396, 'd23': 1.07319},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10438,9 +10438,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.45833, 'd13': 2.73469, 'd23': 1.28557},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10449,9 +10449,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29404, 'd13': 2.51707, 'd23': 1.23489},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10460,9 +10460,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.23884, 'd13': 2.50371, 'd23': 1.2752},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10471,9 +10471,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.40657, 'd13': 2.71161, 'd23': 1.31901},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10482,9 +10482,9 @@ entry(
     degeneracy = 8,
     distances = DistanceData(
         distances = {'d12': 1.42347, 'd13': 2.58592, 'd23': 1.16932},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10493,9 +10493,9 @@ entry(
     degeneracy = 8,
     distances = DistanceData(
         distances = {'d12': 1.4607, 'd13': 2.57921, 'd23': 1.14076},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10504,9 +10504,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.34035, 'd13': 2.50849, 'd23': 1.18081},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10515,9 +10515,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26001, 'd13': 2.34131, 'd23': 1.08253},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10526,9 +10526,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.46101, 'd13': 2.70699, 'd23': 1.27771},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10537,9 +10537,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.32293, 'd13': 2.50236, 'd23': 1.21507},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10548,9 +10548,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30049, 'd13': 2.77114, 'd23': 1.53619},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10559,9 +10559,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.01507, 'd13': 2.12622, 'd23': 1.11372},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10570,9 +10570,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28028, 'd13': 2.68985, 'd23': 1.41013},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10581,9 +10581,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.15474, 'd13': 2.60262, 'd23': 1.46972},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10592,9 +10592,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30442, 'd13': 2.36569, 'd23': 1.07889},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10603,9 +10603,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31119, 'd13': 2.52486, 'd23': 1.23022},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10614,9 +10614,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28698, 'd13': 2.68593, 'd23': 1.4028},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10625,9 +10625,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.22719, 'd13': 2.51447, 'd23': 1.32214},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10636,9 +10636,9 @@ entry(
     degeneracy = 8,
     distances = DistanceData(
         distances = {'d12': 1.46443, 'd13': 2.5474, 'd23': 1.13526},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10647,9 +10647,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31356, 'd13': 2.68542, 'd23': 1.37606},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10658,9 +10658,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29289, 'd13': 2.69841, 'd23': 1.40938},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10669,9 +10669,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.28628, 'd13': 2.51947, 'd23': 1.25001},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10680,9 +10680,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.42499, 'd13': 2.7033, 'd23': 1.28149},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10691,9 +10691,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32747, 'd13': 2.49557, 'd23': 1.19638},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10702,9 +10702,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14834, 'd13': 2.277, 'd23': 1.16713},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10713,9 +10713,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32319, 'd13': 2.78881, 'd23': 1.5043},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10724,9 +10724,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.33721, 'd13': 2.50867, 'd23': 1.17762},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10735,9 +10735,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.23128, 'd13': 2.71312, 'd23': 1.48534},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10746,9 +10746,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35347, 'd13': 2.69186, 'd23': 1.34414},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10757,9 +10757,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.31843, 'd13': 2.4989, 'd23': 1.1965},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10768,9 +10768,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.20961, 'd13': 2.56404, 'd23': 1.37366},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10779,9 +10779,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32618, 'd13': 2.68386, 'd23': 1.36621},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10790,9 +10790,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25934, 'd13': 2.53339, 'd23': 1.29984},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10801,9 +10801,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2532, 'd13': 2.33626, 'd23': 1.09323},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10812,9 +10812,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31177, 'd13': 2.50853, 'd23': 1.22092},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10823,9 +10823,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.33699, 'd13': 2.50353, 'd23': 1.17532},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10834,9 +10834,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16853, 'd13': 2.54799, 'd23': 1.42135},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10845,9 +10845,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.31862, 'd13': 2.68991, 'd23': 1.37138},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10856,9 +10856,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30366, 'd13': 2.51695, 'd23': 1.21951},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10867,9 +10867,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31316, 'd13': 2.51893, 'd23': 1.21},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10878,9 +10878,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.35868, 'd13': 2.68265, 'd23': 1.3254},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10889,9 +10889,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2898, 'd13': 2.49358, 'd23': 1.25582},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10900,9 +10900,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.34796, 'd13': 2.27277, 'd23': 0.927414},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10911,9 +10911,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38903, 'd13': 2.54948, 'd23': 1.19109},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10922,9 +10922,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09478, 'd13': 2.38515, 'd23': 1.30961},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10933,9 +10933,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23452, 'd13': 2.49263, 'd23': 1.26191},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10944,9 +10944,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.24767, 'd13': 2.72231, 'd23': 1.47621},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10955,9 +10955,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.38889, 'd13': 2.51779, 'd23': 1.13136},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10966,9 +10966,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.42183, 'd13': 2.52073, 'd23': 1.10343},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10977,9 +10977,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08253, 'd13': 2.39825, 'd23': 1.33858},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10988,9 +10988,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.35958, 'd13': 2.67448, 'd23': 1.34207},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -10999,9 +10999,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.20425, 'd13': 2.34294, 'd23': 1.15258},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11010,9 +11010,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09861, 'd13': 2.38361, 'd23': 1.31318},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11021,9 +11021,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.42858, 'd13': 2.52254, 'd23': 1.09946},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11032,9 +11032,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.21031, 'd13': 2.53403, 'd23': 1.32771},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11043,9 +11043,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23289, 'd13': 2.50133, 'd23': 1.26869},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11054,9 +11054,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.32679, 'd13': 2.50796, 'd23': 1.18459},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11065,9 +11065,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.29509, 'd13': 2.52782, 'd23': 1.2424},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11076,9 +11076,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1333, 'd13': 2.56875, 'd23': 1.45957},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11087,9 +11087,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25399, 'd13': 2.55695, 'd23': 1.31084},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11098,9 +11098,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35857, 'd13': 2.50237, 'd23': 1.16418},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11109,9 +11109,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37613, 'd13': 2.64885, 'd23': 1.37211},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11120,9 +11120,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31453, 'd13': 2.27258, 'd23': 0.959029},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11131,9 +11131,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.12485, 'd13': 2.11366, 'd23': 0.990426},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11142,9 +11142,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.43033, 'd13': 2.52035, 'd23': 1.10226},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11153,9 +11153,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.20766, 'd13': 2.53137, 'd23': 1.35113},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11164,9 +11164,9 @@ entry(
     degeneracy = 24,
     distances = DistanceData(
         distances = {'d12': 1.56293, 'd13': 2.62871, 'd23': 1.07171},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11175,9 +11175,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32793, 'd13': 2.51516, 'd23': 1.19611},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11186,9 +11186,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.3196, 'd13': 2.27444, 'd23': 0.955954},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11197,9 +11197,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.22174, 'd13': 2.55472, 'd23': 1.33586},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11208,9 +11208,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.19038, 'd13': 2.54452, 'd23': 1.38028},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11219,9 +11219,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.28061, 'd13': 2.27952, 'd23': 0.999636},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11230,9 +11230,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26556, 'd13': 2.75661, 'd23': 1.4922},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11241,9 +11241,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36693, 'd13': 2.5231, 'd23': 1.16193},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11252,9 +11252,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.44285, 'd13': 2.71311, 'd23': 1.29657},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11263,9 +11263,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15086, 'd13': 2.29068, 'd23': 1.16584},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11274,9 +11274,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31835, 'd13': 2.50626, 'd23': 1.217},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11285,9 +11285,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.0531, 'd13': 2.26007, 'd23': 1.30501},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11296,9 +11296,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.01887, 'd13': 2.12665, 'd23': 1.11024},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11307,9 +11307,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.28796, 'd13': 2.71002, 'd23': 1.42664},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11318,9 +11318,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33784, 'd13': 2.53654, 'd23': 1.21541},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11329,9 +11329,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.31635, 'd13': 2.68392, 'd23': 1.36984},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11340,9 +11340,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.16518, 'd13': 2.56858, 'd23': 1.40966},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11351,9 +11351,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26178, 'd13': 2.71756, 'd23': 1.45758},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11362,9 +11362,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29954, 'd13': 2.80022, 'd23': 1.53781},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11373,9 +11373,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23941, 'd13': 2.10034, 'd23': 0.871113},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11384,9 +11384,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.23272, 'd13': 2.50718, 'd23': 1.28306},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11395,9 +11395,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.27533, 'd13': 2.70679, 'd23': 1.4364},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11406,9 +11406,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28322, 'd13': 2.51574, 'd23': 1.25905},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11417,9 +11417,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.07618, 'd13': 2.29397, 'd23': 1.2313},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11428,9 +11428,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.01659, 'd13': 2.12599, 'd23': 1.11184},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11439,9 +11439,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.14536, 'd13': 2.58588, 'd23': 1.54892},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11450,9 +11450,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25555, 'd13': 2.3373, 'd23': 1.09068},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11461,9 +11461,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.42265, 'd13': 2.5205, 'd23': 1.1023},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11472,9 +11472,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41975, 'd13': 2.69707, 'd23': 1.30847},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11483,9 +11483,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.39835, 'd13': 2.44543, 'd23': 1.05098},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11494,9 +11494,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.33398, 'd13': 2.49864, 'd23': 1.16508},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11505,9 +11505,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.275, 'd13': 2.53349, 'd23': 1.26865},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11516,9 +11516,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32043, 'd13': 2.50781, 'd23': 1.19276},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11527,9 +11527,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17745, 'd13': 2.58542, 'd23': 1.44159},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11538,9 +11538,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.18098, 'd13': 2.5758, 'd23': 1.41822},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11549,9 +11549,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.23553, 'd13': 2.52962, 'd23': 1.29447},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11560,9 +11560,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25521, 'd13': 2.76963, 'd23': 1.59859},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11571,9 +11571,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.31281, 'd13': 2.49718, 'd23': 1.1999},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11582,9 +11582,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30467, 'd13': 2.36666, 'd23': 1.07908},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11593,9 +11593,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.25312, 'd13': 2.70359, 'd23': 1.45734},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11604,9 +11604,9 @@ entry(
     degeneracy = 8,
     distances = DistanceData(
         distances = {'d12': 1.55451, 'd13': 2.62386, 'd23': 1.0781},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11615,9 +11615,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35624, 'd13': 2.51552, 'd23': 1.16547},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11626,9 +11626,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.2311, 'd13': 2.37794, 'd23': 1.22474},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11637,9 +11637,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30919, 'd13': 2.51817, 'd23': 1.2345},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11648,9 +11648,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.30122, 'd13': 2.69497, 'd23': 1.40539},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11659,9 +11659,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34471, 'd13': 2.50751, 'd23': 1.17531},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11670,9 +11670,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28943, 'd13': 2.50866, 'd23': 1.22674},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11681,9 +11681,9 @@ entry(
     degeneracy = 9,
     distances = DistanceData(
         distances = {'d12': 1.24162, 'd13': 2.48699, 'd23': 1.27844},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11692,9 +11692,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.34574, 'd13': 2.5146, 'd23': 1.17304},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11703,9 +11703,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14246, 'd13': 2.70542, 'd23': 1.60456},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11714,9 +11714,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.43974, 'd13': 2.68758, 'd23': 1.2988},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11725,9 +11725,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.33093, 'd13': 2.67937, 'd23': 1.35734},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11736,9 +11736,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.43116, 'd13': 2.5206, 'd23': 1.10229},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11747,9 +11747,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.19721, 'd13': 2.49413, 'd23': 1.31847},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11758,9 +11758,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26481, 'd13': 2.3015, 'd23': 1.03721},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11769,9 +11769,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30778, 'd13': 2.53141, 'd23': 1.23379},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11780,9 +11780,9 @@ entry(
     degeneracy = 4,
     distances = DistanceData(
         distances = {'d12': 1.49017, 'd13': 2.58521, 'd23': 1.11615},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11791,9 +11791,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.34355, 'd13': 2.5146, 'd23': 1.17545},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11802,9 +11802,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.33772, 'd13': 2.50585, 'd23': 1.17041},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11813,9 +11813,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.01814, 'd13': 2.12652, 'd23': 1.1112},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11824,9 +11824,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.31116, 'd13': 2.5306, 'd23': 1.22667},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11835,9 +11835,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15505, 'd13': 2.27108, 'd23': 1.15614},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11846,9 +11846,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.01, 'd13': 2.28365, 'd23': 1.27366},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11857,9 +11857,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.40298, 'd13': 2.69513, 'd23': 1.33397},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11868,9 +11868,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29053, 'd13': 2.51353, 'd23': 1.25917},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11879,9 +11879,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3103, 'd13': 2.68782, 'd23': 1.37992},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11890,9 +11890,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.22544, 'd13': 2.34678, 'd23': 1.13778},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11901,9 +11901,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.32723, 'd13': 2.51244, 'd23': 1.19313},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11912,9 +11912,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26009, 'd13': 2.34634, 'd23': 1.08886},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11923,9 +11923,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.05442, 'd13': 2.26832, 'd23': 1.30825},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11934,9 +11934,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.15016, 'd13': 2.61205, 'd23': 1.46456},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11945,9 +11945,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.33355, 'd13': 2.49963, 'd23': 1.17555},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11956,9 +11956,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.35487, 'd13': 2.51702, 'd23': 1.17011},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11967,9 +11967,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.04679, 'd13': 2.44697, 'd23': 1.43493},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11978,9 +11978,9 @@ entry(
     degeneracy = 6,
     distances = DistanceData(
         distances = {'d12': 1.37155, 'd13': 2.5199, 'd23': 1.15243},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -11989,9 +11989,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.45036, 'd13': 2.31149, 'd23': 0.862239},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12000,9 +12000,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26095, 'd13': 2.34415, 'd23': 1.08576},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12011,9 +12011,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 0.872791, 'd13': 2.10379, 'd23': 1.24251},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12022,9 +12022,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.30736, 'd13': 2.4836, 'd23': 1.2125},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12033,9 +12033,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.19506, 'd13': 2.53818, 'd23': 1.37365},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12044,9 +12044,9 @@ entry(
     degeneracy = 12,
     distances = DistanceData(
         distances = {'d12': 1.46469, 'd13': 2.59083, 'd23': 1.13646},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12055,9 +12055,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19173, 'd13': 2.55342, 'd23': 1.38655},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12066,9 +12066,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.28274, 'd13': 2.29319, 'd23': 1.01097},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12077,9 +12077,9 @@ entry(
     degeneracy = 2,
     distances = DistanceData(
         distances = {'d12': 1.01924, 'd13': 2.12727, 'd23': 1.11053},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12088,9 +12088,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23976, 'd13': 2.10337, 'd23': 0.871292},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12099,9 +12099,9 @@ entry(
     degeneracy = 3,
     distances = DistanceData(
         distances = {'d12': 1.18033, 'd13': 2.54266, 'd23': 1.38461},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12110,9 +12110,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19081, 'd13': 2.5513, 'd23': 1.36525},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12121,9 +12121,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25358, 'd13': 2.56839, 'd23': 1.32625},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12132,9 +12132,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26267, 'd13': 2.51893, 'd23': 1.25816},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12143,9 +12143,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28127, 'd13': 2.50912, 'd23': 1.25734},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12154,9 +12154,9 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40266, 'd13': 2.55191, 'd23': 1.1911},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
-    shortDesc = u"""M06-2X/6-311+G(2df,2p) calculation via group additive TS generator.""",
+    shortDesc = u"""M06-2X/MG3S calculation via group additive TS generator.""",
 )
 
 entry(
@@ -12165,7 +12165,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.964372, 'd13': 2.25818, 'd23': 1.29429},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 1""",
@@ -12177,7 +12177,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39444, 'd13': 2.53998, 'd23': 1.16089},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 2""",
@@ -12189,7 +12189,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38856, 'd13': 2.52734, 'd23': 1.16829},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 3""",
@@ -12201,7 +12201,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4872, 'd13': 2.58514, 'd23': 1.11714},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 4""",
@@ -12213,7 +12213,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.70887, 'd13': 2.71755, 'd23': 1.02548},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 5""",
@@ -12225,7 +12225,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43871, 'd13': 2.30267, 'd23': 0.863963},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 6""",
@@ -12237,7 +12237,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29764, 'd13': 2.48234, 'd23': 1.20143},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 7""",
@@ -12249,7 +12249,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41939, 'd13': 2.51218, 'd23': 1.10118},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 8""",
@@ -12261,7 +12261,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46367, 'd13': 2.69952, 'd23': 1.24081},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 9""",
@@ -12273,7 +12273,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43987, 'd13': 2.6721, 'd23': 1.23949},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 10""",
@@ -12285,7 +12285,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43316, 'd13': 2.66223, 'd23': 1.23879},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 11""",
@@ -12297,7 +12297,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29485, 'd13': 2.51432, 'd23': 1.23782},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 12""",
@@ -12309,7 +12309,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49307, 'd13': 2.71466, 'd23': 1.22823},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 13""",
@@ -12321,7 +12321,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40599, 'd13': 2.57332, 'd23': 1.17506},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 14""",
@@ -12333,7 +12333,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44974, 'd13': 2.5876, 'd23': 1.14303},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 15""",
@@ -12345,7 +12345,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.04792, 'd13': 2.28501, 'd23': 1.24169},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 16""",
@@ -12357,7 +12357,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2818, 'd13': 2.51752, 'd23': 1.26321},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 17""",
@@ -12369,7 +12369,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42929, 'd13': 2.71084, 'd23': 1.28937},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 18""",
@@ -12381,7 +12381,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42317, 'd13': 2.6899, 'd23': 1.27631},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 19""",
@@ -12393,7 +12393,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39168, 'd13': 2.67292, 'd23': 1.28653},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 20""",
@@ -12405,7 +12405,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39143, 'd13': 2.68772, 'd23': 1.31802},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 21""",
@@ -12417,7 +12417,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11664, 'd13': 2.33131, 'd23': 1.21509},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 22""",
@@ -12429,7 +12429,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5609, 'd13': 2.6537, 'd23': 1.14278},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 23""",
@@ -12441,7 +12441,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30413, 'd13': 2.53945, 'd23': 1.25253},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 24""",
@@ -12453,7 +12453,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45419, 'd13': 2.71853, 'd23': 1.27154},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 25""",
@@ -12465,7 +12465,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45239, 'd13': 2.71157, 'd23': 1.26587},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 26""",
@@ -12477,7 +12477,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41583, 'd13': 2.28904, 'd23': 0.875435},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 27""",
@@ -12489,7 +12489,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30794, 'd13': 2.48347, 'd23': 1.19826},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 28""",
@@ -12501,7 +12501,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.64481, 'd13': 2.65148, 'd23': 1.03948},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 29""",
@@ -12513,7 +12513,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40308, 'd13': 2.50659, 'd23': 1.1138},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 30""",
@@ -12525,7 +12525,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33973, 'd13': 2.64253, 'd23': 1.31116},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 31""",
@@ -12537,7 +12537,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51519, 'd13': 2.7132, 'd23': 1.22123},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 32""",
@@ -12549,7 +12549,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50467, 'd13': 2.71729, 'd23': 1.21775},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 33""",
@@ -12561,7 +12561,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.56363, 'd13': 2.75678, 'd23': 1.2049},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 34""",
@@ -12573,7 +12573,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38273, 'd13': 2.68461, 'd23': 1.30549},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 35""",
@@ -12585,7 +12585,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42468, 'd13': 2.66446, 'd23': 1.25087},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 36""",
@@ -12597,7 +12597,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38408, 'd13': 2.70098, 'd23': 1.31908},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 37""",
@@ -12609,7 +12609,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.64103, 'd13': 2.77186, 'd23': 1.13377},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 38""",
@@ -12621,7 +12621,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.81579, 'd13': 2.80635, 'd23': 1.12895},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 39""",
@@ -12633,7 +12633,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.92436, 'd13': 2.92561, 'd23': 1.11842},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 40""",
@@ -12645,7 +12645,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.63784, 'd13': 2.74708, 'd23': 1.1357},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 41""",
@@ -12657,7 +12657,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.69229, 'd13': 2.70779, 'd23': 1.03032},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 42""",
@@ -12669,7 +12669,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40439, 'd13': 2.50817, 'd23': 1.11246},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 43""",
@@ -12681,7 +12681,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3329, 'd13': 2.64119, 'd23': 1.31533},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 44""",
@@ -12693,7 +12693,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.52719, 'd13': 2.73396, 'd23': 1.21725},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 45""",
@@ -12705,7 +12705,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.55054, 'd13': 2.75365, 'd23': 1.21065},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 46""",
@@ -12717,7 +12717,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42807, 'd13': 2.68089, 'd23': 1.25311},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 47""",
@@ -12729,7 +12729,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.6608, 'd13': 2.782, 'd23': 1.13352},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 48""",
@@ -12741,7 +12741,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.64509, 'd13': 2.67214, 'd23': 1.04109},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 49""",
@@ -12753,7 +12753,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36766, 'd13': 2.50461, 'd23': 1.14267},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 50""",
@@ -12765,7 +12765,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37662, 'd13': 2.65879, 'd23': 1.28554},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 51""",
@@ -12777,7 +12777,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47766, 'd13': 2.70705, 'd23': 1.23787},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 52""",
@@ -12789,7 +12789,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.52564, 'd13': 2.72915, 'd23': 1.22146},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 53""",
@@ -12801,7 +12801,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39444, 'd13': 2.66332, 'd23': 1.27301},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 54""",
@@ -12813,7 +12813,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.89387, 'd13': 2.28754, 'd23': 1.39367},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 55""",
@@ -12825,7 +12825,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34972, 'd13': 2.53015, 'd23': 1.18721},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 56""",
@@ -12837,7 +12837,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.57678, 'd13': 2.63067, 'd23': 1.06293},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 57""",
@@ -12849,7 +12849,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37511, 'd13': 2.66748, 'd23': 1.2924},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 58""",
@@ -12861,7 +12861,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51722, 'd13': 2.74275, 'd23': 1.22886},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 59""",
@@ -12873,7 +12873,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33927, 'd13': 2.50779, 'd23': 1.17376},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 60""",
@@ -12885,7 +12885,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49143, 'd13': 2.7249, 'd23': 1.24581},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 61""",
@@ -12897,7 +12897,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36677, 'd13': 2.66791, 'd23': 1.30866},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 62""",
@@ -12909,7 +12909,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31076, 'd13': 2.50733, 'd23': 1.20167},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 63""",
@@ -12921,7 +12921,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43905, 'd13': 2.70403, 'd23': 1.27756},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 64""",
@@ -12933,7 +12933,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41101, 'd13': 2.6921, 'd23': 1.28593},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 65""",
@@ -12945,7 +12945,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33751, 'd13': 2.66142, 'd23': 1.33117},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 66""",
@@ -12957,7 +12957,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.83964, 'd13': 2.84485, 'd23': 1.12062},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 67""",
@@ -12969,7 +12969,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48294, 'd13': 2.72057, 'd23': 1.238},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 68""",
@@ -12981,7 +12981,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4568, 'd13': 2.70702, 'd23': 1.25432},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 69""",
@@ -12993,7 +12993,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33047, 'd13': 2.63625, 'd23': 1.32017},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 70""",
@@ -13005,7 +13005,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36116, 'd13': 2.65083, 'd23': 1.3004},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 71""",
@@ -13017,7 +13017,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47886, 'd13': 2.70715, 'd23': 1.23665},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 72""",
@@ -13029,7 +13029,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36623, 'd13': 2.64922, 'd23': 1.29405},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 73""",
@@ -13041,7 +13041,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40726, 'd13': 2.67949, 'd23': 1.27435},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 74""",
@@ -13053,7 +13053,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37471, 'd13': 2.6748, 'd23': 1.30736},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 75""",
@@ -13065,7 +13065,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40177, 'd13': 2.69039, 'd23': 1.2989},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 76""",
@@ -13077,7 +13077,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40281, 'd13': 2.68031, 'd23': 1.27912},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 77""",
@@ -13089,7 +13089,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4322, 'd13': 2.68364, 'd23': 1.25852},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 78""",
@@ -13101,7 +13101,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51572, 'd13': 2.58042, 'd23': 1.08374},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 79""",
@@ -13113,7 +13113,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28541, 'd13': 2.37828, 'd23': 1.20894},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 80""",
@@ -13125,7 +13125,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36667, 'd13': 2.43193, 'd23': 1.13828},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 81""",
@@ -13137,7 +13137,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46309, 'd13': 2.67111, 'd23': 1.21615},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 82""",
@@ -13149,7 +13149,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5019, 'd13': 2.68918, 'd23': 1.20339},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 83""",
@@ -13161,7 +13161,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.56813, 'd13': 2.72322, 'd23': 1.19207},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 84""",
@@ -13173,7 +13173,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.54305, 'd13': 2.70826, 'd23': 1.19879},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 85""",
@@ -13185,7 +13185,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32292, 'd13': 2.62821, 'd23': 1.30622},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 86""",
@@ -13197,7 +13197,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37254, 'd13': 2.63862, 'd23': 1.26828},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 87""",
@@ -13209,7 +13209,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4223, 'd13': 2.64379, 'd23': 1.23012},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 88""",
@@ -13221,7 +13221,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46132, 'd13': 2.52224, 'd23': 1.13702},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 89""",
@@ -13233,7 +13233,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34343, 'd13': 2.70046, 'd23': 1.38352},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 90""",
@@ -13245,7 +13245,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44639, 'd13': 2.71347, 'd23': 1.28896},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 91""",
@@ -13257,7 +13257,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26913, 'd13': 2.50503, 'd23': 1.27438},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 92""",
@@ -13269,7 +13269,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39946, 'd13': 2.69203, 'd23': 1.31001},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 93""",
@@ -13281,7 +13281,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51853, 'd13': 2.7239, 'd23': 1.23244},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 94""",
@@ -13293,7 +13293,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3732, 'd13': 2.69115, 'd23': 1.35064},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 95""",
@@ -13305,7 +13305,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43643, 'd13': 2.70729, 'd23': 1.31218},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 96""",
@@ -13317,7 +13317,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41139, 'd13': 2.71528, 'd23': 1.32975},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 97""",
@@ -13329,7 +13329,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47526, 'd13': 2.72997, 'd23': 1.26216},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 98""",
@@ -13341,7 +13341,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47729, 'd13': 2.74286, 'd23': 1.2668},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 99""",
@@ -13353,7 +13353,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41644, 'd13': 2.69363, 'd23': 1.31562},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 100""",
@@ -13365,7 +13365,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48263, 'd13': 2.54708, 'd23': 1.12284},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 101""",
@@ -13377,7 +13377,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50472, 'd13': 2.57058, 'd23': 1.15063},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 102""",
@@ -13389,7 +13389,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45716, 'd13': 2.68233, 'd23': 1.25056},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 103""",
@@ -13401,7 +13401,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39238, 'd13': 2.67219, 'd23': 1.32359},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 104""",
@@ -13413,7 +13413,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40064, 'd13': 2.68538, 'd23': 1.31014},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 105""",
@@ -13425,7 +13425,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46371, 'd13': 2.70354, 'd23': 1.27727},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 106""",
@@ -13437,7 +13437,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43159, 'd13': 2.69787, 'd23': 1.3068},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 107""",
@@ -13449,7 +13449,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44012, 'd13': 2.67317, 'd23': 1.26318},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 108""",
@@ -13461,7 +13461,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41572, 'd13': 2.67526, 'd23': 1.28156},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 109""",
@@ -13473,7 +13473,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41933, 'd13': 2.70078, 'd23': 1.28625},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 110""",
@@ -13485,7 +13485,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39091, 'd13': 2.68879, 'd23': 1.3141},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 111""",
@@ -13497,7 +13497,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36275, 'd13': 2.67914, 'd23': 1.34136},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 112""",
@@ -13509,7 +13509,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36244, 'd13': 2.65247, 'd23': 1.304},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 113""",
@@ -13521,7 +13521,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37462, 'd13': 2.2681, 'd23': 0.893488},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 114""",
@@ -13533,7 +13533,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.62095, 'd13': 2.65255, 'd23': 1.04106},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 115""",
@@ -13545,7 +13545,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51602, 'd13': 2.72728, 'd23': 1.21541},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 116""",
@@ -13557,7 +13557,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41049, 'd13': 2.6758, 'd23': 1.26532},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 117""",
@@ -13569,7 +13569,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.71577, 'd13': 2.83796, 'd23': 1.12253},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 118""",
@@ -13581,7 +13581,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18564, 'd13': 2.5001, 'd23': 1.31451},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 119""",
@@ -13593,7 +13593,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46401, 'd13': 2.54805, 'd23': 1.13544},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 120""",
@@ -13605,7 +13605,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23278, 'd13': 2.4907, 'd23': 1.28296},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 121""",
@@ -13617,7 +13617,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39273, 'd13': 2.56055, 'd23': 1.17282},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 122""",
@@ -13629,7 +13629,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30097, 'd13': 2.25495, 'd23': 1.05464},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 123""",
@@ -13641,7 +13641,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32482, 'd13': 2.50813, 'd23': 1.18908},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 124""",
@@ -13653,7 +13653,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26753, 'd13': 2.34208, 'd23': 1.0907},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 125""",
@@ -13665,7 +13665,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33628, 'd13': 2.67587, 'd23': 1.37417},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 126""",
@@ -13677,7 +13677,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38, 'd13': 2.66232, 'd23': 1.28916},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 127""",
@@ -13689,7 +13689,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32124, 'd13': 2.64429, 'd23': 1.37262},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 128""",
@@ -13701,7 +13701,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47985, 'd13': 2.68474, 'd23': 1.23639},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 129""",
@@ -13713,7 +13713,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42761, 'd13': 2.70662, 'd23': 1.28225},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 130""",
@@ -13725,7 +13725,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37945, 'd13': 2.68289, 'd23': 1.33156},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 131""",
@@ -13737,7 +13737,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34423, 'd13': 2.54626, 'd23': 1.20738},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 132""",
@@ -13749,7 +13749,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39458, 'd13': 2.69545, 'd23': 1.32327},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 133""",
@@ -13761,7 +13761,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50198, 'd13': 2.73677, 'd23': 1.23984},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 134""",
@@ -13773,7 +13773,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44872, 'd13': 2.69905, 'd23': 1.28502},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 135""",
@@ -13785,7 +13785,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47083, 'd13': 2.71417, 'd23': 1.25307},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 136""",
@@ -13797,7 +13797,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42257, 'd13': 2.69066, 'd23': 1.30437},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 137""",
@@ -13809,7 +13809,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46842, 'd13': 2.69949, 'd23': 1.24444},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 138""",
@@ -13821,7 +13821,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38892, 'd13': 2.66834, 'd23': 1.28245},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 139""",
@@ -13833,7 +13833,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2896, 'd13': 2.477, 'd23': 1.19204},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 140""",
@@ -13845,7 +13845,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43501, 'd13': 2.68027, 'd23': 1.26947},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 141""",
@@ -13857,7 +13857,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26004, 'd13': 2.48996, 'd23': 1.23172},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 142""",
@@ -13869,7 +13869,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35476, 'd13': 2.68227, 'd23': 1.33091},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 143""",
@@ -13881,7 +13881,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40708, 'd13': 2.69633, 'd23': 1.30452},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 144""",
@@ -13893,7 +13893,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38322, 'd13': 2.68341, 'd23': 1.3046},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 145""",
@@ -13905,7 +13905,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31493, 'd13': 2.53143, 'd23': 1.21874},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 146""",
@@ -13917,7 +13917,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25118, 'd13': 2.46055, 'd23': 1.22278},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 147""",
@@ -13929,7 +13929,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35141, 'd13': 2.65773, 'd23': 1.31744},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 148""",
@@ -13941,7 +13941,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.87771, 'd13': 2.78624, 'd23': 1.12539},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 149""",
@@ -13953,7 +13953,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50082, 'd13': 2.66425, 'd23': 1.19919},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 150""",
@@ -13965,7 +13965,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38457, 'd13': 2.63632, 'd23': 1.36},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 151""",
@@ -13977,7 +13977,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37526, 'd13': 2.66976, 'd23': 1.34617},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 152""",
@@ -13989,7 +13989,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41971, 'd13': 2.70294, 'd23': 1.28767},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 153""",
@@ -14001,7 +14001,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38278, 'd13': 2.54826, 'd23': 1.1862},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 154""",
@@ -14013,7 +14013,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.69997, 'd13': 2.81507, 'd23': 1.1331},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 155""",
@@ -14025,7 +14025,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36612, 'd13': 2.63108, 'd23': 1.26716},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 156""",
@@ -14037,7 +14037,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46034, 'd13': 2.72254, 'd23': 1.28021},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 157""",
@@ -14049,7 +14049,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39917, 'd13': 2.69753, 'd23': 1.30263},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 158""",
@@ -14061,7 +14061,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27793, 'd13': 2.41073, 'd23': 1.19687},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 159""",
@@ -14073,7 +14073,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38043, 'd13': 2.54285, 'd23': 1.19469},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 160""",
@@ -14085,7 +14085,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.988982, 'd13': 2.2699, 'd23': 1.2835},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 161""",
@@ -14097,7 +14097,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24337, 'd13': 2.509, 'd23': 1.26594},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 162""",
@@ -14109,7 +14109,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3371, 'd13': 2.67345, 'd23': 1.33898},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 163""",
@@ -14121,7 +14121,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41884, 'd13': 2.71053, 'd23': 1.29899},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 164""",
@@ -14133,7 +14133,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38198, 'd13': 2.69476, 'd23': 1.31509},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 165""",
@@ -14145,7 +14145,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35777, 'd13': 2.73419, 'd23': 1.38142},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 166""",
@@ -14157,7 +14157,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51077, 'd13': 2.71907, 'd23': 1.23815},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 167""",
@@ -14169,7 +14169,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48187, 'd13': 2.72247, 'd23': 1.26406},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 168""",
@@ -14181,7 +14181,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37596, 'd13': 2.67539, 'd23': 1.31358},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 169""",
@@ -14193,7 +14193,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36561, 'd13': 2.67719, 'd23': 1.34478},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 170""",
@@ -14205,7 +14205,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39001, 'd13': 2.64477, 'd23': 1.36326},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 171""",
@@ -14217,7 +14217,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41906, 'd13': 2.68723, 'd23': 1.28374},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 172""",
@@ -14229,7 +14229,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47522, 'd13': 2.73719, 'd23': 1.27669},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 173""",
@@ -14241,7 +14241,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28001, 'd13': 2.503, 'd23': 1.23891},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 174""",
@@ -14253,7 +14253,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41532, 'd13': 2.57286, 'd23': 1.18584},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 175""",
@@ -14265,7 +14265,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.62371, 'd13': 2.78509, 'd23': 1.17982},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 176""",
@@ -14277,7 +14277,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42279, 'd13': 2.72768, 'd23': 1.3191},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 177""",
@@ -14289,7 +14289,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.69131, 'd13': 2.82491, 'd23': 1.13807},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 178""",
@@ -14301,7 +14301,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41002, 'd13': 2.72822, 'd23': 1.32077},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 179""",
@@ -14313,7 +14313,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36251, 'd13': 2.63431, 'd23': 1.36017},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 180""",
@@ -14325,7 +14325,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.923854, 'd13': 2.27781, 'd23': 1.3556},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 181""",
@@ -14337,7 +14337,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42871, 'd13': 2.58129, 'd23': 1.16128},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 182""",
@@ -14349,7 +14349,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33003, 'd13': 2.502, 'd23': 1.18051},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 183""",
@@ -14361,7 +14361,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48928, 'd13': 2.72313, 'd23': 1.24657},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 184""",
@@ -14373,7 +14373,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36484, 'd13': 2.66293, 'd23': 1.30523},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 185""",
@@ -14385,7 +14385,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.77031, 'd13': 2.84901, 'd23': 1.12448},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 186""",
@@ -14397,7 +14397,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40632, 'd13': 2.67973, 'd23': 1.27848},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 187""",
@@ -14409,7 +14409,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40141, 'd13': 2.67322, 'd23': 1.2791},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 188""",
@@ -14421,7 +14421,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44276, 'd13': 2.71507, 'd23': 1.2938},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 189""",
@@ -14433,7 +14433,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38918, 'd13': 2.68893, 'd23': 1.31607},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 190""",
@@ -14445,7 +14445,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35819, 'd13': 2.67947, 'd23': 1.32896},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 191""",
@@ -14457,7 +14457,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40589, 'd13': 2.68903, 'd23': 1.30228},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 192""",
@@ -14469,7 +14469,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4566, 'd13': 2.74355, 'd23': 1.29072},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 193""",
@@ -14481,7 +14481,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34484, 'd13': 2.6847, 'd23': 1.34625},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 194""",
@@ -14493,7 +14493,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37018, 'd13': 2.68547, 'd23': 1.31863},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 195""",
@@ -14505,7 +14505,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42541, 'd13': 2.5461, 'd23': 1.23814},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 196""",
@@ -14517,7 +14517,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45282, 'd13': 2.65518, 'd23': 1.22447},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 197""",
@@ -14529,7 +14529,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45534, 'd13': 2.66445, 'd23': 1.22851},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 198""",
@@ -14541,7 +14541,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41193, 'd13': 2.66063, 'd23': 1.25782},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 199""",
@@ -14553,7 +14553,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.80501, 'd13': 2.73886, 'd23': 1.12964},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 200""",
@@ -14565,7 +14565,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40076, 'd13': 2.64444, 'd23': 1.34446},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 201""",
@@ -14577,7 +14577,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36887, 'd13': 2.65918, 'd23': 1.29557},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 202""",
@@ -14589,7 +14589,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38361, 'd13': 2.69912, 'd23': 1.32882},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 203""",
@@ -14601,7 +14601,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49058, 'd13': 2.71452, 'd23': 1.2296},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 204""",
@@ -14613,7 +14613,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36733, 'd13': 2.70794, 'd23': 1.34518},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 205""",
@@ -14625,7 +14625,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47374, 'd13': 2.70515, 'd23': 1.24093},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 206""",
@@ -14637,7 +14637,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44373, 'd13': 2.70924, 'd23': 1.26608},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 207""",
@@ -14649,7 +14649,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3583, 'd13': 2.67764, 'd23': 1.35377},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 208""",
@@ -14661,7 +14661,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36702, 'd13': 2.55933, 'd23': 1.20098},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 209""",
@@ -14673,7 +14673,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39821, 'd13': 2.74343, 'd23': 1.34864},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 210""",
@@ -14685,7 +14685,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.92365, 'd13': 3.02434, 'd23': 1.11369},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 211""",
@@ -14697,7 +14697,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38045, 'd13': 2.71051, 'd23': 1.3605},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 212""",
@@ -14709,7 +14709,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26977, 'd13': 2.55114, 'd23': 1.28834},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 213""",
@@ -14721,7 +14721,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38621, 'd13': 2.72595, 'd23': 1.35154},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 214""",
@@ -14733,7 +14733,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43828, 'd13': 2.73038, 'd23': 1.31832},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 215""",
@@ -14745,7 +14745,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40546, 'd13': 2.70487, 'd23': 1.30526},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 216""",
@@ -14757,7 +14757,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47802, 'd13': 2.73766, 'd23': 1.26354},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 217""",
@@ -14769,7 +14769,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51687, 'd13': 2.75861, 'd23': 1.24541},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 218""",
@@ -14781,7 +14781,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3858, 'd13': 2.78275, 'd23': 1.39696},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 219""",
@@ -14793,7 +14793,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41741, 'd13': 2.72713, 'd23': 1.32835},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 220""",
@@ -14805,7 +14805,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46084, 'd13': 2.74272, 'd23': 1.28825},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 221""",
@@ -14817,7 +14817,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43639, 'd13': 2.72285, 'd23': 1.29948},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 222""",
@@ -14829,7 +14829,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44902, 'd13': 2.74595, 'd23': 1.30052},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 223""",
@@ -14841,7 +14841,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43782, 'd13': 2.2983, 'd23': 0.86239},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 224""",
@@ -14853,7 +14853,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.52486, 'd13': 2.72106, 'd23': 1.20715},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 225""",
@@ -14865,7 +14865,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42033, 'd13': 2.67127, 'd23': 1.26356},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 226""",
@@ -14877,7 +14877,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45416, 'd13': 2.68962, 'd23': 1.24194},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 227""",
@@ -14889,7 +14889,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.934703, 'd13': 2.25494, 'd23': 1.32577},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 228""",
@@ -14901,7 +14901,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44101, 'd13': 2.6938, 'd23': 1.25686},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 229""",
@@ -14913,7 +14913,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41709, 'd13': 2.68689, 'd23': 1.27452},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 230""",
@@ -14925,7 +14925,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38363, 'd13': 2.66673, 'd23': 1.30557},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 231""",
@@ -14937,7 +14937,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40233, 'd13': 2.66635, 'd23': 1.28694},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 232""",
@@ -14949,7 +14949,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44337, 'd13': 2.70939, 'd23': 1.27972},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 233""",
@@ -14961,7 +14961,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.916182, 'd13': 2.27416, 'd23': 1.36184},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 234""",
@@ -14973,7 +14973,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30031, 'd13': 2.49703, 'd23': 1.20349},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 235""",
@@ -14985,7 +14985,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31034, 'd13': 2.51754, 'd23': 1.24357},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 236""",
@@ -14997,7 +14997,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47468, 'd13': 2.58993, 'd23': 1.13391},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 237""",
@@ -15009,7 +15009,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.02425, 'd13': 2.29683, 'd23': 1.27258},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 238""",
@@ -15021,7 +15021,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38024, 'd13': 2.57366, 'd23': 1.19795},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 239""",
@@ -15033,7 +15033,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.56688, 'd13': 2.68698, 'd23': 1.13826},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 240""",
@@ -15045,7 +15045,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39021, 'd13': 2.71645, 'd23': 1.33334},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 241""",
@@ -15057,7 +15057,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38866, 'd13': 2.68893, 'd23': 1.31592},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 242""",
@@ -15069,7 +15069,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47821, 'd13': 2.70749, 'd23': 1.24309},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 243""",
@@ -15081,7 +15081,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45209, 'd13': 2.70747, 'd23': 1.26427},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 244""",
@@ -15093,7 +15093,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38658, 'd13': 2.70085, 'd23': 1.32269},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 245""",
@@ -15105,7 +15105,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36693, 'd13': 2.71184, 'd23': 1.3794},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 246""",
@@ -15117,7 +15117,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50228, 'd13': 2.71548, 'd23': 1.22756},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 247""",
@@ -15129,7 +15129,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.937577, 'd13': 2.10708, 'd23': 1.17221},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 248""",
@@ -15141,7 +15141,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39989, 'd13': 2.57887, 'd23': 1.20258},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 249""",
@@ -15153,7 +15153,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.977884, 'd13': 2.26945, 'd23': 1.29246},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 250""",
@@ -15165,7 +15165,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24182, 'd13': 2.50718, 'd23': 1.26772},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 251""",
@@ -15177,7 +15177,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3975, 'd13': 2.55818, 'd23': 1.17334},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 252""",
@@ -15189,7 +15189,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35655, 'd13': 2.68729, 'd23': 1.3314},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 253""",
@@ -15201,7 +15201,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34695, 'd13': 2.67376, 'd23': 1.33117},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 254""",
@@ -15213,7 +15213,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39115, 'd13': 2.6992, 'd23': 1.31181},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 255""",
@@ -15225,7 +15225,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44434, 'd13': 2.6909, 'd23': 1.25117},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 256""",
@@ -15237,7 +15237,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38996, 'd13': 2.69336, 'd23': 1.304},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 257""",
@@ -15249,7 +15249,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36322, 'd13': 2.67448, 'd23': 1.32744},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 258""",
@@ -15261,7 +15261,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37871, 'd13': 2.68099, 'd23': 1.33278},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 259""",
@@ -15273,7 +15273,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39121, 'd13': 2.69447, 'd23': 1.30451},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 260""",
@@ -15285,7 +15285,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43504, 'd13': 2.73412, 'd23': 1.3104},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 261""",
@@ -15297,7 +15297,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34492, 'd13': 2.6698, 'd23': 1.33375},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 262""",
@@ -15309,7 +15309,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40806, 'd13': 2.6519, 'd23': 1.24384},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 263""",
@@ -15321,7 +15321,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35705, 'd13': 2.69505, 'd23': 1.34429},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 264""",
@@ -15333,7 +15333,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.7064, 'd13': 2.82673, 'd23': 1.13451},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 265""",
@@ -15345,7 +15345,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39347, 'd13': 2.70389, 'd23': 1.31947},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 266""",
@@ -15357,7 +15357,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42272, 'd13': 2.7251, 'd23': 1.3159},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 267""",
@@ -15369,7 +15369,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37193, 'd13': 2.67241, 'd23': 1.30083},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 268""",
@@ -15381,7 +15381,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41027, 'd13': 2.69021, 'd23': 1.28525},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 269""",
@@ -15393,7 +15393,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37277, 'd13': 2.69608, 'd23': 1.33035},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 270""",
@@ -15405,7 +15405,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.04276, 'd13': 2.2939, 'd23': 1.25278},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 271""",
@@ -15417,7 +15417,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50747, 'd13': 2.72203, 'd23': 1.22446},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 272""",
@@ -15429,7 +15429,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48174, 'd13': 2.71985, 'd23': 1.24194},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 273""",
@@ -15441,7 +15441,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41098, 'd13': 2.69187, 'd23': 1.29177},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 274""",
@@ -15453,7 +15453,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44527, 'd13': 2.69783, 'd23': 1.25846},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 275""",
@@ -15465,7 +15465,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50298, 'd13': 2.73213, 'd23': 1.23044},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 276""",
@@ -15477,7 +15477,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49618, 'd13': 2.72066, 'd23': 1.23344},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 277""",
@@ -15489,7 +15489,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.10827, 'd13': 2.31786, 'd23': 1.22195},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 278""",
@@ -15501,7 +15501,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49591, 'd13': 2.70803, 'd23': 1.22334},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 279""",
@@ -15513,7 +15513,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.925569, 'd13': 2.26775, 'd23': 1.34474},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 280""",
@@ -15525,7 +15525,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37475, 'd13': 2.52182, 'd23': 1.17381},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 281""",
@@ -15537,7 +15537,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48476, 'd13': 2.61123, 'd23': 1.15346},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 282""",
@@ -15549,7 +15549,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.55043, 'd13': 2.63671, 'd23': 1.14956},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 283""",
@@ -15561,7 +15561,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51283, 'd13': 2.5987, 'd23': 1.09601},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 284""",
@@ -15573,7 +15573,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40169, 'd13': 2.56276, 'd23': 1.17121},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 285""",
@@ -15585,7 +15585,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3926, 'd13': 2.58114, 'd23': 1.19836},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 286""",
@@ -15597,7 +15597,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33502, 'd13': 2.4995, 'd23': 1.17101},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 287""",
@@ -15609,7 +15609,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27831, 'd13': 2.53577, 'd23': 1.2625},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 288""",
@@ -15621,7 +15621,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31685, 'd13': 2.55894, 'd23': 1.25002},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 289""",
@@ -15633,7 +15633,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45773, 'd13': 2.69413, 'd23': 1.24326},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 290""",
@@ -15645,7 +15645,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35764, 'd13': 2.65607, 'd23': 1.30619},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 291""",
@@ -15657,7 +15657,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32869, 'd13': 2.6379, 'd23': 1.31915},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 292""",
@@ -15669,7 +15669,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39908, 'd13': 2.66171, 'd23': 1.26785},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 293""",
@@ -15681,7 +15681,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38457, 'd13': 2.65101, 'd23': 1.28122},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 294""",
@@ -15693,7 +15693,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38786, 'd13': 2.65584, 'd23': 1.27479},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 295""",
@@ -15705,7 +15705,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31616, 'd13': 2.66402, 'd23': 1.34806},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 296""",
@@ -15717,7 +15717,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40244, 'd13': 2.6525, 'd23': 1.26407},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 297""",
@@ -15729,7 +15729,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40769, 'd13': 2.69234, 'd23': 1.29046},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 298""",
@@ -15741,7 +15741,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33775, 'd13': 2.63523, 'd23': 1.31168},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 299""",
@@ -15753,7 +15753,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41052, 'd13': 2.68277, 'd23': 1.27788},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 300""",
@@ -15765,7 +15765,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4522, 'd13': 2.7145, 'd23': 1.26652},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 301""",
@@ -15777,7 +15777,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49045, 'd13': 2.73836, 'd23': 1.25108},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 302""",
@@ -15789,7 +15789,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43051, 'd13': 2.67652, 'd23': 1.26709},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 303""",
@@ -15801,7 +15801,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.56756, 'd13': 2.73629, 'd23': 1.19956},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 304""",
@@ -15813,7 +15813,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39501, 'd13': 2.71439, 'd23': 1.34171},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 305""",
@@ -15825,7 +15825,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40518, 'd13': 2.67611, 'd23': 1.33317},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 306""",
@@ -15837,7 +15837,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46478, 'd13': 2.71438, 'd23': 1.27675},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 307""",
@@ -15849,7 +15849,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46049, 'd13': 2.72099, 'd23': 1.26293},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 308""",
@@ -15861,7 +15861,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36954, 'd13': 2.55492, 'd23': 1.19996},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 309""",
@@ -15873,7 +15873,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44841, 'd13': 2.72027, 'd23': 1.2915},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 310""",
@@ -15885,7 +15885,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30771, 'd13': 2.67317, 'd23': 1.3715},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 311""",
@@ -15897,7 +15897,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22374, 'd13': 2.47315, 'd23': 1.26262},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 312""",
@@ -15909,7 +15909,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29281, 'd13': 2.46742, 'd23': 1.19167},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 313""",
@@ -15921,7 +15921,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4035, 'd13': 2.69908, 'd23': 1.3031},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 314""",
@@ -15933,7 +15933,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38149, 'd13': 2.67549, 'd23': 1.30426},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 315""",
@@ -15945,7 +15945,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4648, 'd13': 2.69416, 'd23': 1.24191},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 316""",
@@ -15957,7 +15957,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48985, 'd13': 2.73592, 'd23': 1.2516},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 317""",
@@ -15969,7 +15969,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45256, 'd13': 2.67681, 'd23': 1.25253},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 318""",
@@ -15981,7 +15981,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51785, 'd13': 2.73543, 'd23': 1.23344},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 319""",
@@ -15993,7 +15993,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42103, 'd13': 2.7049, 'd23': 1.30563},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 320""",
@@ -16005,7 +16005,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39477, 'd13': 2.73862, 'd23': 1.35345},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 321""",
@@ -16017,7 +16017,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44654, 'd13': 2.73633, 'd23': 1.31698},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 322""",
@@ -16029,7 +16029,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44365, 'd13': 2.68253, 'd23': 1.24477},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 323""",
@@ -16041,7 +16041,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47071, 'd13': 2.7138, 'd23': 1.25004},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 324""",
@@ -16053,7 +16053,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36693, 'd13': 2.69409, 'd23': 1.33069},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 325""",
@@ -16065,7 +16065,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.04556, 'd13': 2.28907, 'd23': 1.24931},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 326""",
@@ -16077,7 +16077,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50989, 'd13': 2.63461, 'd23': 1.1469},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 327""",
@@ -16089,7 +16089,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44047, 'd13': 2.58595, 'd23': 1.14943},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 328""",
@@ -16101,7 +16101,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25759, 'd13': 2.5216, 'd23': 1.27808},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 329""",
@@ -16113,7 +16113,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39822, 'd13': 2.69887, 'd23': 1.30388},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 330""",
@@ -16125,7 +16125,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48659, 'd13': 2.7203, 'd23': 1.23827},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 331""",
@@ -16137,7 +16137,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50256, 'd13': 2.71956, 'd23': 1.22245},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 332""",
@@ -16149,7 +16149,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50503, 'd13': 2.71493, 'd23': 1.22274},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 333""",
@@ -16161,7 +16161,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47479, 'd13': 2.71435, 'd23': 1.24181},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 334""",
@@ -16173,7 +16173,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4227, 'd13': 2.70008, 'd23': 1.28031},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 335""",
@@ -16185,7 +16185,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40173, 'd13': 2.68493, 'd23': 1.31124},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 336""",
@@ -16197,7 +16197,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37804, 'd13': 2.71526, 'd23': 1.36021},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 337""",
@@ -16209,7 +16209,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39284, 'd13': 2.68806, 'd23': 1.30218},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 338""",
@@ -16221,7 +16221,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44471, 'd13': 2.70983, 'd23': 1.26907},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 339""",
@@ -16233,7 +16233,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51223, 'd13': 2.69609, 'd23': 1.1971},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 340""",
@@ -16245,7 +16245,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.87803, 'd13': 2.90963, 'd23': 1.12015},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 341""",
@@ -16257,7 +16257,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50981, 'd13': 2.73802, 'd23': 1.23495},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 342""",
@@ -16269,7 +16269,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41701, 'd13': 2.72946, 'd23': 1.31543},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 343""",
@@ -16281,7 +16281,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08669, 'd13': 2.31365, 'd23': 1.22696},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 344""",
@@ -16293,7 +16293,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35558, 'd13': 2.56073, 'd23': 1.20524},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 345""",
@@ -16305,7 +16305,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26548, 'd13': 2.53967, 'd23': 1.29463},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 346""",
@@ -16317,7 +16317,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42982, 'd13': 2.70766, 'd23': 1.28483},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 347""",
@@ -16329,7 +16329,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49281, 'd13': 2.73394, 'd23': 1.24783},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 348""",
@@ -16341,7 +16341,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47588, 'd13': 2.72785, 'd23': 1.25929},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 349""",
@@ -16353,7 +16353,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45355, 'd13': 2.71445, 'd23': 1.28719},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 350""",
@@ -16365,7 +16365,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49597, 'd13': 2.73547, 'd23': 1.24675},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 351""",
@@ -16377,7 +16377,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35029, 'd13': 2.55664, 'd23': 1.21167},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 352""",
@@ -16389,7 +16389,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41773, 'd13': 2.73482, 'd23': 1.33141},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 353""",
@@ -16401,7 +16401,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44527, 'd13': 2.71553, 'd23': 1.27473},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 354""",
@@ -16413,7 +16413,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49166, 'd13': 2.73256, 'd23': 1.2491},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 355""",
@@ -16425,7 +16425,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48687, 'd13': 2.69238, 'd23': 1.22726},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 356""",
@@ -16437,7 +16437,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44528, 'd13': 2.70575, 'd23': 1.31716},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 357""",
@@ -16449,7 +16449,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39346, 'd13': 2.71818, 'd23': 1.32679},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 358""",
@@ -16461,7 +16461,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27339, 'd13': 2.67085, 'd23': 1.39771},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 359""",
@@ -16473,7 +16473,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50984, 'd13': 2.71499, 'd23': 1.2163},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 360""",
@@ -16485,7 +16485,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.850002, 'd13': 2.31972, 'd23': 1.46973},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 361""",
@@ -16497,7 +16497,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26358, 'd13': 2.46578, 'd23': 1.22001},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 362""",
@@ -16509,7 +16509,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.71724, 'd13': 2.71885, 'd23': 1.02215},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 363""",
@@ -16521,7 +16521,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43772, 'd13': 2.51563, 'd23': 1.08854},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 364""",
@@ -16533,7 +16533,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45942, 'd13': 2.6851, 'd23': 1.22673},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 365""",
@@ -16545,7 +16545,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2893, 'd13': 2.64125, 'd23': 1.36199},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 366""",
@@ -16557,7 +16557,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.292, 'd13': 2.63872, 'd23': 1.35669},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 367""",
@@ -16569,7 +16569,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26716, 'd13': 2.65954, 'd23': 1.39863},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 368""",
@@ -16581,7 +16581,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43377, 'd13': 2.683, 'd23': 1.25243},
-        method = 'm062x/6-311+G(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     rank = 3,
     shortDesc = u"""Reverse reaction for reaction index 369""",
@@ -16593,7 +16593,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31272, 'd13': 2.54065, 'd23': 1.2397},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 370""",
 )
@@ -16604,7 +16604,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41366, 'd13': 2.70556, 'd23': 1.30176},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 371""",
 )
@@ -16615,7 +16615,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47295, 'd13': 2.74347, 'd23': 1.27053},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 372""",
 )
@@ -16626,7 +16626,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37457, 'd13': 2.68611, 'd23': 1.31707},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 373""",
 )
@@ -16637,7 +16637,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38695, 'd13': 2.68928, 'd23': 1.3154},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 374""",
 )
@@ -16648,7 +16648,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37393, 'd13': 2.67854, 'd23': 1.3388},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 375""",
 )
@@ -16659,7 +16659,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41137, 'd13': 2.50949, 'd23': 1.10753},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 376""",
 )
@@ -16670,7 +16670,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38629, 'd13': 2.72011, 'd23': 1.34691},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 377""",
 )
@@ -16681,7 +16681,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31812, 'd13': 2.5442, 'd23': 1.23697},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 378""",
 )
@@ -16692,7 +16692,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4756, 'd13': 2.61984, 'd23': 1.1551},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 379""",
 )
@@ -16703,7 +16703,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41018, 'd13': 2.66596, 'd23': 1.28566},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 380""",
 )
@@ -16714,7 +16714,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16512, 'd13': 2.34146, 'd23': 1.19064},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 381""",
 )
@@ -16725,7 +16725,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3725, 'd13': 2.68284, 'd23': 1.31259},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 382""",
 )
@@ -16736,7 +16736,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35092, 'd13': 2.6232, 'd23': 1.27346},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 383""",
 )
@@ -16747,7 +16747,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25764, 'd13': 2.37922, 'd23': 1.12912},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 384""",
 )
@@ -16758,7 +16758,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41159, 'd13': 2.59176, 'd23': 1.18827},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 385""",
 )
@@ -16769,7 +16769,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38809, 'd13': 2.68154, 'd23': 1.3031},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 386""",
 )
@@ -16780,7 +16780,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37491, 'd13': 2.67929, 'd23': 1.3078},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 387""",
 )
@@ -16791,7 +16791,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4517, 'd13': 2.75581, 'd23': 1.31213},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 388""",
 )
@@ -16802,7 +16802,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.81999, 'd13': 2.88828, 'd23': 1.12015},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 389""",
 )
@@ -16813,7 +16813,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42124, 'd13': 2.6645, 'd23': 1.25669},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 390""",
 )
@@ -16824,7 +16824,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27497, 'd13': 2.65039, 'd23': 1.39483},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 391""",
 )
@@ -16835,7 +16835,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36509, 'd13': 2.66512, 'd23': 1.3021},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 392""",
 )
@@ -16846,7 +16846,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43053, 'd13': 2.68587, 'd23': 1.27178},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 393""",
 )
@@ -16857,7 +16857,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25191, 'd13': 2.49822, 'd23': 1.25129},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 394""",
 )
@@ -16868,7 +16868,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4955, 'd13': 2.73182, 'd23': 1.24491},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 395""",
 )
@@ -16879,7 +16879,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45239, 'd13': 2.71186, 'd23': 1.26366},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 396""",
 )
@@ -16890,7 +16890,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34671, 'd13': 2.68402, 'd23': 1.34046},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 397""",
 )
@@ -16901,7 +16901,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4483, 'd13': 2.70656, 'd23': 1.26395},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 398""",
 )
@@ -16912,7 +16912,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47037, 'd13': 2.60362, 'd23': 1.16827},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 399""",
 )
@@ -16923,7 +16923,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38363, 'd13': 2.70859, 'd23': 1.33432},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 400""",
 )
@@ -16934,7 +16934,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.53858, 'd13': 2.74998, 'd23': 1.22745},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 401""",
 )
@@ -16945,7 +16945,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38253, 'd13': 2.69973, 'd23': 1.32553},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 402""",
 )
@@ -16956,7 +16956,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29442, 'd13': 2.42545, 'd23': 1.20931},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 403""",
 )
@@ -16967,7 +16967,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4303, 'd13': 2.68301, 'd23': 1.25779},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 404""",
 )
@@ -16978,7 +16978,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48121, 'd13': 2.69941, 'd23': 1.22945},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 405""",
 )
@@ -16989,7 +16989,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38918, 'd13': 2.66941, 'd23': 1.28725},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 406""",
 )
@@ -17000,7 +17000,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.55081, 'd13': 2.76781, 'd23': 1.22264},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 407""",
 )
@@ -17011,7 +17011,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45614, 'd13': 2.65835, 'd23': 1.22102},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 408""",
 )
@@ -17022,7 +17022,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.52394, 'd13': 2.739, 'd23': 1.21856},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 409""",
 )
@@ -17033,7 +17033,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32976, 'd13': 2.51157, 'd23': 1.18443},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 410""",
 )
@@ -17044,7 +17044,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.52675, 'd13': 2.52174, 'd23': 1.01926},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 411""",
 )
@@ -17055,7 +17055,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28802, 'd13': 2.4977, 'd23': 1.22479},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 412""",
 )
@@ -17066,7 +17066,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.56838, 'd13': 2.63014, 'd23': 1.071},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 413""",
 )
@@ -17077,7 +17077,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.998142, 'd13': 2.22931, 'd23': 1.25756},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 414""",
 )
@@ -17088,7 +17088,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.92812, 'd13': 2.95802, 'd23': 1.11789},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 415""",
 )
@@ -17099,7 +17099,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38954, 'd13': 2.55699, 'd23': 1.1924},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 416""",
 )
@@ -17110,7 +17110,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25087, 'd13': 2.63338, 'd23': 1.38366},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 417""",
 )
@@ -17121,7 +17121,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41691, 'd13': 2.65744, 'd23': 1.24881},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 418""",
 )
@@ -17132,7 +17132,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40578, 'd13': 2.69713, 'd23': 1.29263},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 419""",
 )
@@ -17143,7 +17143,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50812, 'd13': 2.71297, 'd23': 1.22111},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 420""",
 )
@@ -17154,7 +17154,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4195, 'd13': 2.72403, 'd23': 1.31083},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 421""",
 )
@@ -17165,7 +17165,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42849, 'd13': 2.5778, 'd23': 1.16316},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 422""",
 )
@@ -17176,7 +17176,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.56784, 'd13': 2.63224, 'd23': 1.07128},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 423""",
 )
@@ -17187,7 +17187,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.01225, 'd13': 2.12218, 'd23': 1.1136},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 424""",
 )
@@ -17198,7 +17198,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38018, 'd13': 2.53153, 'd23': 1.17855},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 425""",
 )
@@ -17209,7 +17209,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36785, 'd13': 2.65751, 'd23': 1.29393},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 426""",
 )
@@ -17220,7 +17220,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47425, 'd13': 2.70344, 'd23': 1.23714},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 427""",
 )
@@ -17231,7 +17231,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36865, 'd13': 2.68174, 'd23': 1.31658},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 428""",
 )
@@ -17242,7 +17242,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.53916, 'd13': 2.6123, 'd23': 1.08298},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 429""",
 )
@@ -17253,7 +17253,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11688, 'd13': 2.33091, 'd23': 1.21574},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 430""",
 )
@@ -17264,7 +17264,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34368, 'd13': 2.65341, 'd23': 1.3268},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 431""",
 )
@@ -17275,7 +17275,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27424, 'd13': 2.51204, 'd23': 1.23896},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 432""",
 )
@@ -17286,7 +17286,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42789, 'd13': 2.29421, 'd23': 0.868906},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 433""",
 )
@@ -17297,7 +17297,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41772, 'd13': 2.67051, 'd23': 1.25326},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 434""",
 )
@@ -17308,7 +17308,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4021, 'd13': 2.68616, 'd23': 1.28656},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 435""",
 )
@@ -17319,7 +17319,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35237, 'd13': 2.67842, 'd23': 1.33239},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 436""",
 )
@@ -17330,7 +17330,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40624, 'd13': 2.73119, 'd23': 1.32683},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 437""",
 )
@@ -17341,7 +17341,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4357, 'd13': 2.67572, 'd23': 1.25029},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 438""",
 )
@@ -17352,7 +17352,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.989057, 'd13': 2.27534, 'd23': 1.28684},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 439""",
 )
@@ -17363,7 +17363,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.52599, 'd13': 2.7289, 'd23': 1.20907},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 440""",
 )
@@ -17374,7 +17374,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.56594, 'd13': 2.75883, 'd23': 1.21204},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 441""",
 )
@@ -17385,7 +17385,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32711, 'd13': 2.69101, 'd23': 1.39573},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 442""",
 )
@@ -17396,7 +17396,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29536, 'd13': 2.54094, 'd23': 1.2596},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 443""",
 )
@@ -17407,7 +17407,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37455, 'd13': 2.65919, 'd23': 1.29402},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 444""",
 )
@@ -17418,7 +17418,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45623, 'd13': 2.70619, 'd23': 1.26281},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 445""",
 )
@@ -17429,7 +17429,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.05547, 'd13': 2.28474, 'd23': 1.23924},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 446""",
 )
@@ -17440,7 +17440,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4036, 'd13': 2.35893, 'd23': 1.02673},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 447""",
 )
@@ -17451,7 +17451,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44608, 'd13': 2.71979, 'd23': 1.29256},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 448""",
 )
@@ -17462,7 +17462,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.54151, 'd13': 2.60996, 'd23': 1.07958},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 449""",
 )
@@ -17473,7 +17473,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46614, 'd13': 2.72483, 'd23': 1.25999},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 450""",
 )
@@ -17484,7 +17484,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38924, 'd13': 2.65081, 'd23': 1.30123},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 451""",
 )
@@ -17495,7 +17495,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44379, 'd13': 2.68515, 'd23': 1.26308},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 452""",
 )
@@ -17506,7 +17506,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17731, 'd13': 2.49416, 'd23': 1.31688},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 453""",
 )
@@ -17517,7 +17517,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.52791, 'd13': 2.76161, 'd23': 1.23749},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 454""",
 )
@@ -17528,7 +17528,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2536, 'd13': 2.49561, 'd23': 1.24201},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 455""",
 )
@@ -17539,7 +17539,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36034, 'd13': 2.50003, 'd23': 1.14021},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 456""",
 )
@@ -17550,7 +17550,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40156, 'd13': 2.68344, 'd23': 1.28393},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 457""",
 )
@@ -17561,7 +17561,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31356, 'd13': 2.68056, 'd23': 1.38164},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 458""",
 )
@@ -17572,7 +17572,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41055, 'd13': 2.73703, 'd23': 1.33338},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 459""",
 )
@@ -17583,7 +17583,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4242, 'd13': 2.70064, 'd23': 1.28114},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 460""",
 )
@@ -17594,7 +17594,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.52504, 'd13': 2.73975, 'd23': 1.2249},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 461""",
 )
@@ -17605,7 +17605,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45857, 'd13': 2.7051, 'd23': 1.26228},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 462""",
 )
@@ -17616,7 +17616,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41556, 'd13': 2.70409, 'd23': 1.29249},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 463""",
 )
@@ -17627,7 +17627,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41706, 'd13': 2.68016, 'd23': 1.26734},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 464""",
 )
@@ -17638,7 +17638,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32919, 'd13': 2.69133, 'd23': 1.37135},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 465""",
 )
@@ -17649,7 +17649,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3757, 'd13': 2.66745, 'd23': 1.30055},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 466""",
 )
@@ -17660,7 +17660,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40551, 'd13': 2.70951, 'd23': 1.3087},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 467""",
 )
@@ -17671,7 +17671,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36251, 'd13': 2.69934, 'd23': 1.34303},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 468""",
 )
@@ -17682,7 +17682,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46173, 'd13': 2.71432, 'd23': 1.26746},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 469""",
 )
@@ -17693,7 +17693,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44809, 'd13': 2.68706, 'd23': 1.24668},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 470""",
 )
@@ -17704,7 +17704,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.434, 'd13': 2.69421, 'd23': 1.26576},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 471""",
 )
@@ -17715,7 +17715,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39236, 'd13': 2.65577, 'd23': 1.27603},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 472""",
 )
@@ -17726,7 +17726,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35872, 'd13': 2.65995, 'd23': 1.31203},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 473""",
 )
@@ -17737,7 +17737,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46156, 'd13': 2.57092, 'd23': 1.12823},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 474""",
 )
@@ -17748,7 +17748,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30463, 'd13': 2.47449, 'd23': 1.20322},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 475""",
 )
@@ -17759,7 +17759,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47417, 'd13': 2.722, 'd23': 1.24875},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 476""",
 )
@@ -17770,7 +17770,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4125, 'd13': 2.67805, 'd23': 1.26992},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 477""",
 )
@@ -17781,7 +17781,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5263, 'd13': 2.72756, 'd23': 1.21344},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 478""",
 )
@@ -17792,7 +17792,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.922801, 'd13': 2.27964, 'd23': 1.35991},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 479""",
 )
@@ -17803,7 +17803,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50072, 'd13': 2.59673, 'd23': 1.1049},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 480""",
 )
@@ -17814,7 +17814,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34106, 'd13': 2.45359, 'd23': 1.1624},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 481""",
 )
@@ -17825,7 +17825,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47544, 'd13': 2.71399, 'd23': 1.24544},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 482""",
 )
@@ -17836,7 +17836,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50799, 'd13': 2.70272, 'd23': 1.20818},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 483""",
 )
@@ -17847,7 +17847,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37946, 'd13': 2.65511, 'd23': 1.2802},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 484""",
 )
@@ -17858,7 +17858,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48813, 'd13': 2.70108, 'd23': 1.227},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 485""",
 )
@@ -17869,7 +17869,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3542, 'd13': 2.68744, 'd23': 1.34419},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 486""",
 )
@@ -17880,7 +17880,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.76717, 'd13': 2.854, 'd23': 1.1247},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 487""",
 )
@@ -17891,7 +17891,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35364, 'd13': 2.73712, 'd23': 1.38704},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 488""",
 )
@@ -17902,7 +17902,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.995758, 'd13': 2.11848, 'd23': 1.12442},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 489""",
 )
@@ -17913,7 +17913,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45755, 'd13': 2.69783, 'd23': 1.25175},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 490""",
 )
@@ -17924,7 +17924,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33444, 'd13': 2.66325, 'd23': 1.33552},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 491""",
 )
@@ -17935,7 +17935,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42433, 'd13': 2.69438, 'd23': 1.27723},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 492""",
 )
@@ -17946,7 +17946,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36923, 'd13': 2.67475, 'd23': 1.311},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 493""",
 )
@@ -17957,7 +17957,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.910186, 'd13': 2.28497, 'd23': 1.37479},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 494""",
 )
@@ -17968,7 +17968,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45431, 'd13': 2.73049, 'd23': 1.28691},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 495""",
 )
@@ -17979,7 +17979,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51119, 'd13': 2.70768, 'd23': 1.21749},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 496""",
 )
@@ -17990,7 +17990,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29385, 'd13': 2.6733, 'd23': 1.38408},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 497""",
 )
@@ -18001,7 +18001,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.02105, 'd13': 2.26959, 'd23': 1.25835},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 498""",
 )
@@ -18012,7 +18012,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31883, 'd13': 2.68214, 'd23': 1.37417},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 499""",
 )
@@ -18023,7 +18023,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43207, 'd13': 2.70728, 'd23': 1.28222},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 500""",
 )
@@ -18034,7 +18034,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49367, 'd13': 2.73212, 'd23': 1.24707},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 501""",
 )
@@ -18045,7 +18045,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45617, 'd13': 2.71038, 'd23': 1.28931},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 502""",
 )
@@ -18056,7 +18056,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41322, 'd13': 2.69759, 'd23': 1.29343},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 503""",
 )
@@ -18067,7 +18067,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3296, 'd13': 2.63793, 'd23': 1.31609},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 504""",
 )
@@ -18078,7 +18078,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32838, 'd13': 2.61734, 'd23': 1.2934},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 505""",
 )
@@ -18089,7 +18089,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35068, 'd13': 2.50574, 'd23': 1.17086},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 506""",
 )
@@ -18100,7 +18100,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39366, 'd13': 2.70454, 'd23': 1.31482},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 507""",
 )
@@ -18111,7 +18111,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42472, 'd13': 2.70823, 'd23': 1.29048},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 508""",
 )
@@ -18122,7 +18122,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.958432, 'd13': 2.25538, 'd23': 1.29695},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 509""",
 )
@@ -18133,7 +18133,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40891, 'd13': 2.45125, 'd23': 1.05085},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 510""",
 )
@@ -18144,7 +18144,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36847, 'd13': 2.69198, 'd23': 1.35993},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 511""",
 )
@@ -18155,7 +18155,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39287, 'd13': 2.69315, 'd23': 1.30166},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 512""",
 )
@@ -18166,7 +18166,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44869, 'd13': 2.71409, 'd23': 1.26771},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 513""",
 )
@@ -18177,7 +18177,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46951, 'd13': 2.72489, 'd23': 1.26035},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 514""",
 )
@@ -18188,7 +18188,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39395, 'd13': 2.69717, 'd23': 1.3149},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 515""",
 )
@@ -18199,7 +18199,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42978, 'd13': 2.70043, 'd23': 1.28004},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 516""",
 )
@@ -18210,7 +18210,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36436, 'd13': 2.65801, 'd23': 1.29871},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 517""",
 )
@@ -18221,7 +18221,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4242, 'd13': 2.69893, 'd23': 1.28345},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 518""",
 )
@@ -18232,7 +18232,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.54533, 'd13': 2.73647, 'd23': 1.20054},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 519""",
 )
@@ -18243,7 +18243,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51387, 'd13': 2.72718, 'd23': 1.21568},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 520""",
 )
@@ -18254,7 +18254,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43716, 'd13': 2.69011, 'd23': 1.25295},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 521""",
 )
@@ -18265,7 +18265,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36645, 'd13': 2.66526, 'd23': 1.30783},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 522""",
 )
@@ -18276,7 +18276,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33566, 'd13': 2.64694, 'd23': 1.35448},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 523""",
 )
@@ -18287,7 +18287,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39855, 'd13': 2.6941, 'd23': 1.30241},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 524""",
 )
@@ -18298,7 +18298,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.933968, 'd13': 2.10644, 'd23': 1.17526},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 525""",
 )
@@ -18309,7 +18309,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37102, 'd13': 2.69065, 'd23': 1.31982},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 526""",
 )
@@ -18320,7 +18320,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32703, 'd13': 2.3205, 'd23': 1.06311},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 527""",
 )
@@ -18331,7 +18331,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32523, 'd13': 2.65038, 'd23': 1.33539},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 528""",
 )
@@ -18342,7 +18342,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35739, 'd13': 2.65929, 'd23': 1.31682},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 529""",
 )
@@ -18353,7 +18353,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5169, 'd13': 2.74045, 'd23': 1.22668},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 530""",
 )
@@ -18364,7 +18364,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3528, 'd13': 2.65729, 'd23': 1.31227},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 531""",
 )
@@ -18375,7 +18375,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3737, 'd13': 2.68485, 'd23': 1.3144},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 532""",
 )
@@ -18386,7 +18386,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36853, 'd13': 2.66707, 'd23': 1.30064},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 533""",
 )
@@ -18397,7 +18397,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33881, 'd13': 2.67222, 'd23': 1.33514},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 534""",
 )
@@ -18408,7 +18408,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.53766, 'd13': 2.7376, 'd23': 1.21437},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 535""",
 )
@@ -18419,7 +18419,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39458, 'd13': 2.67993, 'd23': 1.28997},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 536""",
 )
@@ -18430,7 +18430,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34623, 'd13': 2.68325, 'd23': 1.33993},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 537""",
 )
@@ -18441,7 +18441,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4453, 'd13': 2.69766, 'd23': 1.26231},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 538""",
 )
@@ -18452,7 +18452,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36225, 'd13': 2.67588, 'd23': 1.31549},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 539""",
 )
@@ -18463,7 +18463,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48068, 'd13': 2.70502, 'd23': 1.24174},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 540""",
 )
@@ -18474,7 +18474,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28905, 'd13': 2.53143, 'd23': 1.24523},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 541""",
 )
@@ -18485,7 +18485,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41848, 'd13': 2.68, 'd23': 1.30583},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 542""",
 )
@@ -18496,7 +18496,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3049, 'd13': 2.63237, 'd23': 1.33942},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 543""",
 )
@@ -18507,7 +18507,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41911, 'd13': 2.70273, 'd23': 1.28705},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 544""",
 )
@@ -18518,7 +18518,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38322, 'd13': 2.67343, 'd23': 1.2934},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 545""",
 )
@@ -18529,7 +18529,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22055, 'd13': 2.48545, 'd23': 1.27336},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 546""",
 )
@@ -18540,7 +18540,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43806, 'd13': 2.69334, 'd23': 1.27451},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 547""",
 )
@@ -18551,7 +18551,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41609, 'd13': 2.7028, 'd23': 1.29624},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 548""",
 )
@@ -18562,7 +18562,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46189, 'd13': 2.7273, 'd23': 1.27671},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 549""",
 )
@@ -18573,7 +18573,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22556, 'd13': 2.44288, 'd23': 1.29547},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 550""",
 )
@@ -18584,7 +18584,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.55714, 'd13': 2.75226, 'd23': 1.19794},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 551""",
 )
@@ -18595,7 +18595,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26673, 'd13': 2.48503, 'd23': 1.23187},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 552""",
 )
@@ -18606,7 +18606,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46878, 'd13': 2.69261, 'd23': 1.25163},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 553""",
 )
@@ -18617,7 +18617,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.56487, 'd13': 2.77185, 'd23': 1.21228},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 554""",
 )
@@ -18628,7 +18628,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25801, 'd13': 2.67314, 'd23': 1.43422},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 555""",
 )
@@ -18639,7 +18639,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50184, 'd13': 2.69602, 'd23': 1.20374},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 556""",
 )
@@ -18650,7 +18650,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33001, 'd13': 2.5118, 'd23': 1.19369},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 557""",
 )
@@ -18661,7 +18661,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43673, 'd13': 2.68374, 'd23': 1.25402},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 558""",
 )
@@ -18672,7 +18672,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43215, 'd13': 2.71621, 'd23': 1.28818},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 559""",
 )
@@ -18683,7 +18683,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50625, 'd13': 2.74478, 'd23': 1.24145},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 560""",
 )
@@ -18694,7 +18694,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47776, 'd13': 2.58337, 'd23': 1.12756},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 561""",
 )
@@ -18705,7 +18705,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36841, 'd13': 2.62923, 'd23': 1.26738},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 562""",
 )
@@ -18716,7 +18716,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24903, 'd13': 2.50711, 'd23': 1.25832},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 563""",
 )
@@ -18727,7 +18727,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43642, 'd13': 2.69884, 'd23': 1.27855},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 564""",
 )
@@ -18738,7 +18738,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40764, 'd13': 2.72644, 'd23': 1.32693},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 565""",
 )
@@ -18749,7 +18749,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30339, 'd13': 2.49975, 'd23': 1.21026},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 566""",
 )
@@ -18760,7 +18760,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40875, 'd13': 2.69432, 'd23': 1.3051},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 567""",
 )
@@ -18771,7 +18771,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33384, 'd13': 2.50468, 'd23': 1.18004},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 568""",
 )
@@ -18782,7 +18782,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27554, 'd13': 2.50752, 'd23': 1.23808},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 569""",
 )
@@ -18793,7 +18793,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40789, 'd13': 2.66027, 'd23': 1.25933},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 570""",
 )
@@ -18804,7 +18804,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48512, 'd13': 2.70964, 'd23': 1.23336},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 571""",
 )
@@ -18815,7 +18815,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.60344, 'd13': 2.74504, 'd23': 1.14543},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 572""",
 )
@@ -18826,7 +18826,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43014, 'd13': 2.71699, 'd23': 1.29821},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 573""",
 )
@@ -18837,7 +18837,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33683, 'd13': 2.66562, 'd23': 1.33986},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 574""",
 )
@@ -18848,7 +18848,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.77057, 'd13': 2.85671, 'd23': 1.12575},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 575""",
 )
@@ -18859,7 +18859,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.920142, 'd13': 2.2802, 'd23': 1.36224},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 576""",
 )
@@ -18870,7 +18870,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45619, 'd13': 2.67029, 'd23': 1.22321},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 577""",
 )
@@ -18881,7 +18881,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36598, 'd13': 2.68208, 'd23': 1.35348},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 578""",
 )
@@ -18892,7 +18892,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37055, 'd13': 2.73144, 'd23': 1.36139},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 579""",
 )
@@ -18903,7 +18903,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37294, 'd13': 2.68418, 'd23': 1.33507},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 580""",
 )
@@ -18914,7 +18914,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22384, 'd13': 2.44224, 'd23': 1.29824},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 581""",
 )
@@ -18925,7 +18925,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44175, 'd13': 2.72409, 'd23': 1.29628},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 582""",
 )
@@ -18936,7 +18936,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06488, 'd13': 2.33001, 'd23': 1.26516},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 583""",
 )
@@ -18947,7 +18947,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36145, 'd13': 2.67032, 'd23': 1.31088},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 584""",
 )
@@ -18958,7 +18958,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5699, 'd13': 2.69644, 'd23': 1.14261},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 585""",
 )
@@ -18969,7 +18969,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48009, 'd13': 2.73884, 'd23': 1.2591},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 586""",
 )
@@ -18980,7 +18980,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46572, 'd13': 2.70693, 'd23': 1.24498},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 587""",
 )
@@ -18991,7 +18991,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34864, 'd13': 2.69062, 'd23': 1.34613},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 588""",
 )
@@ -19002,7 +19002,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43343, 'd13': 2.70645, 'd23': 1.28226},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 589""",
 )
@@ -19013,7 +19013,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43129, 'd13': 2.70184, 'd23': 1.27312},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 590""",
 )
@@ -19024,7 +19024,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48483, 'd13': 2.70816, 'd23': 1.23646},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 591""",
 )
@@ -19035,7 +19035,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40066, 'd13': 2.69186, 'd23': 1.31514},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 592""",
 )
@@ -19046,7 +19046,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34118, 'd13': 2.66456, 'd23': 1.32513},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 593""",
 )
@@ -19057,7 +19057,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41009, 'd13': 2.5809, 'd23': 1.17806},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 594""",
 )
@@ -19068,7 +19068,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34774, 'd13': 2.68425, 'd23': 1.3537},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 595""",
 )
@@ -19079,7 +19079,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39228, 'd13': 2.69835, 'd23': 1.31649},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 596""",
 )
@@ -19090,7 +19090,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36856, 'd13': 2.66777, 'd23': 1.30584},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 597""",
 )
@@ -19101,7 +19101,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34993, 'd13': 2.68932, 'd23': 1.34357},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 598""",
 )
@@ -19112,7 +19112,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36789, 'd13': 2.65527, 'd23': 1.29952},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 599""",
 )
@@ -19123,7 +19123,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.55153, 'd13': 2.61526, 'd23': 1.07676},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 600""",
 )
@@ -19134,7 +19134,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43661, 'd13': 2.67111, 'd23': 1.24513},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 601""",
 )
@@ -19145,7 +19145,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36928, 'd13': 2.50415, 'd23': 1.18121},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 602""",
 )
@@ -19156,7 +19156,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29438, 'd13': 2.64671, 'd23': 1.37633},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 603""",
 )
@@ -19167,7 +19167,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29024, 'd13': 2.6576, 'd23': 1.3731},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 604""",
 )
@@ -19178,7 +19178,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2669, 'd13': 2.52787, 'd23': 1.26672},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 605""",
 )
@@ -19189,7 +19189,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.53124, 'd13': 2.75993, 'd23': 1.2334},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 606""",
 )
@@ -19200,7 +19200,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46406, 'd13': 2.69569, 'd23': 1.24294},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 607""",
 )
@@ -19211,7 +19211,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41251, 'd13': 2.66815, 'd23': 1.27191},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 608""",
 )
@@ -19222,7 +19222,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45592, 'd13': 2.70711, 'd23': 1.28329},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 609""",
 )
@@ -19233,7 +19233,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41318, 'd13': 2.71554, 'd23': 1.30948},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 610""",
 )
@@ -19244,7 +19244,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38512, 'd13': 2.66668, 'd23': 1.28156},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 611""",
 )
@@ -19255,7 +19255,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39697, 'd13': 2.67551, 'd23': 1.28375},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 612""",
 )
@@ -19266,7 +19266,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.373, 'd13': 2.65764, 'd23': 1.30356},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 613""",
 )
@@ -19277,7 +19277,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43575, 'd13': 2.69872, 'd23': 1.27728},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 614""",
 )
@@ -19288,7 +19288,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4446, 'd13': 2.71612, 'd23': 1.29165},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 615""",
 )
@@ -19299,7 +19299,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42844, 'd13': 2.70193, 'd23': 1.29795},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 616""",
 )
@@ -19310,7 +19310,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48209, 'd13': 2.698, 'd23': 1.23286},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 617""",
 )
@@ -19321,7 +19321,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40053, 'd13': 2.67229, 'd23': 1.28012},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 618""",
 )
@@ -19332,7 +19332,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44138, 'd13': 2.71035, 'd23': 1.27256},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 619""",
 )
@@ -19343,7 +19343,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4622, 'd13': 2.69945, 'd23': 1.23772},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 620""",
 )
@@ -19354,7 +19354,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.02314, 'd13': 2.2779, 'd23': 1.25894},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 621""",
 )
@@ -19365,7 +19365,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.458, 'd13': 2.69391, 'd23': 1.24746},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 622""",
 )
@@ -19376,7 +19376,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40569, 'd13': 2.67701, 'd23': 1.27659},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 623""",
 )
@@ -19387,7 +19387,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.986983, 'd13': 2.29106, 'd23': 1.30459},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 624""",
 )
@@ -19398,7 +19398,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39267, 'd13': 2.7684, 'd23': 1.38531},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 625""",
 )
@@ -19409,7 +19409,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33955, 'd13': 2.66168, 'd23': 1.33324},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 626""",
 )
@@ -19420,7 +19420,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29897, 'd13': 2.74742, 'd23': 1.44989},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 627""",
 )
@@ -19431,7 +19431,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5128, 'd13': 2.61929, 'd23': 1.15129},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 628""",
 )
@@ -19442,7 +19442,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33439, 'd13': 2.52067, 'd23': 1.20857},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 629""",
 )
@@ -19453,7 +19453,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09304, 'd13': 2.3462, 'd23': 1.26037},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 630""",
 )
@@ -19464,7 +19464,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14961, 'd13': 2.4856, 'd23': 1.33958},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 631""",
 )
@@ -19475,7 +19475,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19512, 'd13': 2.5139, 'd23': 1.32517},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 632""",
 )
@@ -19486,7 +19486,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07937, 'd13': 2.36242, 'd23': 1.30432},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 633""",
 )
@@ -19497,7 +19497,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.923371, 'd13': 2.28149, 'd23': 1.36001},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 634""",
 )
@@ -19508,7 +19508,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.956339, 'd13': 2.27445, 'd23': 1.31948},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 635""",
 )
@@ -19519,7 +19519,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.939134, 'd13': 2.27818, 'd23': 1.34128},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 636""",
 )
@@ -19530,7 +19530,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27888, 'd13': 2.50632, 'd23': 1.23401},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 637""",
 )
@@ -19541,7 +19541,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.872138, 'd13': 2.11077, 'd23': 1.24581},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 638""",
 )
@@ -19552,7 +19552,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37024, 'd13': 2.68214, 'd23': 1.31731},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 639""",
 )
@@ -19563,7 +19563,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35844, 'd13': 2.68127, 'd23': 1.32663},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 640""",
 )
@@ -19574,7 +19574,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44175, 'd13': 2.70769, 'd23': 1.26724},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 641""",
 )
@@ -19585,7 +19585,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24578, 'd13': 2.53367, 'd23': 1.29765},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 642""",
 )
@@ -19596,7 +19596,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.0081, 'd13': 2.2845, 'd23': 1.27649},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 643""",
 )
@@ -19607,7 +19607,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25026, 'd13': 2.52461, 'd23': 1.28261},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 644""",
 )
@@ -19618,7 +19618,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.64209, 'd13': 2.71514, 'd23': 1.1394},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 645""",
 )
@@ -19629,7 +19629,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06616, 'd13': 2.33697, 'd23': 1.27174},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 646""",
 )
@@ -19640,7 +19640,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06805, 'd13': 2.33437, 'd23': 1.2669},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 647""",
 )
@@ -19651,7 +19651,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41389, 'd13': 2.57381, 'd23': 1.16667},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 648""",
 )
@@ -19662,7 +19662,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32505, 'd13': 2.38761, 'd23': 1.09023},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 649""",
 )
@@ -19673,7 +19673,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14895, 'd13': 2.50432, 'd23': 1.36467},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 650""",
 )
@@ -19684,7 +19684,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23616, 'd13': 2.52347, 'd23': 1.30405},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 651""",
 )
@@ -19695,7 +19695,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25562, 'd13': 2.51981, 'd23': 1.27729},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 652""",
 )
@@ -19706,7 +19706,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.871769, 'd13': 2.10535, 'd23': 1.24231},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 653""",
 )
@@ -19717,7 +19717,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31801, 'd13': 2.71121, 'd23': 1.41851},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 654""",
 )
@@ -19728,7 +19728,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.00899, 'd13': 2.28333, 'd23': 1.27518},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 655""",
 )
@@ -19739,7 +19739,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16845, 'd13': 2.28522, 'd23': 1.14746},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 656""",
 )
@@ -19750,7 +19750,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.927919, 'd13': 2.27361, 'd23': 1.34691},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 657""",
 )
@@ -19761,7 +19761,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15115, 'd13': 2.34013, 'd23': 1.20727},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 658""",
 )
@@ -19772,7 +19772,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.919176, 'd13': 2.27802, 'd23': 1.35986},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 659""",
 )
@@ -19783,7 +19783,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17556, 'd13': 2.50362, 'd23': 1.33804},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 660""",
 )
@@ -19794,7 +19794,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23729, 'd13': 2.48627, 'd23': 1.30042},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 661""",
 )
@@ -19805,7 +19805,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19569, 'd13': 2.53866, 'd23': 1.37129},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 662""",
 )
@@ -19816,7 +19816,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49384, 'd13': 2.63898, 'd23': 1.14619},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 663""",
 )
@@ -19827,7 +19827,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.12824, 'd13': 2.34994, 'd23': 1.22209},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 664""",
 )
@@ -19838,7 +19838,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24195, 'd13': 2.53334, 'd23': 1.29409},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 665""",
 )
@@ -19849,7 +19849,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3834, 'd13': 2.54751, 'd23': 1.17593},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 666""",
 )
@@ -19860,7 +19860,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.959583, 'd13': 2.11145, 'd23': 1.15805},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 667""",
 )
@@ -19871,7 +19871,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.0692, 'd13': 2.64023, 'd23': 1.57444},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 668""",
 )
@@ -19882,7 +19882,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20571, 'd13': 2.50003, 'd23': 1.32576},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 669""",
 )
@@ -19893,7 +19893,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23527, 'd13': 2.52018, 'd23': 1.30205},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 670""",
 )
@@ -19904,7 +19904,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51053, 'd13': 2.65012, 'd23': 1.14772},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 671""",
 )
@@ -19915,7 +19915,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34243, 'd13': 2.6813, 'd23': 1.34469},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 672""",
 )
@@ -19926,7 +19926,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20941, 'd13': 2.50023, 'd23': 1.3291},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 673""",
 )
@@ -19937,7 +19937,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2667, 'd13': 2.5225, 'd23': 1.27912},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 674""",
 )
@@ -19948,7 +19948,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32425, 'd13': 2.38721, 'd23': 1.09227},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 675""",
 )
@@ -19959,7 +19959,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14894, 'd13': 2.57556, 'd23': 1.44518},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 676""",
 )
@@ -19970,7 +19970,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49396, 'd13': 2.63742, 'd23': 1.1486},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 677""",
 )
@@ -19981,7 +19981,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13273, 'd13': 2.51842, 'd23': 1.38853},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 678""",
 )
@@ -19992,7 +19992,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4558, 'd13': 2.74598, 'd23': 1.2947},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 679""",
 )
@@ -20003,7 +20003,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43529, 'd13': 2.58792, 'd23': 1.18165},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 680""",
 )
@@ -20014,7 +20014,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23612, 'd13': 2.51075, 'd23': 1.31028},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 681""",
 )
@@ -20025,7 +20025,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37518, 'd13': 2.67744, 'd23': 1.3091},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 682""",
 )
@@ -20036,7 +20036,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24798, 'd13': 2.53331, 'd23': 1.28981},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 683""",
 )
@@ -20047,7 +20047,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36669, 'd13': 2.55486, 'd23': 1.2},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 684""",
 )
@@ -20058,7 +20058,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07201, 'd13': 2.33252, 'd23': 1.26304},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 685""",
 )
@@ -20069,7 +20069,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24666, 'd13': 2.52377, 'd23': 1.30729},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 686""",
 )
@@ -20080,7 +20080,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40874, 'd13': 2.39182, 'd23': 1.02853},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 687""",
 )
@@ -20091,7 +20091,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31308, 'd13': 2.69369, 'd23': 1.39294},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 688""",
 )
@@ -20102,7 +20102,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34699, 'd13': 2.70101, 'd23': 1.3639},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 689""",
 )
@@ -20113,7 +20113,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23072, 'd13': 2.51841, 'd23': 1.30771},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 690""",
 )
@@ -20124,7 +20124,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44045, 'd13': 2.59098, 'd23': 1.16073},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 691""",
 )
@@ -20135,7 +20135,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.917993, 'd13': 2.28211, 'd23': 1.36495},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 692""",
 )
@@ -20146,7 +20146,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26669, 'd13': 2.51965, 'd23': 1.2599},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 693""",
 )
@@ -20157,7 +20157,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16904, 'd13': 2.27975, 'd23': 1.14733},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 694""",
 )
@@ -20168,7 +20168,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5076, 'd13': 2.72056, 'd23': 1.22248},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 695""",
 )
@@ -20179,7 +20179,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34222, 'd13': 2.68891, 'd23': 1.34814},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 696""",
 )
@@ -20190,7 +20190,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25651, 'd13': 2.51299, 'd23': 1.28575},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 697""",
 )
@@ -20201,7 +20201,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23023, 'd13': 2.4966, 'd23': 1.30833},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 698""",
 )
@@ -20212,7 +20212,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13375, 'd13': 2.51739, 'd23': 1.3855},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 699""",
 )
@@ -20223,7 +20223,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23065, 'd13': 2.50953, 'd23': 1.28552},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 700""",
 )
@@ -20234,7 +20234,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20304, 'd13': 2.49914, 'd23': 1.30835},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 701""",
 )
@@ -20245,7 +20245,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20033, 'd13': 2.33924, 'd23': 1.15913},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 702""",
 )
@@ -20256,7 +20256,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.344, 'd13': 2.50932, 'd23': 1.18973},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 703""",
 )
@@ -20267,7 +20267,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18567, 'd13': 2.50451, 'd23': 1.32705},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 704""",
 )
@@ -20278,7 +20278,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.237, 'd13': 2.37343, 'd23': 1.14228},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 705""",
 )
@@ -20289,7 +20289,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20057, 'd13': 2.54411, 'd23': 1.3546},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 706""",
 )
@@ -20300,7 +20300,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20983, 'd13': 2.52411, 'd23': 1.31492},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 707""",
 )
@@ -20311,7 +20311,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31884, 'd13': 2.52587, 'd23': 1.21085},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 708""",
 )
@@ -20322,7 +20322,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06983, 'd13': 2.62781, 'd23': 1.56254},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 709""",
 )
@@ -20333,7 +20333,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39687, 'd13': 2.69707, 'd23': 1.30237},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 710""",
 )
@@ -20344,7 +20344,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23375, 'd13': 2.50952, 'd23': 1.30262},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 711""",
 )
@@ -20355,7 +20355,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07312, 'd13': 2.30767, 'd23': 1.23797},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 712""",
 )
@@ -20366,7 +20366,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31742, 'd13': 2.7005, 'd23': 1.39211},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 713""",
 )
@@ -20377,7 +20377,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33028, 'd13': 2.50383, 'd23': 1.179},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 714""",
 )
@@ -20388,7 +20388,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17563, 'd13': 2.51703, 'd23': 1.34575},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 715""",
 )
@@ -20399,7 +20399,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3522, 'd13': 2.51422, 'd23': 1.18852},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 716""",
 )
@@ -20410,7 +20410,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16367, 'd13': 2.33583, 'd23': 1.18621},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 717""",
 )
@@ -20421,7 +20421,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07627, 'd13': 2.35508, 'd23': 1.29131},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 718""",
 )
@@ -20432,7 +20432,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2616, 'd13': 2.48667, 'd23': 1.23177},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 719""",
 )
@@ -20443,7 +20443,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1649, 'd13': 2.51344, 'd23': 1.35101},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 720""",
 )
@@ -20454,7 +20454,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2206, 'd13': 2.50293, 'd23': 1.3138},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 721""",
 )
@@ -20465,7 +20465,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07655, 'd13': 2.35144, 'd23': 1.289},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 722""",
 )
@@ -20476,7 +20476,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49674, 'd13': 2.60424, 'd23': 1.16705},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 723""",
 )
@@ -20487,7 +20487,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.66881, 'd13': 2.73101, 'd23': 1.13985},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 724""",
 )
@@ -20498,7 +20498,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39075, 'd13': 2.68906, 'd23': 1.30349},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 725""",
 )
@@ -20509,7 +20509,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16999, 'd13': 2.50215, 'd23': 1.35257},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 726""",
 )
@@ -20520,7 +20520,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23203, 'd13': 2.51429, 'd23': 1.28781},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 727""",
 )
@@ -20531,7 +20531,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16276, 'd13': 2.50829, 'd23': 1.35568},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 728""",
 )
@@ -20542,7 +20542,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.97553, 'd13': 2.29595, 'd23': 1.32147},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 729""",
 )
@@ -20553,7 +20553,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16052, 'd13': 2.51388, 'd23': 1.363},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 730""",
 )
@@ -20564,7 +20564,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24567, 'd13': 2.52349, 'd23': 1.29837},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 731""",
 )
@@ -20575,7 +20575,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32482, 'd13': 2.67071, 'd23': 1.34703},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 732""",
 )
@@ -20586,7 +20586,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29438, 'd13': 2.255, 'd23': 1.05914},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 733""",
 )
@@ -20597,7 +20597,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09648, 'd13': 2.33214, 'd23': 1.25222},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 734""",
 )
@@ -20608,7 +20608,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.898102, 'd13': 2.29131, 'd23': 1.39335},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 735""",
 )
@@ -20619,7 +20619,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30244, 'd13': 2.70647, 'd23': 1.40795},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 736""",
 )
@@ -20630,7 +20630,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24399, 'd13': 2.52368, 'd23': 1.29978},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 737""",
 )
@@ -20641,7 +20641,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23479, 'd13': 2.50958, 'd23': 1.27958},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 738""",
 )
@@ -20652,7 +20652,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.03036, 'd13': 2.28979, 'd23': 1.26072},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 739""",
 )
@@ -20663,7 +20663,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.53008, 'd13': 2.59898, 'd23': 1.14482},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 740""",
 )
@@ -20674,7 +20674,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.823648, 'd13': 2.25662, 'd23': 1.45402},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 741""",
 )
@@ -20685,7 +20685,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31131, 'd13': 2.55044, 'd23': 1.24689},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 742""",
 )
@@ -20696,7 +20696,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43006, 'd13': 2.58203, 'd23': 1.1636},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 743""",
 )
@@ -20707,7 +20707,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35367, 'd13': 2.66462, 'd23': 1.31996},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 744""",
 )
@@ -20718,7 +20718,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25819, 'd13': 2.50143, 'd23': 1.28644},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 745""",
 )
@@ -20729,7 +20729,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15135, 'd13': 2.46923, 'd23': 1.3576},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 746""",
 )
@@ -20740,7 +20740,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4409, 'd13': 2.7064, 'd23': 1.26602},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 747""",
 )
@@ -20751,7 +20751,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37373, 'd13': 2.68362, 'd23': 1.31226},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 748""",
 )
@@ -20762,7 +20762,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.945076, 'd13': 2.27978, 'd23': 1.33531},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 749""",
 )
@@ -20773,7 +20773,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25859, 'd13': 2.53106, 'd23': 1.29003},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 750""",
 )
@@ -20784,7 +20784,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37493, 'd13': 2.69122, 'd23': 1.31788},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 751""",
 )
@@ -20795,7 +20795,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39624, 'd13': 2.70146, 'd23': 1.30649},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 752""",
 )
@@ -20806,7 +20806,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38276, 'd13': 2.5516, 'd23': 1.19229},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 753""",
 )
@@ -20817,7 +20817,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11579, 'd13': 2.12085, 'd23': 1.00806},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 754""",
 )
@@ -20828,7 +20828,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27249, 'd13': 2.5083, 'd23': 1.2415},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 755""",
 )
@@ -20839,7 +20839,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49673, 'd13': 2.76299, 'd23': 1.26658},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 756""",
 )
@@ -20850,7 +20850,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18724, 'd13': 2.56616, 'd23': 1.41203},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 757""",
 )
@@ -20861,7 +20861,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2632, 'd13': 2.49963, 'd23': 1.24533},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 758""",
 )
@@ -20872,7 +20872,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42849, 'd13': 2.69597, 'd23': 1.27923},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 759""",
 )
@@ -20883,7 +20883,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32351, 'd13': 2.52811, 'd23': 1.209},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 760""",
 )
@@ -20894,7 +20894,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37831, 'd13': 2.71187, 'd23': 1.35515},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 761""",
 )
@@ -20905,7 +20905,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.923213, 'd13': 2.27971, 'd23': 1.35943},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 762""",
 )
@@ -20916,7 +20916,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29618, 'd13': 2.67447, 'd23': 1.44073},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 763""",
 )
@@ -20927,7 +20927,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29584, 'd13': 2.53207, 'd23': 1.26421},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 764""",
 )
@@ -20938,7 +20938,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.980083, 'd13': 2.27889, 'd23': 1.29884},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 765""",
 )
@@ -20949,7 +20949,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46779, 'd13': 2.59631, 'd23': 1.15777},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 766""",
 )
@@ -20960,7 +20960,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11295, 'd13': 2.38434, 'd23': 1.29506},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 767""",
 )
@@ -20971,7 +20971,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06683, 'd13': 2.6273, 'd23': 1.57351},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 768""",
 )
@@ -20982,7 +20982,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3442, 'd13': 2.68247, 'd23': 1.34236},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 769""",
 )
@@ -20993,7 +20993,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.61152, 'd13': 2.68618, 'd23': 1.14075},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 770""",
 )
@@ -21004,7 +21004,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25596, 'd13': 2.51552, 'd23': 1.2608},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 771""",
 )
@@ -21015,7 +21015,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30185, 'd13': 2.53767, 'd23': 1.23972},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 772""",
 )
@@ -21026,7 +21026,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.923602, 'd13': 2.27789, 'd23': 1.35719},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 773""",
 )
@@ -21037,7 +21037,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.06431, 'd13': 2.33744, 'd23': 1.2736},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 774""",
 )
@@ -21048,7 +21048,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27233, 'd13': 2.38898, 'd23': 1.11669},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 775""",
 )
@@ -21059,7 +21059,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33706, 'd13': 2.52894, 'd23': 1.22398},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 776""",
 )
@@ -21070,7 +21070,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38566, 'd13': 2.53319, 'd23': 1.17108},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 777""",
 )
@@ -21081,7 +21081,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27035, 'd13': 2.53356, 'd23': 1.28434},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 778""",
 )
@@ -21092,7 +21092,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24038, 'd13': 2.53603, 'd23': 1.30065},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 779""",
 )
@@ -21103,7 +21103,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33634, 'd13': 2.39177, 'd23': 1.08484},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 780""",
 )
@@ -21114,7 +21114,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37312, 'd13': 2.68299, 'd23': 1.31274},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 781""",
 )
@@ -21125,7 +21125,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5442, 'd13': 2.57079, 'd23': 1.14646},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 782""",
 )
@@ -21136,7 +21136,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27133, 'd13': 2.52814, 'd23': 1.28334},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 783""",
 )
@@ -21147,7 +21147,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23424, 'd13': 2.48474, 'd23': 1.30384},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 784""",
 )
@@ -21158,7 +21158,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36481, 'd13': 2.39795, 'd23': 1.06982},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 785""",
 )
@@ -21169,7 +21169,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.59328, 'd13': 2.70928, 'd23': 1.1418},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 786""",
 )
@@ -21180,7 +21180,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.10655, 'd13': 2.51709, 'd23': 1.41954},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 787""",
 )
@@ -21191,7 +21191,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34195, 'd13': 2.39802, 'd23': 1.08163},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 788""",
 )
@@ -21202,7 +21202,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23866, 'd13': 2.50681, 'd23': 1.27598},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 789""",
 )
@@ -21213,7 +21213,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16451, 'd13': 2.51345, 'd23': 1.3541},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 790""",
 )
@@ -21224,7 +21224,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.00528, 'd13': 2.29229, 'd23': 1.29011},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 791""",
 )
@@ -21235,7 +21235,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.51859, 'd13': 2.73086, 'd23': 1.24053},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 792""",
 )
@@ -21246,7 +21246,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3831, 'd13': 2.54893, 'd23': 1.18669},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 793""",
 )
@@ -21257,7 +21257,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1654, 'd13': 2.50879, 'd23': 1.35371},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 794""",
 )
@@ -21268,7 +21268,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32343, 'd13': 2.53079, 'd23': 1.21392},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 795""",
 )
@@ -21279,7 +21279,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49264, 'd13': 2.75289, 'd23': 1.30943},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 796""",
 )
@@ -21290,7 +21290,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29321, 'd13': 2.71438, 'd23': 1.44235},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 797""",
 )
@@ -21301,7 +21301,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27628, 'd13': 2.5064, 'd23': 1.23608},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 798""",
 )
@@ -21312,7 +21312,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40476, 'd13': 2.68745, 'd23': 1.28844},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 799""",
 )
@@ -21323,7 +21323,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33485, 'd13': 2.5, 'd23': 1.18},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 800""",
 )
@@ -21334,7 +21334,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29371, 'd13': 2.54642, 'd23': 1.27303},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 801""",
 )
@@ -21345,7 +21345,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20809, 'd13': 2.51976, 'd23': 1.31598},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 802""",
 )
@@ -21356,7 +21356,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17143, 'd13': 2.28948, 'd23': 1.14635},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 803""",
 )
@@ -21367,7 +21367,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27477, 'd13': 2.49865, 'd23': 1.24069},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 804""",
 )
@@ -21378,7 +21378,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16839, 'd13': 2.5134, 'd23': 1.35299},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 805""",
 )
@@ -21389,7 +21389,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49733, 'd13': 2.6084, 'd23': 1.15241},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 806""",
 )
@@ -21400,7 +21400,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13083, 'd13': 2.59445, 'd23': 1.47337},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 807""",
 )
@@ -21411,7 +21411,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1112, 'd13': 2.12282, 'd23': 1.01377},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 808""",
 )
@@ -21422,7 +21422,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40356, 'd13': 2.70891, 'd23': 1.30699},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 809""",
 )
@@ -21433,7 +21433,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25406, 'd13': 2.49994, 'd23': 1.28942},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 810""",
 )
@@ -21444,7 +21444,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13447, 'd13': 2.5178, 'd23': 1.3866},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 811""",
 )
@@ -21455,7 +21455,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17787, 'd13': 2.50583, 'd23': 1.33512},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 813""",
 )
@@ -21466,7 +21466,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30151, 'd13': 2.70052, 'd23': 1.40347},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 814""",
 )
@@ -21477,7 +21477,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38139, 'd13': 2.50908, 'd23': 1.16891},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 815""",
 )
@@ -21488,7 +21488,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.66205, 'd13': 2.71181, 'd23': 1.14147},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 816""",
 )
@@ -21499,7 +21499,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24556, 'd13': 2.52497, 'd23': 1.30021},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 817""",
 )
@@ -21510,7 +21510,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.01808, 'd13': 2.52428, 'd23': 1.53092},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 818""",
 )
@@ -21521,7 +21521,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29047, 'd13': 2.54523, 'd23': 1.26669},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 819""",
 )
@@ -21532,7 +21532,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2335, 'd13': 2.50444, 'd23': 1.27385},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 820""",
 )
@@ -21543,7 +21543,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.873731, 'd13': 2.09844, 'd23': 1.23461},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 821""",
 )
@@ -21554,7 +21554,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34808, 'd13': 2.39776, 'd23': 1.07916},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 822""",
 )
@@ -21565,7 +21565,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3747, 'd13': 2.66961, 'd23': 1.34651},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 823""",
 )
@@ -21576,7 +21576,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28637, 'd13': 2.69872, 'd23': 1.45775},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 824""",
 )
@@ -21587,7 +21587,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.914925, 'd13': 2.28068, 'd23': 1.36764},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 825""",
 )
@@ -21598,7 +21598,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33458, 'd13': 2.52848, 'd23': 1.2316},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 826""",
 )
@@ -21609,7 +21609,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46249, 'd13': 2.60218, 'd23': 1.1573},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 827""",
 )
@@ -21620,7 +21620,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24853, 'd13': 2.50005, 'd23': 1.29371},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 828""",
 )
@@ -21631,7 +21631,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39936, 'd13': 2.53679, 'd23': 1.17582},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 829""",
 )
@@ -21642,7 +21642,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.979885, 'd13': 2.26985, 'd23': 1.29094},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 830""",
 )
@@ -21653,7 +21653,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19234, 'd13': 2.49294, 'd23': 1.30091},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 831""",
 )
@@ -21664,7 +21664,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50701, 'd13': 2.71571, 'd23': 1.24343},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 832""",
 )
@@ -21675,7 +21675,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22268, 'd13': 2.52809, 'd23': 1.31538},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 833""",
 )
@@ -21686,7 +21686,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23368, 'd13': 2.5108, 'd23': 1.30443},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 834""",
 )
@@ -21697,7 +21697,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16486, 'd13': 2.50658, 'd23': 1.35653},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 835""",
 )
@@ -21708,7 +21708,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34196, 'd13': 2.68492, 'd23': 1.36863},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 836""",
 )
@@ -21719,7 +21719,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39269, 'd13': 2.71608, 'd23': 1.33303},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 837""",
 )
@@ -21730,7 +21730,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2879, 'd13': 2.25049, 'd23': 1.05935},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 838""",
 )
@@ -21741,7 +21741,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19173, 'd13': 2.51268, 'd23': 1.32838},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 839""",
 )
@@ -21752,7 +21752,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31348, 'd13': 2.38639, 'd23': 1.09689},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 840""",
 )
@@ -21763,7 +21763,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2577, 'd13': 2.48666, 'd23': 1.23653},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 841""",
 )
@@ -21774,7 +21774,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.10499, 'd13': 2.59555, 'd23': 1.49718},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 842""",
 )
@@ -21785,7 +21785,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.10082, 'd13': 2.52118, 'd23': 1.43393},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 843""",
 )
@@ -21796,7 +21796,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42299, 'd13': 2.71242, 'd23': 1.29195},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 845""",
 )
@@ -21807,7 +21807,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07258, 'd13': 2.62937, 'd23': 1.56523},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 846""",
 )
@@ -21818,7 +21818,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2996, 'd13': 2.56453, 'd23': 1.27488},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 847""",
 )
@@ -21829,7 +21829,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09198, 'd13': 2.59323, 'd23': 1.51982},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 848""",
 )
@@ -21840,7 +21840,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3229, 'd13': 2.51933, 'd23': 1.21797},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 849""",
 )
@@ -21851,7 +21851,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32566, 'd13': 2.39271, 'd23': 1.08804},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 850""",
 )
@@ -21862,7 +21862,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33126, 'd13': 2.39019, 'd23': 1.08662},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 852""",
 )
@@ -21873,7 +21873,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.50715, 'd13': 2.64965, 'd23': 1.16596},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 853""",
 )
@@ -21884,7 +21884,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16563, 'd13': 2.51335, 'd23': 1.35591},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 854""",
 )
@@ -21895,7 +21895,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2395, 'd13': 2.52141, 'd23': 1.29639},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 855""",
 )
@@ -21906,7 +21906,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.948716, 'd13': 2.27562, 'd23': 1.33024},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 856""",
 )
@@ -21917,7 +21917,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37148, 'd13': 2.52139, 'd23': 1.17461},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 857""",
 )
@@ -21928,7 +21928,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.49667, 'd13': 2.76196, 'd23': 1.26562},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 858""",
 )
@@ -21939,7 +21939,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34925, 'd13': 2.49905, 'd23': 1.15969},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 859""",
 )
@@ -21950,7 +21950,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37566, 'd13': 2.5725, 'd23': 1.19713},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 860""",
 )
@@ -21961,7 +21961,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42046, 'd13': 2.69577, 'd23': 1.27536},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 861""",
 )
@@ -21972,7 +21972,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27129, 'd13': 2.38294, 'd23': 1.11453},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 862""",
 )
@@ -21983,7 +21983,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23747, 'd13': 2.34343, 'd23': 1.11981},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 863""",
 )
@@ -21994,7 +21994,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15881, 'd13': 2.48218, 'd23': 1.3681},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 864""",
 )
@@ -22005,7 +22005,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13405, 'd13': 2.58815, 'd23': 1.45646},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 865""",
 )
@@ -22016,7 +22016,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23171, 'd13': 2.51782, 'd23': 1.29818},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 866""",
 )
@@ -22027,7 +22027,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.39149, 'd13': 2.69076, 'd23': 1.30122},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 867""",
 )
@@ -22038,7 +22038,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.20664, 'd13': 2.51986, 'd23': 1.31808},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 868""",
 )
@@ -22049,7 +22049,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08808, 'd13': 2.34445, 'd23': 1.2712},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 869""",
 )
@@ -22060,7 +22060,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28485, 'd13': 2.54622, 'd23': 1.27819},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 870""",
 )
@@ -22071,7 +22071,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15541, 'd13': 2.58202, 'd23': 1.43988},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 871""",
 )
@@ -22082,7 +22082,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4911, 'd13': 2.756, 'd23': 1.26491},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 872""",
 )
@@ -22093,7 +22093,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30303, 'd13': 2.46728, 'd23': 1.20753},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 873""",
 )
@@ -22104,7 +22104,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42809, 'd13': 2.58315, 'd23': 1.16134},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 874""",
 )
@@ -22115,7 +22115,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21096, 'd13': 2.54336, 'd23': 1.33781},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 875""",
 )
@@ -22126,7 +22126,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30518, 'd13': 2.47989, 'd23': 1.19907},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 876""",
 )
@@ -22137,7 +22137,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1675, 'd13': 2.51405, 'd23': 1.3541},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 877""",
 )
@@ -22148,7 +22148,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48312, 'd13': 2.62763, 'd23': 1.15273},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 878""",
 )
@@ -22159,7 +22159,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37764, 'd13': 2.1649, 'd23': 0.807698},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 879""",
 )
@@ -22170,7 +22170,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32075, 'd13': 2.39726, 'd23': 1.09316},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 880""",
 )
@@ -22181,7 +22181,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3878, 'd13': 2.68434, 'd23': 1.30157},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 881""",
 )
@@ -22192,7 +22192,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.05863, 'd13': 2.29327, 'd23': 1.23628},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 882""",
 )
@@ -22203,7 +22203,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11523, 'd13': 2.12211, 'd23': 1.0094},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 883""",
 )
@@ -22214,7 +22214,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47913, 'd13': 2.65104, 'd23': 1.1779},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 884""",
 )
@@ -22225,7 +22225,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17458, 'd13': 2.51431, 'd23': 1.34409},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 885""",
 )
@@ -22236,7 +22236,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16952, 'd13': 2.33512, 'd23': 1.18618},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 886""",
 )
@@ -22247,7 +22247,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44002, 'd13': 2.70814, 'd23': 1.27322},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 887""",
 )
@@ -22258,7 +22258,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1193, 'd13': 2.58069, 'd23': 1.4872},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 888""",
 )
@@ -22269,7 +22269,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27641, 'd13': 2.53443, 'd23': 1.28079},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 889""",
 )
@@ -22280,7 +22280,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22256, 'd13': 2.52181, 'd23': 1.30994},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 890""",
 )
@@ -22291,7 +22291,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32031, 'd13': 2.53735, 'd23': 1.2188},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 891""",
 )
@@ -22302,7 +22302,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43174, 'd13': 2.68204, 'd23': 1.26249},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 892""",
 )
@@ -22313,7 +22313,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.923499, 'd13': 2.27817, 'd23': 1.3582},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 893""",
 )
@@ -22324,7 +22324,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.576, 'd13': 2.68023, 'd23': 1.14999},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 894""",
 )
@@ -22335,7 +22335,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21935, 'd13': 2.5013, 'd23': 1.31734},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 895""",
 )
@@ -22346,7 +22346,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37275, 'd13': 2.67991, 'd23': 1.31021},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 896""",
 )
@@ -22357,7 +22357,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15614, 'd13': 2.27115, 'd23': 1.15584},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 897""",
 )
@@ -22368,7 +22368,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36939, 'd13': 2.51643, 'd23': 1.18767},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 898""",
 )
@@ -22379,7 +22379,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5552, 'd13': 2.66467, 'd23': 1.15497},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 899""",
 )
@@ -22390,7 +22390,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16826, 'd13': 2.27419, 'd23': 1.14744},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 900""",
 )
@@ -22401,7 +22401,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17148, 'd13': 2.51022, 'd23': 1.35041},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 901""",
 )
@@ -22412,7 +22412,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2412, 'd13': 2.51931, 'd23': 1.29704},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 902""",
 )
@@ -22423,7 +22423,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40977, 'd13': 2.6059, 'd23': 1.20087},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 903""",
 )
@@ -22434,7 +22434,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.04166, 'd13': 2.45523, 'd23': 1.41804},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 904""",
 )
@@ -22445,7 +22445,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45826, 'd13': 2.59174, 'd23': 1.16014},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 905""",
 )
@@ -22456,7 +22456,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21074, 'd13': 2.33173, 'd23': 1.15004},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 906""",
 )
@@ -22467,7 +22467,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26097, 'd13': 2.55209, 'd23': 1.29485},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 907""",
 )
@@ -22478,7 +22478,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18093, 'd13': 2.50829, 'd23': 1.33507},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 908""",
 )
@@ -22489,7 +22489,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32444, 'd13': 2.39945, 'd23': 1.09299},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 909""",
 )
@@ -22500,7 +22500,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17905, 'd13': 2.10094, 'd23': 0.92189},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 910""",
 )
@@ -22511,7 +22511,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22826, 'd13': 2.71449, 'd23': 1.48842},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 911""",
 )
@@ -22522,7 +22522,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46332, 'd13': 2.74376, 'd23': 1.29035},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 912""",
 )
@@ -22533,7 +22533,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1709, 'd13': 2.50971, 'd23': 1.34299},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 913""",
 )
@@ -22544,7 +22544,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41879, 'd13': 2.69414, 'd23': 1.27588},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 914""",
 )
@@ -22555,7 +22555,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08536, 'd13': 2.34255, 'd23': 1.25856},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 915""",
 )
@@ -22566,7 +22566,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22796, 'd13': 2.52855, 'd23': 1.30581},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 916""",
 )
@@ -22577,7 +22577,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1508, 'd13': 2.57829, 'd23': 1.44221},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 917""",
 )
@@ -22588,7 +22588,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07319, 'd13': 2.63396, 'd23': 1.56939},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 918""",
 )
@@ -22599,7 +22599,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28557, 'd13': 2.73469, 'd23': 1.45833},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 919""",
 )
@@ -22610,7 +22610,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23489, 'd13': 2.51707, 'd23': 1.29404},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 920""",
 )
@@ -22621,7 +22621,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2752, 'd13': 2.50371, 'd23': 1.23884},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 921""",
 )
@@ -22632,7 +22632,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31901, 'd13': 2.71161, 'd23': 1.40657},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 922""",
 )
@@ -22643,7 +22643,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16932, 'd13': 2.58592, 'd23': 1.42347},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 923""",
 )
@@ -22654,7 +22654,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.14076, 'd13': 2.57921, 'd23': 1.4607},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 924""",
 )
@@ -22665,7 +22665,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18081, 'd13': 2.50849, 'd23': 1.34035},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 925""",
 )
@@ -22676,7 +22676,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08253, 'd13': 2.34131, 'd23': 1.26001},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 926""",
 )
@@ -22687,7 +22687,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27771, 'd13': 2.70699, 'd23': 1.46101},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 927""",
 )
@@ -22698,7 +22698,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21507, 'd13': 2.50236, 'd23': 1.32293},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 928""",
 )
@@ -22709,7 +22709,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.53619, 'd13': 2.77114, 'd23': 1.30049},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 929""",
 )
@@ -22720,7 +22720,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11372, 'd13': 2.12622, 'd23': 1.01507},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 930""",
 )
@@ -22731,7 +22731,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41013, 'd13': 2.68985, 'd23': 1.28028},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 931""",
 )
@@ -22742,7 +22742,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46972, 'd13': 2.60262, 'd23': 1.15474},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 932""",
 )
@@ -22753,7 +22753,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07889, 'd13': 2.36569, 'd23': 1.30442},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 933""",
 )
@@ -22764,7 +22764,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23022, 'd13': 2.52486, 'd23': 1.31119},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 934""",
 )
@@ -22775,7 +22775,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4028, 'd13': 2.68593, 'd23': 1.28698},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 935""",
 )
@@ -22786,7 +22786,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32214, 'd13': 2.51447, 'd23': 1.22719},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 936""",
 )
@@ -22797,7 +22797,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13526, 'd13': 2.5474, 'd23': 1.46443},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 937""",
 )
@@ -22808,7 +22808,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37606, 'd13': 2.68542, 'd23': 1.31356},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 938""",
 )
@@ -22819,7 +22819,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40938, 'd13': 2.69841, 'd23': 1.29289},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 939""",
 )
@@ -22830,7 +22830,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25001, 'd13': 2.51947, 'd23': 1.28628},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 940""",
 )
@@ -22841,7 +22841,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28149, 'd13': 2.7033, 'd23': 1.42499},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 941""",
 )
@@ -22852,7 +22852,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19638, 'd13': 2.49557, 'd23': 1.32747},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 942""",
 )
@@ -22863,7 +22863,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16713, 'd13': 2.277, 'd23': 1.14834},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 943""",
 )
@@ -22874,7 +22874,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.5043, 'd13': 2.78881, 'd23': 1.32319},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 944""",
 )
@@ -22885,7 +22885,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17762, 'd13': 2.50867, 'd23': 1.33721},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 945""",
 )
@@ -22896,7 +22896,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.48534, 'd13': 2.71312, 'd23': 1.23128},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 946""",
 )
@@ -22907,7 +22907,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34414, 'd13': 2.69186, 'd23': 1.35347},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 947""",
 )
@@ -22918,7 +22918,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1965, 'd13': 2.4989, 'd23': 1.31843},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 948""",
 )
@@ -22929,7 +22929,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37366, 'd13': 2.56404, 'd23': 1.20961},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 949""",
 )
@@ -22940,7 +22940,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36621, 'd13': 2.68386, 'd23': 1.32618},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 950""",
 )
@@ -22951,7 +22951,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29984, 'd13': 2.53339, 'd23': 1.25934},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 951""",
 )
@@ -22962,7 +22962,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09323, 'd13': 2.33626, 'd23': 1.2532},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 952""",
 )
@@ -22973,7 +22973,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22092, 'd13': 2.50853, 'd23': 1.31177},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 953""",
 )
@@ -22984,7 +22984,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17532, 'd13': 2.50353, 'd23': 1.33699},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 954""",
 )
@@ -22995,7 +22995,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42135, 'd13': 2.54799, 'd23': 1.16853},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 955""",
 )
@@ -23006,7 +23006,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37138, 'd13': 2.68991, 'd23': 1.31862},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 956""",
 )
@@ -23017,7 +23017,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21951, 'd13': 2.51695, 'd23': 1.30366},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 957""",
 )
@@ -23028,7 +23028,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21, 'd13': 2.51893, 'd23': 1.31316},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 958""",
 )
@@ -23039,7 +23039,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.3254, 'd13': 2.68265, 'd23': 1.35868},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 959""",
 )
@@ -23050,7 +23050,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25582, 'd13': 2.49358, 'd23': 1.2898},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 960""",
 )
@@ -23061,7 +23061,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.927414, 'd13': 2.27277, 'd23': 1.34796},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 961""",
 )
@@ -23072,7 +23072,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19109, 'd13': 2.54948, 'd23': 1.38903},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 962""",
 )
@@ -23083,7 +23083,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30961, 'd13': 2.38515, 'd23': 1.09478},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 963""",
 )
@@ -23094,7 +23094,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26191, 'd13': 2.49263, 'd23': 1.23452},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 964""",
 )
@@ -23105,7 +23105,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.47621, 'd13': 2.72231, 'd23': 1.24767},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 965""",
 )
@@ -23116,7 +23116,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13136, 'd13': 2.51779, 'd23': 1.38889},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 966""",
 )
@@ -23127,7 +23127,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.10343, 'd13': 2.52073, 'd23': 1.42183},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 967""",
 )
@@ -23138,7 +23138,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33858, 'd13': 2.39825, 'd23': 1.08253},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 968""",
 )
@@ -23149,7 +23149,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.34207, 'd13': 2.67448, 'd23': 1.35958},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 969""",
 )
@@ -23160,7 +23160,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15258, 'd13': 2.34294, 'd23': 1.20425},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 970""",
 )
@@ -23171,7 +23171,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31318, 'd13': 2.38361, 'd23': 1.09861},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 971""",
 )
@@ -23182,7 +23182,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09946, 'd13': 2.52254, 'd23': 1.42858},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 972""",
 )
@@ -23193,7 +23193,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32771, 'd13': 2.53403, 'd23': 1.21031},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 973""",
 )
@@ -23204,7 +23204,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26869, 'd13': 2.50133, 'd23': 1.23289},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 974""",
 )
@@ -23215,7 +23215,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.18459, 'd13': 2.50796, 'd23': 1.32679},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 975""",
 )
@@ -23226,7 +23226,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2424, 'd13': 2.52782, 'd23': 1.29509},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 976""",
 )
@@ -23237,7 +23237,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45957, 'd13': 2.56875, 'd23': 1.1333},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 977""",
 )
@@ -23248,7 +23248,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31084, 'd13': 2.55695, 'd23': 1.25399},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 978""",
 )
@@ -23259,7 +23259,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16418, 'd13': 2.50237, 'd23': 1.35857},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 979""",
 )
@@ -23270,7 +23270,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37211, 'd13': 2.64885, 'd23': 1.37613},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 980""",
 )
@@ -23281,7 +23281,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.959029, 'd13': 2.27258, 'd23': 1.31453},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 981""",
 )
@@ -23292,7 +23292,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.990426, 'd13': 2.11366, 'd23': 1.12485},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 982""",
 )
@@ -23303,7 +23303,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.10226, 'd13': 2.52035, 'd23': 1.43033},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 983""",
 )
@@ -23314,7 +23314,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35113, 'd13': 2.53137, 'd23': 1.20766},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 984""",
 )
@@ -23325,7 +23325,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07171, 'd13': 2.62871, 'd23': 1.56293},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 985""",
 )
@@ -23336,7 +23336,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19611, 'd13': 2.51516, 'd23': 1.32793},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 986""",
 )
@@ -23347,7 +23347,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.955954, 'd13': 2.27444, 'd23': 1.3196},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 987""",
 )
@@ -23358,7 +23358,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33586, 'd13': 2.55472, 'd23': 1.22174},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 988""",
 )
@@ -23369,7 +23369,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38028, 'd13': 2.54452, 'd23': 1.19038},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 989""",
 )
@@ -23380,7 +23380,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.999636, 'd13': 2.27952, 'd23': 1.28061},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 991""",
 )
@@ -23391,7 +23391,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4922, 'd13': 2.75661, 'd23': 1.26556},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 992""",
 )
@@ -23402,7 +23402,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16193, 'd13': 2.5231, 'd23': 1.36693},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 993""",
 )
@@ -23413,7 +23413,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29657, 'd13': 2.71311, 'd23': 1.44285},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 994""",
 )
@@ -23424,7 +23424,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16584, 'd13': 2.29068, 'd23': 1.15086},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 995""",
 )
@@ -23435,7 +23435,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.217, 'd13': 2.50626, 'd23': 1.31835},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 996""",
 )
@@ -23446,7 +23446,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30501, 'd13': 2.26007, 'd23': 1.0531},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 997""",
 )
@@ -23457,7 +23457,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11024, 'd13': 2.12665, 'd23': 1.01887},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 998""",
 )
@@ -23468,7 +23468,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.42664, 'd13': 2.71002, 'd23': 1.28796},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 999""",
 )
@@ -23479,7 +23479,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.21541, 'd13': 2.53654, 'd23': 1.33784},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1000""",
 )
@@ -23490,7 +23490,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36984, 'd13': 2.68392, 'd23': 1.31635},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1001""",
 )
@@ -23501,7 +23501,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40966, 'd13': 2.56858, 'd23': 1.16518},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1002""",
 )
@@ -23512,7 +23512,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45758, 'd13': 2.71756, 'd23': 1.26178},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1003""",
 )
@@ -23523,7 +23523,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.53781, 'd13': 2.80022, 'd23': 1.29954},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1004""",
 )
@@ -23534,7 +23534,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.871113, 'd13': 2.10034, 'd23': 1.23941},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1005""",
 )
@@ -23545,7 +23545,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.28306, 'd13': 2.50718, 'd23': 1.23272},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1006""",
 )
@@ -23556,7 +23556,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.4364, 'd13': 2.70679, 'd23': 1.27533},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1007""",
 )
@@ -23567,7 +23567,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25905, 'd13': 2.51574, 'd23': 1.28322},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1008""",
 )
@@ -23578,7 +23578,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2313, 'd13': 2.29397, 'd23': 1.07618},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1009""",
 )
@@ -23589,7 +23589,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11184, 'd13': 2.12599, 'd23': 1.01659},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1010""",
 )
@@ -23600,7 +23600,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.54892, 'd13': 2.58588, 'd23': 1.14536},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1011""",
 )
@@ -23611,7 +23611,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.09068, 'd13': 2.3373, 'd23': 1.25555},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1012""",
 )
@@ -23622,7 +23622,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1023, 'd13': 2.5205, 'd23': 1.42265},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1013""",
 )
@@ -23633,7 +23633,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30847, 'd13': 2.69707, 'd23': 1.41975},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1014""",
 )
@@ -23644,7 +23644,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.05098, 'd13': 2.44543, 'd23': 1.39835},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1015""",
 )
@@ -23655,7 +23655,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16508, 'd13': 2.49864, 'd23': 1.33398},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1016""",
 )
@@ -23666,7 +23666,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.26865, 'd13': 2.53349, 'd23': 1.275},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1017""",
 )
@@ -23677,7 +23677,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19276, 'd13': 2.50781, 'd23': 1.32043},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1018""",
 )
@@ -23688,7 +23688,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.44159, 'd13': 2.58542, 'd23': 1.17745},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1019""",
 )
@@ -23699,7 +23699,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.41822, 'd13': 2.5758, 'd23': 1.18098},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1020""",
 )
@@ -23710,7 +23710,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.29447, 'd13': 2.52962, 'd23': 1.23553},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1021""",
 )
@@ -23721,7 +23721,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.59859, 'd13': 2.76963, 'd23': 1.25521},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1022""",
 )
@@ -23732,7 +23732,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1999, 'd13': 2.49718, 'd23': 1.31281},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1023""",
 )
@@ -23743,7 +23743,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.07908, 'd13': 2.36666, 'd23': 1.30467},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1024""",
 )
@@ -23754,7 +23754,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.45734, 'd13': 2.70359, 'd23': 1.25312},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1025""",
 )
@@ -23765,7 +23765,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.0781, 'd13': 2.62386, 'd23': 1.55451},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1026""",
 )
@@ -23776,7 +23776,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.16547, 'd13': 2.51552, 'd23': 1.35624},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1027""",
 )
@@ -23787,7 +23787,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22474, 'd13': 2.37794, 'd23': 1.2311},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1028""",
 )
@@ -23798,7 +23798,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2345, 'd13': 2.51817, 'd23': 1.30919},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1029""",
 )
@@ -23809,7 +23809,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.40539, 'd13': 2.69497, 'd23': 1.30122},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1030""",
 )
@@ -23820,7 +23820,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17531, 'd13': 2.50751, 'd23': 1.34471},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1031""",
 )
@@ -23831,7 +23831,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22674, 'd13': 2.50866, 'd23': 1.28943},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1032""",
 )
@@ -23842,7 +23842,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27844, 'd13': 2.48699, 'd23': 1.24162},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1033""",
 )
@@ -23853,7 +23853,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17304, 'd13': 2.5146, 'd23': 1.34574},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1034""",
 )
@@ -23864,7 +23864,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.60456, 'd13': 2.70542, 'd23': 1.14246},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1035""",
 )
@@ -23875,7 +23875,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2988, 'd13': 2.68758, 'd23': 1.43974},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1036""",
 )
@@ -23886,7 +23886,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.35734, 'd13': 2.67937, 'd23': 1.33093},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1037""",
 )
@@ -23897,7 +23897,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.10229, 'd13': 2.5206, 'd23': 1.43116},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1038""",
 )
@@ -23908,7 +23908,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.31847, 'd13': 2.49413, 'd23': 1.19721},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1039""",
 )
@@ -23919,7 +23919,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.03721, 'd13': 2.3015, 'd23': 1.26481},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1040""",
 )
@@ -23930,7 +23930,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.23379, 'd13': 2.53141, 'd23': 1.30778},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1041""",
 )
@@ -23941,7 +23941,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11615, 'd13': 2.58521, 'd23': 1.49017},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1042""",
 )
@@ -23952,7 +23952,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17545, 'd13': 2.5146, 'd23': 1.34355},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1043""",
 )
@@ -23963,7 +23963,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17041, 'd13': 2.50585, 'd23': 1.33772},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1044""",
 )
@@ -23974,7 +23974,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1112, 'd13': 2.12652, 'd23': 1.01814},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1045""",
 )
@@ -23985,7 +23985,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.22667, 'd13': 2.5306, 'd23': 1.31116},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1046""",
 )
@@ -23996,7 +23996,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15614, 'd13': 2.27108, 'd23': 1.15505},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1047""",
 )
@@ -24007,7 +24007,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.27366, 'd13': 2.28365, 'd23': 1.01},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1048""",
 )
@@ -24018,7 +24018,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.33397, 'd13': 2.69513, 'd23': 1.40298},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1049""",
 )
@@ -24029,7 +24029,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25917, 'd13': 2.51353, 'd23': 1.29053},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1050""",
 )
@@ -24040,7 +24040,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37992, 'd13': 2.68782, 'd23': 1.3103},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1051""",
 )
@@ -24051,7 +24051,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13778, 'd13': 2.34678, 'd23': 1.22544},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1052""",
 )
@@ -24062,7 +24062,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.19313, 'd13': 2.51244, 'd23': 1.32723},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1053""",
 )
@@ -24073,7 +24073,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08886, 'd13': 2.34634, 'd23': 1.26009},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1054""",
 )
@@ -24084,7 +24084,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.30825, 'd13': 2.26832, 'd23': 1.05442},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1055""",
 )
@@ -24095,7 +24095,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.46456, 'd13': 2.61205, 'd23': 1.15016},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1056""",
 )
@@ -24106,7 +24106,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17555, 'd13': 2.49963, 'd23': 1.33355},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1057""",
 )
@@ -24117,7 +24117,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.17011, 'd13': 2.51702, 'd23': 1.35487},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1058""",
 )
@@ -24128,7 +24128,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.43493, 'd13': 2.44697, 'd23': 1.04679},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1059""",
 )
@@ -24139,7 +24139,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.15243, 'd13': 2.5199, 'd23': 1.37155},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1060""",
 )
@@ -24150,7 +24150,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.862239, 'd13': 2.31149, 'd23': 1.45036},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1061""",
 )
@@ -24161,7 +24161,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.08576, 'd13': 2.34415, 'd23': 1.26095},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1062""",
 )
@@ -24172,7 +24172,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.24251, 'd13': 2.10379, 'd23': 0.872791},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1063""",
 )
@@ -24183,7 +24183,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.2125, 'd13': 2.4836, 'd23': 1.30736},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1064""",
 )
@@ -24194,7 +24194,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.37365, 'd13': 2.53818, 'd23': 1.19506},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1065""",
 )
@@ -24205,7 +24205,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.13646, 'd13': 2.59083, 'd23': 1.46469},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1066""",
 )
@@ -24216,7 +24216,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38655, 'd13': 2.55342, 'd23': 1.19173},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1067""",
 )
@@ -24227,7 +24227,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.01097, 'd13': 2.29319, 'd23': 1.28274},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1068""",
 )
@@ -24238,7 +24238,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.11053, 'd13': 2.12727, 'd23': 1.01924},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1069""",
 )
@@ -24249,7 +24249,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 0.871292, 'd13': 2.10337, 'd23': 1.23976},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1070""",
 )
@@ -24260,7 +24260,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.38461, 'd13': 2.54266, 'd23': 1.18033},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1071""",
 )
@@ -24271,7 +24271,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.36525, 'd13': 2.5513, 'd23': 1.19081},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1072""",
 )
@@ -24282,7 +24282,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.32625, 'd13': 2.56839, 'd23': 1.25358},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1073""",
 )
@@ -24293,7 +24293,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25816, 'd13': 2.51893, 'd23': 1.26267},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1074""",
 )
@@ -24304,7 +24304,7 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.25734, 'd13': 2.50912, 'd23': 1.28127},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1075""",
 )
@@ -24315,8 +24315,117 @@ entry(
     degeneracy = 1,
     distances = DistanceData(
         distances = {'d12': 1.1911, 'd13': 2.55191, 'd23': 1.40266},
-        method = 'm062x/6-311+g(2df,2p)',
+        method = 'm062x/mg3s',
     ),
     shortDesc = u"""Reverse reaction for reaction index 1076""",
 )
 
+entry(
+    index = 2145,
+    label = "C2H3O-3 + CH4S <=> C2H4O-3 + CH3S",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.543, 'd13': 2.783, 'd23': 1.326},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Manual calculation at M06-2X/MG3S.""",
+)
+
+entry(
+    index = 2146,
+    label = "C2H4O-3 + CH3S <=> C2H3O-3 + CH4S",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.326, 'd13': 2.783, 'd23': 1.543},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Reverse reaction for reaction index 2145""",
+)
+
+entry(
+    index = 2147,
+    label = "H2S + HO <=> H2O + HS",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.394, 'd13': 2.715, 'd23': 1.497},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Manual calculation at M06-2X/MG3S.""",
+)
+
+entry(
+    index = 2148,
+    label = "H2O + HS <=> H2S + HO",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.497, 'd13': 2.715, 'd23': 1.394},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Reverse reaction for reaction index 2147""",
+)
+
+entry(
+    index = 2149,
+    label = "Cl + H2O2 <=> ClH + HO2-1",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.051, 'd13': 2.577, 'd23': 1.687},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Manual calculation at M06-2X/MG3S.""",
+)
+
+entry(
+    index = 2150,
+    label = "ClH + HO2-1 <=> Cl + H2O2",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.687, 'd13': 2.577, 'd23': 1.051},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Reverse reaction for reaction index 2149""",
+)
+
+entry(
+    index = 2151,
+    label = "H + H4Si <=> H2 + H3Si",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.571, 'd13': 2.778, 'd23': 1.207},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Manual calculation at M06-2X/MG3S.""",
+)
+
+entry(
+    index = 2152,
+    label = "H2 + H3Si <=> H + H4Si",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.207, 'd13': 2.778, 'd23': 1.571},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Reverse reaction for reaction index 2151""",
+)
+
+entry(
+    index = 2153,
+    label = "H + H6Si2 <=> H2 + H5Si2",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.554, 'd13': 2.830, 'd23': 1.278},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Manual calculation at M06-2X/MG3S.""",
+)
+
+entry(
+    index = 2154,
+    label = "H2 + H5Si2 <=> H + H6Si2",
+    degeneracy = 1,
+    distances = DistanceData(
+        distances = {'d12': 1.278, 'd13': 2.830, 'd23': 1.554},
+        method = 'm062x/mg3s',
+    ),
+    shortDesc = u"""Reverse reaction for reaction index 2153""",
+)

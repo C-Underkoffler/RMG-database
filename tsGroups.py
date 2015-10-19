@@ -37,7 +37,7 @@ def loadDatabase(args):
     
     rmgDatabase = RMGDatabase()
     dataPath = os.path.abspath(os.path.join(os.path.dirname(rmgpy.__file__),'..','..','RMG-database', 'input'))
-    rmgDatabase.load(dataPath, kineticsFamilies='default')
+    rmgDatabase.load(dataPath, kineticsFamilies='all')
     
     # rxnFamily = rmgDatabase.kinetics.families[args.family[0]]
     # database = rxnFamily.transitionStates

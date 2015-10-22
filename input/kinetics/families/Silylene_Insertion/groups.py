@@ -23,8 +23,7 @@ entry(
     label = "Si2S_R_H",
     group = 
 """
-1 *3 Si u0 p1 c0 {2,S}
-2    H  u0 p0 c0  {1,S}
+1 *3 Si u0 p1 c0
 """,
     kinetics = None,
     shortDesc = u"""""",
@@ -37,7 +36,7 @@ u"""
 entry(
     index = 2,
     label = "Y_H",
-    group = "OR{H_H, Si_H}",
+    group = "OR{H_H, Si_H, C_H}",
     kinetics = None,
     shortDesc = u"""""",
     longDesc = 
@@ -206,6 +205,22 @@ u"""
 """,
 )
 
+entry(
+    index = 11,
+    label = "C_H",
+    group = 
+"""
+1 *1 C ux p0 c0 {2,S}
+2 *2 H u0 p0 c0 {1,S}
+""",
+    kinetics = None,
+    shortDesc = u"""""",
+    longDesc = 
+u"""
+
+""",
+)
+
 tree(
 """
 L1: Si2S_R_H
@@ -219,6 +234,7 @@ L1: Y_H
 		L3: SiH4
 		L3: Si2H6
 		L3: Si3H8
+    L3: C_H
 """
 )
 

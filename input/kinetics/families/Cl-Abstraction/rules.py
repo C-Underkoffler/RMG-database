@@ -6,40 +6,91 @@ shortDesc = u""
 longDesc = u"""
 
 """
+
+#entry(
+#    index = 560,
+#    label = "Cl2;C_Chloro",
+#    kinetics = ArrheniusEP(
+#        A = (9.13E-13, 'cm^3/(mol*s)'),
+#        n = 0,
+#        alpha = 0,
+#        E0 = (5.01, 'kcal/mol'),
+#        Tmin = (300, 'K'),
+#        Tmax = (1500, 'K'),
+#    ),
+#    rank = 0,
+#    shortDesc = u"""NIST""",
+#)
+#
+#
+#entry(
+#    index = 561,
+#    label = "Cl2;C_pri_rad",
+#    kinetics = ArrheniusEP(
+#        A = (4.62E-15, 'cm^3/(mol*s)'),
+#        n = 3.07,
+#        alpha = 0,
+#        E0 = (-1.929, 'kcal/mol'),
+#        Tmin = (300, 'K'),
+#        Tmax = (1500, 'K'),
+#    ),
+#    rank = 0,
+#    shortDesc = u"""NIST""",
+#)
+
 entry(
-    index = 0,
-    label = "X_Cl_or_Xrad_Cl_Xbirad_Cl_Xtrirad_Cl;Y_rad_birad_trirad_quadrad",
+    index = 562,
+    label = "Cl2;H_rad",
     kinetics = ArrheniusEP(
-        A = (100000, 'cm^3/(mol*s)'),
+        A = (1.43E-10, 'cm^3/(mol*s)'),
         n = 0,
         alpha = 0,
-        E0 = (10, 'kcal/mol'),
+        E0 = (1.172, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""NIST""",
+)
+
+#entry(
+#    index = 563,
+#    label = "Cl2;C_methyl",
+#    kinetics = ArrheniusEP(
+#        A = (4.78E-12, 'cm^3/(mol*s)'),
+#        n = 0,
+#        alpha = 0,
+#        E0 = (0.47, 'kcal/mol'),
+#        Tmin = (300, 'K'),
+#        Tmax = (1500, 'K'),
+#    ),
+#    rank = 0,
+#    shortDesc = u"""Default""",
+#)
+
+entry(
+    index = 563,
+    label = "Cl2;O_pri_rad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
         Tmin = (300, 'K'),
         Tmax = (1500, 'K'),
     ),
     rank = 0,
     shortDesc = u"""Default""",
-    longDesc = 
-u"""
-If a biradical CH2JJ can abstract from RCH4 to make RCH3J and CH3J 
-then a Y_rad CH3J should be able to abstract from RCH3J which means X_H needs 
-to include Xrad_H. I.e. you can abstract from a radical. To make this possible
-a head node has been created X_H_or_Xrad_H which is a union of X_H and Xrad_H.
-The kinetics for it have just been copied from X_H and are only defined for 
-abstraction by Y_rad_birad. I.e. the top level very approximate guess.
-
-Do better kinetics for this exist? Do we in fact use the reverse kinetics anyway?
-""",
 )
 
 entry(
-    index = 1,
-    label = "X_Cl;Y_rad_birad_trirad_quadrad",
+    index = 564,
+    label = "Cs_Cl;Cl_rad",
     kinetics = ArrheniusEP(
-        A = (100000, 'cm^3/(mol*s)'),
-        n = 0,
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
         alpha = 0,
-        E0 = (10, 'kcal/mol'),
+        E0 = (1.14, 'kcal/mol'),
         Tmin = (300, 'K'),
         Tmax = (1500, 'K'),
     ),
@@ -47,5 +98,123 @@ entry(
     shortDesc = u"""Default""",
 )
 
+entry(
+    index = 565,
+    label = "X_Cl;Cl_rad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""Default""",
+)
 
+entry(
+    index = 566,
+    label = "X_Cl;Cs_rad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""Default""",
+)
+
+entry(
+    index = 567,
+    label = "Cl2;Y_rad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""Default""",
+)
+
+entry(
+    index = 568,
+    label = "X_Cl;Y_rad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""Default""",
+)
+
+entry(
+    index = 569,
+    label = "Xrad_Cl;Y_rad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""Default""",
+)
+
+entry(
+    index = 570,
+    label = "Cl2;Y_1centerbirad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""Default""",
+)
+
+entry(
+    index = 571,
+    label = "X_Cl;Y_1centerbirad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""Default""",
+)
+
+entry(
+    index = 572,
+    label = "Cs_Cl;Y_1centerbirad",
+    kinetics = ArrheniusEP(
+        A = (4.21E-13, 'cm^3/(mol*s)'),
+        n =2.10,
+        alpha = 0,
+        E0 = (1.14, 'kcal/mol'),
+        Tmin = (300, 'K'),
+        Tmax = (1500, 'K'),
+    ),
+    rank = 0,
+    shortDesc = u"""Default""",
+)
 

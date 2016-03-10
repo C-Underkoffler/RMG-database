@@ -12,10 +12,10 @@ entry(
     label = "X_H_or_Xrad_H_Xbirad_H_Xtrirad_H",
     group = "OR{H2, C_H, O_H, Cl_H, Si_H, N_H, S_H}",
     distances = DistanceData(
-        distances = {'d12': 1.30191, 'd13': 2.58696, 'd23': 1.30136},
-        uncertainties = {'d12': 0.108191, 'd13': 0.075845, 'd23': 0.108502},
+        distances = {'d12': 1.30208, 'd13': 2.58731, 'd23': 1.30154},
+        uncertainties = {'d12': 0.107862, 'd13': 0.075032, 'd23': 0.108176},
     ),
-    shortDesc = u"""Fitted to 2154 distances.
+    shortDesc = u"""Fitted to 2156 distances.
 """,
     longDesc = 
 u"""
@@ -355,6 +355,7 @@ u"""
 [<Entry index=119 label="C/H3/Cd">, <Entry index=263 label="Cdj_CdsCd">]
 [<Entry index=12 label="Cb_H">, <Entry index=260 label="Cdj_CdsH">]
 [<Entry index=77 label="CsCHHH">, <Entry index=216 label="Csj/Cd/Cd/H">]
+[<Entry index=341 label="Si_H">, <Entry index=395 label="Sirad">]
 [<Entry index=132 label="C/H2/Cs/O">, <Entry index=324 label="Cs_trip/Ct/H">]
 [<Entry index=195 label="Cd_Cds/Cd/H">, <Entry index=30 label="OjH">]
 [<Entry index=13 label="OradH">, <Entry index=108 label="CsjCCC">]
@@ -646,8 +647,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.334437, 'd13': -0.348528, 'd23': -0.02628},
-        uncertainties = {'d12': 0.095183, 'd13': 0.070477, 'd23': 0.070126},
+        distances = {'d12': -0.33486, 'd13': -0.349121, 'd23': -0.026492},
+        uncertainties = {'d12': 0.085467, 'd13': 0.053159, 'd23': 0.070221},
     ),
     shortDesc = u"""Fitted to 98 distances.
 """,
@@ -697,8 +698,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.042593, 'd13': 0.057429, 'd23': 0.014042},
-        uncertainties = {'d12': 0.09683, 'd13': 0.065983, 'd23': 0.093235},
+        distances = {'d12': 0.042493, 'd13': 0.057241, 'd23': 0.013951},
+        uncertainties = {'d12': 0.096831, 'd13': 0.065993, 'd23': 0.093241},
     ),
     shortDesc = u"""Fitted to 1531 distances.
 """,
@@ -1185,8 +1186,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.022198, 'd13': 0.055876, 'd23': 0.030703},
-        uncertainties = {'d12': 0.086655, 'd13': 0.051314, 'd23': 0.06846},
+        distances = {'d12': 0.022098, 'd13': 0.055688, 'd23': 0.030613},
+        uncertainties = {'d12': 0.086664, 'd13': 0.051309, 'd23': 0.068443},
     ),
     shortDesc = u"""Fitted to 983 distances.
 """,
@@ -1501,8 +1502,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.02131, 'd13': 0.056864, 'd23': 0.032688},
-        uncertainties = {'d12': 0.085813, 'd13': 0.050048, 'd23': 0.068502},
+        distances = {'d12': 0.02121, 'd13': 0.056677, 'd23': 0.032598},
+        uncertainties = {'d12': 0.085821, 'd13': 0.050038, 'd23': 0.068486},
     ),
     shortDesc = u"""Fitted to 949 distances.
 """,
@@ -1793,8 +1794,8 @@ multiplicity [1,2,3,4,5]
 5    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.084408, 'd13': 0.05365, 'd23': -0.042919},
-        uncertainties = {'d12': 0.080412, 'd13': 0.050524, 'd23': 0.042644},
+        distances = {'d12': 0.084308, 'd13': 0.053462, 'd23': -0.04301},
+        uncertainties = {'d12': 0.08042, 'd13': 0.050527, 'd23': 0.042626},
     ),
     shortDesc = u"""Fitted to 63 distances.
 """,
@@ -1842,8 +1843,8 @@ multiplicity [1,2,3,4,5]
 5    R!H ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.032796, 'd13': 0.053614, 'd23': 0.016419},
-        uncertainties = {'d12': 0.086593, 'd13': 0.050109, 'd23': 0.061117},
+        distances = {'d12': 0.032697, 'd13': 0.053426, 'd23': 0.016329},
+        uncertainties = {'d12': 0.0866, 'd13': 0.050093, 'd23': 0.061096},
     ),
     shortDesc = u"""Fitted to 542 distances.
 """,
@@ -1985,8 +1986,8 @@ multiplicity [1,2,3,4,5]
 5    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.03499, 'd13': 0.055103, 'd23': 0.013433},
-        uncertainties = {'d12': 0.088269, 'd13': 0.049725, 'd23': 0.05917},
+        distances = {'d12': 0.034891, 'd13': 0.054915, 'd23': 0.013343},
+        uncertainties = {'d12': 0.088275, 'd13': 0.049706, 'd23': 0.059148},
     ),
     shortDesc = u"""Fitted to 469 distances.
 """,
@@ -2103,8 +2104,8 @@ multiplicity [1,2,3,4,5]
 5    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.056463, 'd13': 0.049686, 'd23': -0.014847},
-        uncertainties = {'d12': 0.093377, 'd13': 0.049042, 'd23': 0.05377},
+        distances = {'d12': 0.056363, 'd13': 0.049498, 'd23': -0.014938},
+        uncertainties = {'d12': 0.093389, 'd13': 0.049033, 'd23': 0.053729},
     ),
     shortDesc = u"""Fitted to 257 distances.
 """,
@@ -2156,8 +2157,8 @@ multiplicity [1,2,3,4,5]
 5    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.004775, 'd13': 0.066875, 'd23': 0.066741},
-        uncertainties = {'d12': 0.083099, 'd13': 0.05532, 'd23': 0.067791},
+        distances = {'d12': -0.004874, 'd13': 0.066688, 'd23': 0.066651},
+        uncertainties = {'d12': 0.083104, 'd13': 0.055301, 'd23': 0.067779},
     ),
     shortDesc = u"""Fitted to 128 distances.
 """,
@@ -2206,8 +2207,8 @@ multiplicity [1,2,3,4,5]
 5    Ct u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.034041, 'd13': 0.056275, 'd23': 0.014765},
-        uncertainties = {'d12': 0.059031, 'd13': 0.035102, 'd23': 0.037197},
+        distances = {'d12': 0.033943, 'd13': 0.056091, 'd23': 0.014678},
+        uncertainties = {'d12': 0.058991, 'd13': 0.034995, 'd23': 0.03727},
     ),
     shortDesc = u"""Fitted to 20 distances.
 """,
@@ -2257,8 +2258,8 @@ multiplicity [1,2,3,4,5]
 5    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.018729, 'd13': 0.044067, 'd23': 0.035562},
-        uncertainties = {'d12': 0.07684, 'd13': 0.053753, 'd23': 0.074058},
+        distances = {'d12': 0.018629, 'd13': 0.043877, 'd23': 0.03547},
+        uncertainties = {'d12': 0.076847, 'd13': 0.053759, 'd23': 0.074041},
     ),
     shortDesc = u"""Fitted to 73 distances.
 """,
@@ -2365,8 +2366,8 @@ multiplicity [1,2,3,4,5]
 5    R!H ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.011212, 'd13': 0.064444, 'd23': 0.077653},
-        uncertainties = {'d12': 0.084638, 'd13': 0.050227, 'd23': 0.082031},
+        distances = {'d12': -0.011312, 'd13': 0.064256, 'd23': 0.077563},
+        uncertainties = {'d12': 0.08465, 'd13': 0.050219, 'd23': 0.08201},
     ),
     shortDesc = u"""Fitted to 308 distances.
 """,
@@ -2486,8 +2487,8 @@ multiplicity [1,2,3,4,5]
 5    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.016404, 'd13': 0.068943, 'd23': 0.083888},
-        uncertainties = {'d12': 0.087639, 'd13': 0.049855, 'd23': 0.081948},
+        distances = {'d12': -0.016504, 'd13': 0.068755, 'd23': 0.083797},
+        uncertainties = {'d12': 0.08765, 'd13': 0.049843, 'd23': 0.081929},
     ),
     shortDesc = u"""Fitted to 249 distances.
 """,
@@ -2584,8 +2585,8 @@ multiplicity [1,2,3,4,5]
 5    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.025091, 'd13': 0.044178, 'd23': 0.014687},
-        uncertainties = {'d12': 0.095548, 'd13': 0.055009, 'd23': 0.068035},
+        distances = {'d12': 0.024991, 'd13': 0.04399, 'd23': 0.014597},
+        uncertainties = {'d12': 0.095564, 'd13': 0.055012, 'd23': 0.067994},
     ),
     shortDesc = u"""Fitted to 71 distances.
 """,
@@ -2624,8 +2625,8 @@ multiplicity [1,2,3,4,5]
 5    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.029096, 'd13': 0.07499, 'd23': 0.104803},
-        uncertainties = {'d12': 0.086089, 'd13': 0.049398, 'd23': 0.092569},
+        distances = {'d12': -0.029196, 'd13': 0.074801, 'd23': 0.104712},
+        uncertainties = {'d12': 0.0861, 'd13': 0.049381, 'd23': 0.092557},
     ),
     shortDesc = u"""Fitted to 101 distances.
 """,
@@ -2701,8 +2702,8 @@ multiplicity [1,2,3,4,5]
 5    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.041518, 'd13': 0.090072, 'd23': 0.129762},
-        uncertainties = {'d12': 0.079883, 'd13': 0.044699, 'd23': 0.070128},
+        distances = {'d12': -0.041617, 'd13': 0.089885, 'd23': 0.129672},
+        uncertainties = {'d12': 0.079887, 'd13': 0.044697, 'd23': 0.07013},
     ),
     shortDesc = u"""Fitted to 60 distances.
 """,
@@ -2821,8 +2822,8 @@ multiplicity [1,2,3,4,5]
 5    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.010552, 'd13': 0.045587, 'd23': 0.051519},
-        uncertainties = {'d12': 0.072925, 'd13': 0.053305, 'd23': 0.08485},
+        distances = {'d12': 0.010452, 'd13': 0.045399, 'd23': 0.051428},
+        uncertainties = {'d12': 0.072937, 'd13': 0.053313, 'd23': 0.084819},
     ),
     shortDesc = u"""Fitted to 59 distances.
 """,
@@ -2867,8 +2868,8 @@ multiplicity [1,2,3,4,5]
 5    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.010552, 'd13': 0.045587, 'd23': 0.051519},
-        uncertainties = {'d12': 0.072925, 'd13': 0.053305, 'd23': 0.08485},
+        distances = {'d12': 0.010452, 'd13': 0.045399, 'd23': 0.051428},
+        uncertainties = {'d12': 0.072937, 'd13': 0.053313, 'd23': 0.084819},
     ),
     shortDesc = u"""Fitted to 59 distances.
 """,
@@ -3046,8 +3047,8 @@ multiplicity [1,2,3,4,5]
 5    R!H ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.003239, 'd13': 0.046121, 'd23': 0.039138},
-        uncertainties = {'d12': 0.104662, 'd13': 0.054149, 'd23': 0.090545},
+        distances = {'d12': 0.003139, 'd13': 0.045936, 'd23': 0.039052},
+        uncertainties = {'d12': 0.104651, 'd13': 0.054189, 'd23': 0.090618},
     ),
     shortDesc = u"""Fitted to 36 distances.
 """,
@@ -3094,8 +3095,8 @@ multiplicity [1,2,3,4,5]
 5    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.000387, 'd13': 0.044273, 'd23': 0.039085},
-        uncertainties = {'d12': 0.104744, 'd13': 0.05072, 'd23': 0.092709},
+        distances = {'d12': 0.000287, 'd13': 0.044088, 'd23': 0.038998},
+        uncertainties = {'d12': 0.104734, 'd13': 0.050758, 'd23': 0.09278},
     ),
     shortDesc = u"""Fitted to 29 distances.
 """,
@@ -3136,8 +3137,8 @@ multiplicity [1,2,3,4,5]
 5    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.002788, 'd13': 0.040775, 'd23': 0.035015},
-        uncertainties = {'d12': 0.103155, 'd13': 0.051016, 'd23': 0.09016},
+        distances = {'d12': -0.002889, 'd13': 0.040585, 'd23': 0.034924},
+        uncertainties = {'d12': 0.103177, 'd13': 0.051065, 'd23': 0.090134},
     ),
     shortDesc = u"""Fitted to 12 distances.
 """,
@@ -3458,8 +3459,8 @@ multiplicity [1,2,3,4,5]
 5    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.015936, 'd13': 0.054346, 'd23': 0.039375},
-        uncertainties = {'d12': 0.140617, 'd13': 0.087851, 'd23': 0.110652},
+        distances = {'d12': 0.015835, 'd13': 0.05416, 'd23': 0.039288},
+        uncertainties = {'d12': 0.140595, 'd13': 0.087918, 'd23': 0.11076},
     ),
     shortDesc = u"""Fitted to 7 distances.
 """,
@@ -3487,8 +3488,8 @@ multiplicity [1,2,3,4,5]
 5    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.015936, 'd13': 0.054346, 'd23': 0.039375},
-        uncertainties = {'d12': 0.140617, 'd13': 0.087851, 'd23': 0.110652},
+        distances = {'d12': 0.015835, 'd13': 0.05416, 'd23': 0.039288},
+        uncertainties = {'d12': 0.140595, 'd13': 0.087918, 'd23': 0.11076},
     ),
     shortDesc = u"""Fitted to 7 distances.
 """,
@@ -3798,8 +3799,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.047171, 'd13': 0.033807, 'd23': -0.020924},
-        uncertainties = {'d12': 0.105486, 'd13': 0.062101, 'd23': 0.071839},
+        distances = {'d12': 0.047072, 'd13': 0.03362, 'd23': -0.021014},
+        uncertainties = {'d12': 0.105506, 'd13': 0.062087, 'd23': 0.071792},
     ),
     shortDesc = u"""Fitted to 32 distances.
 """,
@@ -3845,8 +3846,8 @@ multiplicity [1,2,3,4,5]
 4    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.090895, 'd13': 0.037751, 'd23': -0.06157},
-        uncertainties = {'d12': 0.120996, 'd13': 0.086764, 'd23': 0.044008},
+        distances = {'d12': 0.090797, 'd13': 0.037566, 'd23': -0.061659},
+        uncertainties = {'d12': 0.121002, 'd13': 0.086757, 'd23': 0.043983},
     ),
     shortDesc = u"""Fitted to 17 distances.
 """,
@@ -3879,8 +3880,8 @@ multiplicity [1,2,3,4,5]
 4    R!H ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.008176, 'd13': 0.028814, 'd23': 0.030526},
-        uncertainties = {'d12': 0.100608, 'd13': 0.025242, 'd23': 0.101843},
+        distances = {'d12': -0.008276, 'd13': 0.028626, 'd23': 0.030436},
+        uncertainties = {'d12': 0.100649, 'd13': 0.025183, 'd23': 0.101775},
     ),
     shortDesc = u"""Fitted to 15 distances.
 """,
@@ -3914,8 +3915,8 @@ multiplicity [1,2,3,4,5]
 4    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.008176, 'd13': 0.028814, 'd23': 0.030526},
-        uncertainties = {'d12': 0.100608, 'd13': 0.025242, 'd23': 0.101843},
+        distances = {'d12': -0.008276, 'd13': 0.028626, 'd23': 0.030436},
+        uncertainties = {'d12': 0.100649, 'd13': 0.025183, 'd23': 0.101775},
     ),
     shortDesc = u"""Fitted to 15 distances.
 """,
@@ -3977,8 +3978,8 @@ multiplicity [1,2,3,4,5]
 4    Ct u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.008176, 'd13': 0.028814, 'd23': 0.030526},
-        uncertainties = {'d12': 0.100608, 'd13': 0.025242, 'd23': 0.101843},
+        distances = {'d12': -0.008276, 'd13': 0.028626, 'd23': 0.030436},
+        uncertainties = {'d12': 0.100649, 'd13': 0.025183, 'd23': 0.101775},
     ),
     shortDesc = u"""Fitted to 15 distances.
 """,
@@ -4285,8 +4286,8 @@ entry(
     label = "CsbiradH",
     group = "OR{Cs_singletH, Cs_tripletH}",
     distances = DistanceData(
-        distances = {'d12': 0.047042, 'd13': -0.142847, 'd23': -0.150334},
-        uncertainties = {'d12': 1.76465, 'd13': 2.05464, 'd23': 0.507827},
+        distances = {'d12': 0.046949, 'd13': -0.142998, 'd23': -0.150388},
+        uncertainties = {'d12': 1.76631, 'd13': 2.05981, 'd23': 0.509004},
     ),
     shortDesc = u"""Fitted to 2 distances.
 """,
@@ -4425,8 +4426,8 @@ multiplicity [1,2,3,4,5]
 3    R  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.047042, 'd13': -0.142847, 'd23': -0.150334},
-        uncertainties = {'d12': 1.76465, 'd13': 2.05464, 'd23': 0.507827},
+        distances = {'d12': 0.046949, 'd13': -0.142998, 'd23': -0.150388},
+        uncertainties = {'d12': 1.76631, 'd13': 2.05981, 'd23': 0.509004},
     ),
     shortDesc = u"""Fitted to 2 distances.
 """,
@@ -4448,8 +4449,8 @@ multiplicity [1,2,3,4,5]
 3    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.047042, 'd13': -0.142847, 'd23': -0.150334},
-        uncertainties = {'d12': 1.76465, 'd13': 2.05464, 'd23': 0.507827},
+        distances = {'d12': 0.046949, 'd13': -0.142998, 'd23': -0.150388},
+        uncertainties = {'d12': 1.76631, 'd13': 2.05981, 'd23': 0.509004},
     ),
     shortDesc = u"""Fitted to 2 distances.
 """,
@@ -4592,8 +4593,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.089688, 'd13': 0.040785, 'd23': -0.051426},
-        uncertainties = {'d12': 0.107638, 'd13': 0.072504, 'd23': 0.07061},
+        distances = {'d12': 0.089589, 'd13': 0.040597, 'd23': -0.051517},
+        uncertainties = {'d12': 0.10764, 'd13': 0.072501, 'd23': 0.070605},
     ),
     shortDesc = u"""Fitted to 310 distances.
 """,
@@ -4725,8 +4726,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.097673, 'd13': 0.043836, 'd23': -0.057712},
-        uncertainties = {'d12': 0.110199, 'd13': 0.074104, 'd23': 0.070477},
+        distances = {'d12': 0.097573, 'd13': 0.043648, 'd23': -0.057803},
+        uncertainties = {'d12': 0.110202, 'd13': 0.074103, 'd23': 0.070469},
     ),
     shortDesc = u"""Fitted to 284 distances.
 """,
@@ -4844,8 +4845,8 @@ multiplicity [1,2,3,4,5]
 3    C  ux {1,D}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.097673, 'd13': 0.043836, 'd23': -0.057712},
-        uncertainties = {'d12': 0.110199, 'd13': 0.074104, 'd23': 0.070477},
+        distances = {'d12': 0.097573, 'd13': 0.043648, 'd23': -0.057803},
+        uncertainties = {'d12': 0.110202, 'd13': 0.074103, 'd23': 0.070469},
     ),
     shortDesc = u"""Fitted to 284 distances.
 """,
@@ -4964,8 +4965,8 @@ multiplicity [1,2,3,4,5]
 4    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.098575, 'd13': 0.042598, 'd23': -0.058645},
-        uncertainties = {'d12': 0.106253, 'd13': 0.074773, 'd23': 0.070405},
+        distances = {'d12': 0.098476, 'd13': 0.04241, 'd23': -0.058736},
+        uncertainties = {'d12': 0.106256, 'd13': 0.074772, 'd23': 0.070396},
     ),
     shortDesc = u"""Fitted to 180 distances.
 """,
@@ -5032,8 +5033,8 @@ multiplicity [1,2,3,4,5]
 4    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.120868, 'd13': 0.049171, 'd23': -0.076411},
-        uncertainties = {'d12': 0.102502, 'd13': 0.076662, 'd23': 0.051044},
+        distances = {'d12': 0.120769, 'd13': 0.048982, 'd23': -0.076502},
+        uncertainties = {'d12': 0.10251, 'd13': 0.076667, 'd23': 0.05102},
     ),
     shortDesc = u"""Fitted to 113 distances.
 """,
@@ -5079,8 +5080,8 @@ multiplicity [1,2,3,4,5]
 4    H   u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.063172, 'd13': 0.032159, 'd23': -0.030432},
-        uncertainties = {'d12': 0.11507, 'd13': 0.07346, 'd23': 0.096295},
+        distances = {'d12': 0.063073, 'd13': 0.031972, 'd23': -0.030523},
+        uncertainties = {'d12': 0.115067, 'd13': 0.073448, 'd23': 0.096299},
     ),
     shortDesc = u"""Fitted to 67 distances.
 """,
@@ -5122,8 +5123,8 @@ multiplicity [1,2,3,4,5]
 4    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.096071, 'd13': 0.046033, 'd23': -0.056056},
-        uncertainties = {'d12': 0.118549, 'd13': 0.074177, 'd23': 0.071784},
+        distances = {'d12': 0.095972, 'd13': 0.045845, 'd23': -0.056147},
+        uncertainties = {'d12': 0.118553, 'd13': 0.074177, 'd23': 0.071776},
     ),
     shortDesc = u"""Fitted to 104 distances.
 """,
@@ -5196,8 +5197,8 @@ multiplicity [1,2,3,4,5]
 4    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.090196, 'd13': 0.048273, 'd23': -0.04821},
-        uncertainties = {'d12': 0.111793, 'd13': 0.07187, 'd23': 0.058552},
+        distances = {'d12': 0.090095, 'd13': 0.048084, 'd23': -0.048302},
+        uncertainties = {'d12': 0.111797, 'd13': 0.07187, 'd23': 0.058539},
     ),
     shortDesc = u"""Fitted to 38 distances.
 """,
@@ -5239,8 +5240,8 @@ multiplicity [1,2,3,4,5]
 4    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.105833, 'd13': 0.045351, 'd23': -0.066501},
-        uncertainties = {'d12': 0.139782, 'd13': 0.087414, 'd23': 0.089275},
+        distances = {'d12': 0.105734, 'd13': 0.045163, 'd23': -0.066592},
+        uncertainties = {'d12': 0.139792, 'd13': 0.087427, 'd23': 0.089263},
     ),
     shortDesc = u"""Fitted to 51 distances.
 """,
@@ -5281,8 +5282,8 @@ multiplicity [1,2,3,4,5]
 4    Ct u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.077275, 'd13': 0.042881, 'd23': -0.03975},
-        uncertainties = {'d12': 0.065924, 'd13': 0.030491, 'd23': 0.041582},
+        distances = {'d12': 0.077176, 'd13': 0.042695, 'd23': -0.039839},
+        uncertainties = {'d12': 0.065883, 'd13': 0.030338, 'd23': 0.041629},
     ),
     shortDesc = u"""Fitted to 15 distances.
 """,
@@ -5535,8 +5536,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.006739, 'd13': 0.009088, 'd23': 0.01387},
-        uncertainties = {'d12': 0.079939, 'd13': 0.055939, 'd23': 0.077189},
+        distances = {'d12': 0.006641, 'd13': 0.008903, 'd23': 0.01378},
+        uncertainties = {'d12': 0.079919, 'd13': 0.055905, 'd23': 0.077215},
     ),
     shortDesc = u"""Fitted to 26 distances.
 """,
@@ -5571,8 +5572,8 @@ multiplicity [1,2,3,4,5]
 3    C  ux {1,D}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.006739, 'd13': 0.009088, 'd23': 0.01387},
-        uncertainties = {'d12': 0.079939, 'd13': 0.055939, 'd23': 0.077189},
+        distances = {'d12': 0.006641, 'd13': 0.008903, 'd23': 0.01378},
+        uncertainties = {'d12': 0.079919, 'd13': 0.055905, 'd23': 0.077215},
     ),
     shortDesc = u"""Fitted to 26 distances.
 """,
@@ -5620,8 +5621,8 @@ multiplicity [1,2,3,4,5]
 3    Cdd u0 {1,D}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.006739, 'd13': 0.009088, 'd23': 0.01387},
-        uncertainties = {'d12': 0.079939, 'd13': 0.055939, 'd23': 0.077189},
+        distances = {'d12': 0.006641, 'd13': 0.008903, 'd23': 0.01378},
+        uncertainties = {'d12': 0.079919, 'd13': 0.055905, 'd23': 0.077215},
     ),
     shortDesc = u"""Fitted to 26 distances.
 """,
@@ -5668,8 +5669,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.459818, 'd13': 0.207951, 'd23': -0.204163},
-        uncertainties = {'d12': 0.116359, 'd13': 0.139555, 'd23': 0.104025},
+        distances = {'d12': 0.45972, 'd13': 0.207766, 'd23': -0.204253},
+        uncertainties = {'d12': 0.116355, 'd13': 0.139544, 'd23': 0.104023},
     ),
     shortDesc = u"""Fitted to 20 distances.
 """,
@@ -5699,8 +5700,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.119915, 'd13': 0.044484, 'd23': -0.081117},
-        uncertainties = {'d12': 0.128896, 'd13': 0.097271, 'd23': 0.057706},
+        distances = {'d12': 0.119816, 'd13': 0.044298, 'd23': -0.081207},
+        uncertainties = {'d12': 0.128911, 'd13': 0.097284, 'd23': 0.05767},
     ),
     shortDesc = u"""Fitted to 30 distances.
 """,
@@ -5739,8 +5740,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.064811, 'd13': -0.106868, 'd23': -0.037757},
-        uncertainties = {'d12': 0.138719, 'd13': 0.098454, 'd23': 0.14773},
+        distances = {'d12': -0.064911, 'd13': -0.107057, 'd23': -0.037848},
+        uncertainties = {'d12': 0.138718, 'd13': 0.098453, 'd23': 0.147736},
     ),
     shortDesc = u"""Fitted to 520 distances.
 """,
@@ -5863,8 +5864,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.035082, 'd13': -0.12128, 'd23': -0.089385},
-        uncertainties = {'d12': 0.14434, 'd13': 0.092403, 'd23': 0.074793},
+        distances = {'d12': -0.035182, 'd13': -0.121467, 'd23': -0.089475},
+        uncertainties = {'d12': 0.144335, 'd13': 0.092396, 'd23': 0.074821},
     ),
     shortDesc = u"""Fitted to 30 distances.
 """,
@@ -5904,8 +5905,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.066796, 'd13': -0.105905, 'd23': -0.034309},
-        uncertainties = {'d12': 0.138885, 'd13': 0.099114, 'd23': 0.151207},
+        distances = {'d12': -0.066896, 'd13': -0.106095, 'd23': -0.0344},
+        uncertainties = {'d12': 0.138884, 'd13': 0.099113, 'd23': 0.151212},
     ),
     shortDesc = u"""Fitted to 490 distances.
 """,
@@ -6008,8 +6009,8 @@ multiplicity [1,2,3,4,5]
 3    H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.116716, 'd13': -0.074949, 'd23': -0.170198},
-        uncertainties = {'d12': 0.15551, 'd13': 0.145266, 'd23': 0.073292},
+        distances = {'d12': 0.116618, 'd13': -0.075138, 'd23': -0.170289},
+        uncertainties = {'d12': 0.155514, 'd13': 0.145269, 'd23': 0.073289},
     ),
     shortDesc = u"""Fitted to 70 distances.
 """,
@@ -6052,8 +6053,8 @@ multiplicity [1,2,3,4,5]
 3    C ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.013421, 'd13': -0.131885, 'd23': -0.113232},
-        uncertainties = {'d12': 0.124942, 'd13': 0.104312, 'd23': 0.051152},
+        distances = {'d12': -0.013521, 'd13': -0.132074, 'd23': -0.113322},
+        uncertainties = {'d12': 0.124941, 'd13': 0.10432, 'd23': 0.051192},
     ),
     shortDesc = u"""Fitted to 105 distances.
 """,
@@ -6103,8 +6104,8 @@ multiplicity [1,2,3,4,5]
 3    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.014439, 'd13': -0.13351, 'd23': -0.114033},
-        uncertainties = {'d12': 0.114165, 'd13': 0.101582, 'd23': 0.048982},
+        distances = {'d12': -0.01454, 'd13': -0.133699, 'd23': -0.114123},
+        uncertainties = {'d12': 0.114163, 'd13': 0.101589, 'd23': 0.049017},
     ),
     shortDesc = u"""Fitted to 99 distances.
 """,
@@ -6148,8 +6149,8 @@ multiplicity [1,2,3,4,5]
 3    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.069544, 'd13': -0.118522, 'd23': -0.047943},
-        uncertainties = {'d12': 0.125218, 'd13': 0.070946, 'd23': 0.081035},
+        distances = {'d12': -0.069608, 'd13': -0.118712, 'd23': -0.047993},
+        uncertainties = {'d12': 0.125057, 'd13': 0.07083, 'd23': 0.081588},
     ),
     shortDesc = u"""Fitted to 4 distances.
 """,
@@ -6205,8 +6206,8 @@ multiplicity [1,2,3,4,5]
 3    O ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.129408, 'd13': -0.105391, 'd23': 0.024529},
-        uncertainties = {'d12': 0.140938, 'd13': 0.085337, 'd23': 0.183585},
+        distances = {'d12': -0.129509, 'd13': -0.105581, 'd23': 0.024437},
+        uncertainties = {'d12': 0.140936, 'd13': 0.085331, 'd23': 0.183588},
     ),
     shortDesc = u"""Fitted to 315 distances.
 """,
@@ -6255,7 +6256,7 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.395584, 'd13': 0.069699, 'd23': -0.183538},
+        distances = {'d12': 0.395627, 'd13': 0.069746, 'd23': -0.184008},
         uncertainties = {},
     ),
     shortDesc = u"""Fitted to 1 distances.
@@ -6276,13 +6277,14 @@ multiplicity [1,2,3,4,5]
 2 *2 H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.27275, 'd13': 0.391445, 'd23': 0.109413},
-        uncertainties = {'d12': 0.266533, 'd13': 3.16862, 'd23': 3.0903},
+        distances = {'d12': 0.306281, 'd13': 0.502605, 'd23': 0.196917},
+        uncertainties = {'d12': 0.183855, 'd13': 0.405394, 'd23': 0.289038},
     ),
-    shortDesc = u"""Fitted to 2 distances.
+    shortDesc = u"""Fitted to 4 distances.
 """,
     longDesc = 
 u"""
+[<Entry index=341 label="Si_H">, <Entry index=395 label="Sirad">]
 [<Entry index=341 label="Si_H">, <Entry index=6 label="Hrad">]
 """,
 )
@@ -6771,8 +6773,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.226002, 'd13': 0.24934, 'd23': 0.128215},
-        uncertainties = {'d12': 1.38625, 'd13': 0.287498, 'd23': 1.54464},
+        distances = {'d12': 0.226068, 'd13': 0.248906, 'd23': 0.128571},
+        uncertainties = {'d12': 1.38656, 'd13': 0.28805, 'd23': 1.54432},
     ),
     shortDesc = u"""Fitted to 2 distances.
 """,
@@ -6805,8 +6807,8 @@ multiplicity [1,2,3,4,5]
 2 *2 H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.226002, 'd13': 0.24934, 'd23': 0.128215},
-        uncertainties = {'d12': 1.38625, 'd13': 0.287498, 'd23': 1.54464},
+        distances = {'d12': 0.226068, 'd13': 0.248906, 'd23': 0.128571},
+        uncertainties = {'d12': 1.38656, 'd13': 0.28805, 'd23': 1.54432},
     ),
     shortDesc = u"""Fitted to 2 distances.
 """,
@@ -6828,7 +6830,7 @@ multiplicity [1,2,3,4,5]
 3    H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.151329, 'd13': 0.200757, 'd23': 0.201478},
+        distances = {'d12': 0.151242, 'd13': 0.200273, 'd23': 0.201808},
         uncertainties = {},
     ),
     shortDesc = u"""Fitted to 1 distances.
@@ -6876,7 +6878,7 @@ multiplicity [1,2,3,4,5]
 3    C ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.285741, 'd13': 0.288207, 'd23': 0.069604},
+        distances = {'d12': 0.285929, 'd13': 0.287812, 'd23': 0.069981},
         uncertainties = {},
     ),
     shortDesc = u"""Fitted to 1 distances.
@@ -6898,7 +6900,7 @@ multiplicity [1,2,3,4,5]
 3    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.285741, 'd13': 0.288207, 'd23': 0.069604},
+        distances = {'d12': 0.285929, 'd13': 0.287812, 'd23': 0.069981},
         uncertainties = {},
     ),
     shortDesc = u"""Fitted to 1 distances.
@@ -6996,8 +6998,8 @@ multiplicity [1,2,3,4,5]
 1 *3 H u1
 """,
     distances = DistanceData(
-        distances = {'d12': -0.024311, 'd13': -0.348816, 'd23': -0.336546},
-        uncertainties = {'d12': 0.071544, 'd13': 0.07081, 'd23': 0.096432},
+        distances = {'d12': -0.02453, 'd13': -0.349422, 'd23': -0.336976},
+        uncertainties = {'d12': 0.07167, 'd13': 0.05359, 'd23': 0.086861},
     ),
     shortDesc = u"""Fitted to 98 distances.
 """,
@@ -7042,8 +7044,8 @@ entry(
     label = "Orad",
     group = "OR{OjR, O_atom_triplet}",
     distances = DistanceData(
-        distances = {'d12': -0.036041, 'd13': -0.107293, 'd23': -0.066999},
-        uncertainties = {'d12': 0.147756, 'd13': 0.098895, 'd23': 0.13945},
+        distances = {'d12': -0.036134, 'd13': -0.107487, 'd23': -0.067101},
+        uncertainties = {'d12': 0.147758, 'd13': 0.098894, 'd23': 0.139451},
     ),
     shortDesc = u"""Fitted to 520 distances.
 """,
@@ -7166,8 +7168,8 @@ multiplicity [1,2,3,4,5]
 2    R ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.03257, 'd13': -0.106277, 'd23': -0.068969},
-        uncertainties = {'d12': 0.151203, 'd13': 0.09953, 'd23': 0.139632},
+        distances = {'d12': -0.032663, 'd13': -0.106471, 'd23': -0.069072},
+        uncertainties = {'d12': 0.151205, 'd13': 0.099529, 'd23': 0.139633},
     ),
     shortDesc = u"""Fitted to 490 distances.
 """,
@@ -7269,8 +7271,8 @@ multiplicity [1,2,3,4,5]
 2    H u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.168325, 'd13': -0.077309, 'd23': 0.112615},
-        uncertainties = {'d12': 0.075115, 'd13': 0.146205, 'd23': 0.157082},
+        distances = {'d12': -0.168419, 'd13': -0.077502, 'd23': 0.112514},
+        uncertainties = {'d12': 0.075109, 'd13': 0.14621, 'd23': 0.157088},
     ),
     shortDesc = u"""Fitted to 70 distances.
 """,
@@ -7312,8 +7314,8 @@ multiplicity [1,2,3,4,5]
 2    C ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.111392, 'd13': -0.132952, 'd23': -0.016554},
-        uncertainties = {'d12': 0.050973, 'd13': 0.105711, 'd23': 0.125718},
+        distances = {'d12': -0.111484, 'd13': -0.133145, 'd23': -0.016656},
+        uncertainties = {'d12': 0.051002, 'd13': 0.105719, 'd23': 0.12572},
     ),
     shortDesc = u"""Fitted to 105 distances.
 """,
@@ -7362,8 +7364,8 @@ multiplicity [1,2,3,4,5]
 2    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.112566, 'd13': -0.134495, 'd23': -0.016998},
-        uncertainties = {'d12': 0.048718, 'd13': 0.102947, 'd23': 0.114593},
+        distances = {'d12': -0.112659, 'd13': -0.134689, 'd23': -0.017102},
+        uncertainties = {'d12': 0.048743, 'd13': 0.102955, 'd23': 0.114595},
     ),
     shortDesc = u"""Fitted to 99 distances.
 """,
@@ -7406,8 +7408,8 @@ multiplicity [1,2,3,4,5]
 2    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.043229, 'd13': -0.114326, 'd23': -0.072297},
-        uncertainties = {'d12': 0.075342, 'd13': 0.06991, 'd23': 0.123513},
+        distances = {'d12': -0.043273, 'd13': -0.114514, 'd23': -0.072363},
+        uncertainties = {'d12': 0.075846, 'd13': 0.06968, 'd23': 0.123365},
     ),
     shortDesc = u"""Fitted to 4 distances.
 """,
@@ -7460,8 +7462,8 @@ multiplicity [1,2,3,4,5]
 2    O ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.026654, 'd13': -0.105077, 'd23': -0.13132},
-        uncertainties = {'d12': 0.183438, 'd13': 0.08519, 'd23': 0.141491},
+        distances = {'d12': 0.026561, 'd13': -0.105272, 'd23': -0.131423},
+        uncertainties = {'d12': 0.183439, 'd13': 0.085183, 'd23': 0.141491},
     ),
     shortDesc = u"""Fitted to 315 distances.
 """,
@@ -7509,8 +7511,8 @@ multiplicity [1,2,3,4,5]
 1 *3 O u2
 """,
     distances = DistanceData(
-        distances = {'d12': -0.087728, 'd13': -0.122425, 'd23': -0.037665},
-        uncertainties = {'d12': 0.075909, 'd13': 0.093342, 'd23': 0.144833},
+        distances = {'d12': -0.087821, 'd13': -0.122617, 'd23': -0.037766},
+        uncertainties = {'d12': 0.075932, 'd13': 0.093337, 'd23': 0.14483},
     ),
     shortDesc = u"""Fitted to 30 distances.
 """,
@@ -7549,8 +7551,8 @@ multiplicity [1,2,3,4,5]
 1 *3 C u[1,2,3,4]
 """,
     distances = DistanceData(
-        distances = {'d12': 0.013277, 'd13': 0.057367, 'd23': 0.043306},
-        uncertainties = {'d12': 0.092648, 'd13': 0.065736, 'd23': 0.096888},
+        distances = {'d12': 0.013185, 'd13': 0.057174, 'd23': 0.043204},
+        uncertainties = {'d12': 0.092653, 'd13': 0.065745, 'd23': 0.096888},
     ),
     shortDesc = u"""Fitted to 1531 distances.
 """,
@@ -8036,8 +8038,8 @@ multiplicity [1,2,3,4,5]
 1 *3 C u1
 """,
     distances = DistanceData(
-        distances = {'d12': 0.013476, 'd13': 0.058601, 'd23': 0.044014},
-        uncertainties = {'d12': 0.092324, 'd13': 0.065034, 'd23': 0.097016},
+        distances = {'d12': 0.013384, 'd13': 0.058408, 'd23': 0.043912},
+        uncertainties = {'d12': 0.09233, 'd13': 0.065042, 'd23': 0.097016},
     ),
     shortDesc = u"""Fitted to 1466 distances.
 """,
@@ -8477,8 +8479,8 @@ multiplicity [1,2,3,4,5]
 1 *3 Cs u1
 """,
     distances = DistanceData(
-        distances = {'d12': 0.031517, 'd13': 0.056595, 'd23': 0.021986},
-        uncertainties = {'d12': 0.06807, 'd13': 0.050012, 'd23': 0.085917},
+        distances = {'d12': 0.031424, 'd13': 0.056403, 'd23': 0.021884},
+        uncertainties = {'d12': 0.068053, 'd13': 0.050002, 'd23': 0.085925},
     ),
     shortDesc = u"""Fitted to 949 distances.
 """,
@@ -8767,8 +8769,8 @@ multiplicity [1,2,3,4,5]
 4    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.041695, 'd13': 0.053108, 'd23': 0.082814},
-        uncertainties = {'d12': 0.044025, 'd13': 0.051347, 'd23': 0.081378},
+        distances = {'d12': -0.041788, 'd13': 0.052915, 'd23': 0.082712},
+        uncertainties = {'d12': 0.044003, 'd13': 0.051352, 'd23': 0.081387},
     ),
     shortDesc = u"""Fitted to 63 distances.
 """,
@@ -8815,8 +8817,8 @@ multiplicity [1,2,3,4,5]
 4    R!H ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.015605, 'd13': 0.053342, 'd23': 0.033367},
-        uncertainties = {'d12': 0.060945, 'd13': 0.050195, 'd23': 0.086586},
+        distances = {'d12': 0.015512, 'd13': 0.053149, 'd23': 0.033264},
+        uncertainties = {'d12': 0.060923, 'd13': 0.05018, 'd23': 0.086593},
     ),
     shortDesc = u"""Fitted to 542 distances.
 """,
@@ -8956,8 +8958,8 @@ multiplicity [1,2,3,4,5]
 4    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.01258, 'd13': 0.054723, 'd23': 0.035602},
-        uncertainties = {'d12': 0.059084, 'd13': 0.049913, 'd23': 0.088346},
+        distances = {'d12': 0.012488, 'd13': 0.054531, 'd23': 0.0355},
+        uncertainties = {'d12': 0.05906, 'd13': 0.049895, 'd23': 0.088353},
     ),
     shortDesc = u"""Fitted to 469 distances.
 """,
@@ -9072,8 +9074,8 @@ multiplicity [1,2,3,4,5]
 4    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.015831, 'd13': 0.049111, 'd23': 0.056859},
-        uncertainties = {'d12': 0.053583, 'd13': 0.049473, 'd23': 0.093334},
+        distances = {'d12': -0.015924, 'd13': 0.048919, 'd23': 0.056756},
+        uncertainties = {'d12': 0.053542, 'd13': 0.049466, 'd23': 0.093346},
     ),
     shortDesc = u"""Fitted to 257 distances.
 """,
@@ -9124,8 +9126,8 @@ multiplicity [1,2,3,4,5]
 4    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.065297, 'd13': 0.066858, 'd23': -0.003149},
-        uncertainties = {'d12': 0.067332, 'd13': 0.055019, 'd23': 0.083003},
+        distances = {'d12': 0.065205, 'd13': 0.066667, 'd23': -0.00325},
+        uncertainties = {'d12': 0.067319, 'd13': 0.055, 'd23': 0.083008},
     ),
     shortDesc = u"""Fitted to 128 distances.
 """,
@@ -9172,8 +9174,8 @@ multiplicity [1,2,3,4,5]
 4    Ct u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.015898, 'd13': 0.055723, 'd23': 0.03264},
-        uncertainties = {'d12': 0.035907, 'd13': 0.03547, 'd23': 0.057945},
+        distances = {'d12': 0.015809, 'd13': 0.055535, 'd23': 0.032539},
+        uncertainties = {'d12': 0.035965, 'd13': 0.035369, 'd23': 0.05791},
     ),
     shortDesc = u"""Fitted to 20 distances.
 """,
@@ -9221,8 +9223,8 @@ multiplicity [1,2,3,4,5]
 4    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.034775, 'd13': 0.04459, 'd23': 0.019198},
-        uncertainties = {'d12': 0.073421, 'd13': 0.05321, 'd23': 0.076182},
+        distances = {'d12': 0.034681, 'd13': 0.044397, 'd23': 0.019096},
+        uncertainties = {'d12': 0.073403, 'd13': 0.053214, 'd23': 0.07619},
     ),
     shortDesc = u"""Fitted to 73 distances.
 """,
@@ -9268,8 +9270,8 @@ multiplicity [1,2,3,4,5]
 4    R!H ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.075219, 'd13': 0.064236, 'd23': -0.009706},
-        uncertainties = {'d12': 0.081007, 'd13': 0.04979, 'd23': 0.084614},
+        distances = {'d12': 0.075126, 'd13': 0.064043, 'd23': -0.009808},
+        uncertainties = {'d12': 0.080986, 'd13': 0.049782, 'd23': 0.084625},
     ),
     shortDesc = u"""Fitted to 308 distances.
 """,
@@ -9388,8 +9390,8 @@ multiplicity [1,2,3,4,5]
 4    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.081383, 'd13': 0.068576, 'd23': -0.014858},
-        uncertainties = {'d12': 0.080799, 'd13': 0.049462, 'd23': 0.087597},
+        distances = {'d12': 0.081291, 'd13': 0.068383, 'd23': -0.01496},
+        uncertainties = {'d12': 0.080782, 'd13': 0.04945, 'd23': 0.087608},
     ),
     shortDesc = u"""Fitted to 249 distances.
 """,
@@ -9485,8 +9487,8 @@ multiplicity [1,2,3,4,5]
 4    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.013324, 'd13': 0.044071, 'd23': 0.02566},
-        uncertainties = {'d12': 0.067028, 'd13': 0.054258, 'd23': 0.095476},
+        distances = {'d12': 0.013231, 'd13': 0.043878, 'd23': 0.025557},
+        uncertainties = {'d12': 0.066984, 'd13': 0.05426, 'd23': 0.095493},
     ),
     shortDesc = u"""Fitted to 71 distances.
 """,
@@ -9524,8 +9526,8 @@ multiplicity [1,2,3,4,5]
 4    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.101283, 'd13': 0.074532, 'd23': -0.026861},
-        uncertainties = {'d12': 0.090664, 'd13': 0.049052, 'd23': 0.085603},
+        distances = {'d12': 0.10119, 'd13': 0.074339, 'd23': -0.026963},
+        uncertainties = {'d12': 0.090654, 'd13': 0.049037, 'd23': 0.085612},
     ),
     shortDesc = u"""Fitted to 101 distances.
 """,
@@ -9598,8 +9600,8 @@ multiplicity [1,2,3,4,5]
 4    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.128176, 'd13': 0.089831, 'd23': -0.040466},
-        uncertainties = {'d12': 0.069936, 'd13': 0.044423, 'd23': 0.080531},
+        distances = {'d12': 0.128084, 'd13': 0.08964, 'd23': -0.040567},
+        uncertainties = {'d12': 0.069938, 'd13': 0.044421, 'd23': 0.080536},
     ),
     shortDesc = u"""Fitted to 60 distances.
 """,
@@ -9712,8 +9714,8 @@ multiplicity [1,2,3,4,5]
 4    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.049549, 'd13': 0.046163, 'd23': 0.011747},
-        uncertainties = {'d12': 0.084324, 'd13': 0.052671, 'd23': 0.072993},
+        distances = {'d12': 0.049457, 'd13': 0.045971, 'd23': 0.011645},
+        uncertainties = {'d12': 0.084294, 'd13': 0.052676, 'd23': 0.073005},
     ),
     shortDesc = u"""Fitted to 59 distances.
 """,
@@ -9757,8 +9759,8 @@ multiplicity [1,2,3,4,5]
 4    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.049549, 'd13': 0.046163, 'd23': 0.011747},
-        uncertainties = {'d12': 0.084324, 'd13': 0.052671, 'd23': 0.072993},
+        distances = {'d12': 0.049457, 'd13': 0.045971, 'd23': 0.011645},
+        uncertainties = {'d12': 0.084294, 'd13': 0.052676, 'd23': 0.073005},
     ),
     shortDesc = u"""Fitted to 59 distances.
 """,
@@ -9871,8 +9873,8 @@ multiplicity [1,2,3,4,5]
 4    R!H ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.038683, 'd13': 0.0457, 'd23': 0.002544},
-        uncertainties = {'d12': 0.09041, 'd13': 0.054211, 'd23': 0.106045},
+        distances = {'d12': 0.038594, 'd13': 0.04551, 'd23': 0.002441},
+        uncertainties = {'d12': 0.090475, 'd13': 0.054251, 'd23': 0.106039},
     ),
     shortDesc = u"""Fitted to 36 distances.
 """,
@@ -9918,8 +9920,8 @@ multiplicity [1,2,3,4,5]
 4    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.038128, 'd13': 0.043333, 'd23': 9.9e-05},
-        uncertainties = {'d12': 0.09291, 'd13': 0.051303, 'd23': 0.106271},
+        distances = {'d12': 0.038039, 'd13': 0.043143, 'd23': -4e-06},
+        uncertainties = {'d12': 0.092974, 'd13': 0.051344, 'd23': 0.106266},
     ),
     shortDesc = u"""Fitted to 29 distances.
 """,
@@ -9959,8 +9961,8 @@ multiplicity [1,2,3,4,5]
 4    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.037275, 'd13': 0.040615, 'd23': -0.005514},
-        uncertainties = {'d12': 0.08742, 'd13': 0.050344, 'd23': 0.103943},
+        distances = {'d12': 0.037182, 'd13': 0.040421, 'd23': -0.005618},
+        uncertainties = {'d12': 0.087382, 'd13': 0.050392, 'd23': 0.10397},
     ),
     shortDesc = u"""Fitted to 12 distances.
 """,
@@ -10261,8 +10263,8 @@ multiplicity [1,2,3,4,5]
 4    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.041141, 'd13': 0.056193, 'd23': 0.013383},
-        uncertainties = {'d12': 0.108569, 'd13': 0.085899, 'd23': 0.141761},
+        distances = {'d12': 0.041052, 'd13': 0.056002, 'd23': 0.013279},
+        uncertainties = {'d12': 0.108662, 'd13': 0.085953, 'd23': 0.141746},
     ),
     shortDesc = u"""Fitted to 7 distances.
 """,
@@ -10289,8 +10291,8 @@ multiplicity [1,2,3,4,5]
 4    O  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.041141, 'd13': 0.056193, 'd23': 0.013383},
-        uncertainties = {'d12': 0.108569, 'd13': 0.085899, 'd23': 0.141761},
+        distances = {'d12': 0.041052, 'd13': 0.056002, 'd23': 0.013279},
+        uncertainties = {'d12': 0.108662, 'd13': 0.085953, 'd23': 0.141746},
     ),
     shortDesc = u"""Fitted to 7 distances.
 """,
@@ -10524,8 +10526,8 @@ multiplicity [1,2,3,4,5]
 1 *3 Cd u1
 """,
     distances = DistanceData(
-        distances = {'d12': -0.05807, 'd13': 0.044042, 'd23': 0.098478},
-        uncertainties = {'d12': 0.070719, 'd13': 0.074616, 'd23': 0.110129},
+        distances = {'d12': -0.058163, 'd13': 0.043849, 'd23': 0.098376},
+        uncertainties = {'d12': 0.07071, 'd13': 0.074614, 'd23': 0.110132},
     ),
     shortDesc = u"""Fitted to 284 distances.
 """,
@@ -10639,8 +10641,8 @@ multiplicity [1,2,3,4,5]
 2    C  ux {1,D}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.05807, 'd13': 0.044042, 'd23': 0.098478},
-        uncertainties = {'d12': 0.070719, 'd13': 0.074616, 'd23': 0.110129},
+        distances = {'d12': -0.058163, 'd13': 0.043849, 'd23': 0.098376},
+        uncertainties = {'d12': 0.07071, 'd13': 0.074614, 'd23': 0.110132},
     ),
     shortDesc = u"""Fitted to 284 distances.
 """,
@@ -10755,8 +10757,8 @@ multiplicity [1,2,3,4,5]
 3    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.059215, 'd13': 0.042834, 'd23': 0.099686},
-        uncertainties = {'d12': 0.070648, 'd13': 0.075244, 'd23': 0.106194},
+        distances = {'d12': -0.059308, 'd13': 0.042642, 'd23': 0.099584},
+        uncertainties = {'d12': 0.070639, 'd13': 0.075242, 'd23': 0.106197},
     ),
     shortDesc = u"""Fitted to 180 distances.
 """,
@@ -10821,8 +10823,8 @@ multiplicity [1,2,3,4,5]
 3    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.077638, 'd13': 0.049539, 'd23': 0.122763},
-        uncertainties = {'d12': 0.051196, 'd13': 0.077044, 'd23': 0.102298},
+        distances = {'d12': -0.077731, 'd13': 0.049346, 'd23': 0.122661},
+        uncertainties = {'d12': 0.051172, 'd13': 0.077047, 'd23': 0.102304},
     ),
     shortDesc = u"""Fitted to 113 distances.
 """,
@@ -10866,8 +10868,8 @@ multiplicity [1,2,3,4,5]
 3    H   u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.030204, 'd13': 0.032277, 'd23': 0.063345},
-        uncertainties = {'d12': 0.09665, 'd13': 0.074105, 'd23': 0.115233},
+        distances = {'d12': -0.030297, 'd13': 0.032085, 'd23': 0.063244},
+        uncertainties = {'d12': 0.096653, 'd13': 0.074092, 'd23': 0.115229},
     ),
     shortDesc = u"""Fitted to 67 distances.
 """,
@@ -10908,8 +10910,8 @@ multiplicity [1,2,3,4,5]
 3    C  ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.056046, 'd13': 0.046177, 'd23': 0.096342},
-        uncertainties = {'d12': 0.072027, 'd13': 0.074769, 'd23': 0.118459},
+        distances = {'d12': -0.056139, 'd13': 0.045985, 'd23': 0.09624},
+        uncertainties = {'d12': 0.072017, 'd13': 0.074768, 'd23': 0.118464},
     ),
     shortDesc = u"""Fitted to 104 distances.
 """,
@@ -10979,8 +10981,8 @@ multiplicity [1,2,3,4,5]
 3    Cs ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.048051, 'd13': 0.048202, 'd23': 0.090141},
-        uncertainties = {'d12': 0.059142, 'd13': 0.072689, 'd23': 0.111822},
+        distances = {'d12': -0.048145, 'd13': 0.048008, 'd23': 0.090039},
+        uncertainties = {'d12': 0.059127, 'd13': 0.072688, 'd23': 0.111826},
     ),
     shortDesc = u"""Fitted to 38 distances.
 """,
@@ -11020,8 +11022,8 @@ multiplicity [1,2,3,4,5]
 3    Cd ux {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.06713, 'd13': 0.045604, 'd23': 0.106829},
-        uncertainties = {'d12': 0.089601, 'd13': 0.087883, 'd23': 0.139725},
+        distances = {'d12': -0.067222, 'd13': 0.045412, 'd23': 0.106728},
+        uncertainties = {'d12': 0.089588, 'd13': 0.087895, 'd23': 0.139735},
     ),
     shortDesc = u"""Fitted to 51 distances.
 """,
@@ -11060,8 +11062,8 @@ multiplicity [1,2,3,4,5]
 3    Ct u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.037823, 'd13': 0.043187, 'd23': 0.07577},
-        uncertainties = {'d12': 0.039836, 'd13': 0.031675, 'd23': 0.064871},
+        distances = {'d12': -0.037914, 'd13': 0.042997, 'd23': 0.075668},
+        uncertainties = {'d12': 0.03987, 'd13': 0.031526, 'd23': 0.064834},
     ),
     shortDesc = u"""Fitted to 15 distances.
 """,
@@ -11297,8 +11299,8 @@ multiplicity [1,2,3,4,5]
 1 *3 Ct u1
 """,
     distances = DistanceData(
-        distances = {'d12': -0.202306, 'd13': 0.208785, 'd23': 0.459869},
-        uncertainties = {'d12': 0.104194, 'd13': 0.139453, 'd23': 0.116762},
+        distances = {'d12': -0.202397, 'd13': 0.208596, 'd23': 0.459768},
+        uncertainties = {'d12': 0.104191, 'd13': 0.139441, 'd23': 0.116758},
     ),
     shortDesc = u"""Fitted to 20 distances.
 """,
@@ -11328,8 +11330,8 @@ multiplicity [1,2,3,4,5]
 2    C  ux {1,T}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.202306, 'd13': 0.208785, 'd23': 0.459869},
-        uncertainties = {'d12': 0.104194, 'd13': 0.139453, 'd23': 0.116762},
+        distances = {'d12': -0.202397, 'd13': 0.208596, 'd23': 0.459768},
+        uncertainties = {'d12': 0.104191, 'd13': 0.139441, 'd23': 0.116758},
     ),
     shortDesc = u"""Fitted to 20 distances.
 """,
@@ -11358,8 +11360,8 @@ multiplicity [1,2,3,4,5]
 1 *3 Cb u1
 """,
     distances = DistanceData(
-        distances = {'d12': -0.083748, 'd13': 0.0448, 'd23': 0.123319},
-        uncertainties = {'d12': 0.055426, 'd13': 0.097504, 'd23': 0.127557},
+        distances = {'d12': -0.08384, 'd13': 0.044609, 'd23': 0.123217},
+        uncertainties = {'d12': 0.055392, 'd13': 0.097517, 'd23': 0.12757},
     ),
     shortDesc = u"""Fitted to 30 distances.
 """,
@@ -11393,8 +11395,8 @@ entry(
     label = "Cjj",
     group = "OR{Csjj, Cdjj}",
     distances = DistanceData(
-        distances = {'d12': -0.004708, 'd13': 0.021851, 'd23': 0.028401},
-        uncertainties = {'d12': 0.070654, 'd13': 0.058201, 'd23': 0.091941},
+        distances = {'d12': -0.004799, 'd13': 0.02166, 'd23': 0.0283},
+        uncertainties = {'d12': 0.070638, 'd13': 0.05818, 'd23': 0.091946},
     ),
     shortDesc = u"""Fitted to 58 distances.
 """,
@@ -11448,8 +11450,8 @@ entry(
     label = "Csjj",
     group = "OR{Cs_sing, Cs_trip}",
     distances = DistanceData(
-        distances = {'d12': -0.021803, 'd13': 0.032721, 'd23': 0.047529},
-        uncertainties = {'d12': 0.070596, 'd13': 0.062955, 'd23': 0.105548},
+        distances = {'d12': -0.021894, 'd13': 0.03253, 'd23': 0.047427},
+        uncertainties = {'d12': 0.070546, 'd13': 0.062945, 'd23': 0.105568},
     ),
     shortDesc = u"""Fitted to 32 distances.
 """,
@@ -11841,8 +11843,8 @@ multiplicity [1,2,3,4,5]
 1 *3 Cs u2 p0
 """,
     distances = DistanceData(
-        distances = {'d12': -0.021803, 'd13': 0.032721, 'd23': 0.047529},
-        uncertainties = {'d12': 0.070596, 'd13': 0.062955, 'd23': 0.105548},
+        distances = {'d12': -0.021894, 'd13': 0.03253, 'd23': 0.047427},
+        uncertainties = {'d12': 0.070546, 'd13': 0.062945, 'd23': 0.105568},
     ),
     shortDesc = u"""Fitted to 32 distances.
 """,
@@ -11887,8 +11889,8 @@ multiplicity [1,2,3,4,5]
 3    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': -0.05908, 'd13': 0.03728, 'd23': 0.08815},
-        uncertainties = {'d12': 0.04748, 'd13': 0.087728, 'd23': 0.123104},
+        distances = {'d12': -0.059171, 'd13': 0.03709, 'd23': 0.088049},
+        uncertainties = {'d12': 0.047444, 'd13': 0.087721, 'd23': 0.123112},
     ),
     shortDesc = u"""Fitted to 17 distances.
 """,
@@ -11920,8 +11922,8 @@ multiplicity [1,2,3,4,5]
 3    H   u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.027404, 'd13': 0.026703, 'd23': -0.00609},
-        uncertainties = {'d12': 0.097811, 'd13': 0.026498, 'd23': 0.097733},
+        distances = {'d12': 0.027311, 'd13': 0.026509, 'd23': -0.006193},
+        uncertainties = {'d12': 0.097743, 'd13': 0.026462, 'd23': 0.097776},
     ),
     shortDesc = u"""Fitted to 15 distances.
 """,
@@ -11954,8 +11956,8 @@ multiplicity [1,2,3,4,5]
 3    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.027404, 'd13': 0.026703, 'd23': -0.00609},
-        uncertainties = {'d12': 0.097811, 'd13': 0.026498, 'd23': 0.097733},
+        distances = {'d12': 0.027311, 'd13': 0.026509, 'd23': -0.006193},
+        uncertainties = {'d12': 0.097743, 'd13': 0.026462, 'd23': 0.097776},
     ),
     shortDesc = u"""Fitted to 15 distances.
 """,
@@ -12014,8 +12016,8 @@ multiplicity [1,2,3,4,5]
 3    H  u0 {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.027404, 'd13': 0.026703, 'd23': -0.00609},
-        uncertainties = {'d12': 0.097811, 'd13': 0.026498, 'd23': 0.097733},
+        distances = {'d12': 0.027311, 'd13': 0.026509, 'd23': -0.006193},
+        uncertainties = {'d12': 0.097743, 'd13': 0.026462, 'd23': 0.097776},
     ),
     shortDesc = u"""Fitted to 15 distances.
 """,
@@ -12302,8 +12304,8 @@ entry(
     label = "Cdjj",
     group = "OR{Cd_singletR, Cd_tripletR}",
     distances = DistanceData(
-        distances = {'d12': 0.014239, 'd13': 0.009804, 'd23': 0.007202},
-        uncertainties = {'d12': 0.075749, 'd13': 0.056197, 'd23': 0.079378},
+        distances = {'d12': 0.014147, 'd13': 0.009614, 'd23': 0.007101},
+        uncertainties = {'d12': 0.075773, 'd13': 0.05616, 'd23': 0.079358},
     ),
     shortDesc = u"""Fitted to 26 distances.
 """,
@@ -12371,8 +12373,8 @@ multiplicity [1,2,3,4,5]
 1 *3 Cd u2 p0
 """,
     distances = DistanceData(
-        distances = {'d12': 0.014239, 'd13': 0.009804, 'd23': 0.007202},
-        uncertainties = {'d12': 0.075749, 'd13': 0.056197, 'd23': 0.079378},
+        distances = {'d12': 0.014147, 'd13': 0.009614, 'd23': 0.007101},
+        uncertainties = {'d12': 0.075773, 'd13': 0.05616, 'd23': 0.079358},
     ),
     shortDesc = u"""Fitted to 26 distances.
 """,
@@ -12406,8 +12408,8 @@ multiplicity [1,2,3,4,5]
 2    C  ux {1,D}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.014239, 'd13': 0.009804, 'd23': 0.007202},
-        uncertainties = {'d12': 0.075749, 'd13': 0.056197, 'd23': 0.079378},
+        distances = {'d12': 0.014147, 'd13': 0.009614, 'd23': 0.007101},
+        uncertainties = {'d12': 0.075773, 'd13': 0.05616, 'd23': 0.079358},
     ),
     shortDesc = u"""Fitted to 26 distances.
 """,
@@ -12448,8 +12450,8 @@ entry(
     label = "Cjjj",
     group = "OR{C_doubletR, C_quartetR}",
     distances = DistanceData(
-        distances = {'d12': -0.152641, 'd13': -0.143421, 'd23': 0.048804},
-        uncertainties = {'d12': 0.53586, 'd13': 2.05684, 'd23': 1.77661},
+        distances = {'d12': -0.152698, 'd13': -0.143577, 'd23': 0.048708},
+        uncertainties = {'d12': 0.536948, 'd13': 2.0619, 'd23': 1.7782},
     ),
     shortDesc = u"""Fitted to 2 distances.
 """,
@@ -12480,8 +12482,8 @@ multiplicity [1,2,3,4,5]
 1 *3 C u3
 """,
     distances = DistanceData(
-        distances = {'d12': -0.152641, 'd13': -0.143421, 'd23': 0.048804},
-        uncertainties = {'d12': 0.53586, 'd13': 2.05684, 'd23': 1.77661},
+        distances = {'d12': -0.152698, 'd13': -0.143577, 'd23': 0.048708},
+        uncertainties = {'d12': 0.536948, 'd13': 2.0619, 'd23': 1.7782},
     ),
     shortDesc = u"""Fitted to 2 distances.
 """,
@@ -12530,7 +12532,7 @@ multiplicity [1,2,3,4,5]
 1 *3 Cl u[1,2,3,4]
 """,
     distances = DistanceData(
-        distances = {'d12': -0.185652, 'd13': 0.069579, 'd23': 0.397524},
+        distances = {'d12': -0.186123, 'd13': 0.069621, 'd23': 0.397566},
         uncertainties = {},
     ),
     shortDesc = u"""Fitted to 1 distances.
@@ -12550,14 +12552,15 @@ multiplicity [1,2,3,4,5]
 1 *3 Si u[1,2,3,4]
 """,
     distances = DistanceData(
-        distances = {'d12': 0.107813, 'd13': 0.391302, 'd23': 0.27428},
-        uncertainties = {'d12': 3.07177, 'd13': 3.16607, 'd23': 0.281216},
+        distances = {'d12': 0.196048, 'd13': 0.502505, 'd23': 0.307099},
+        uncertainties = {'d12': 0.283923, 'd13': 0.405183, 'd23': 0.185311},
     ),
-    shortDesc = u"""Fitted to 2 distances.
+    shortDesc = u"""Fitted to 4 distances.
 """,
     longDesc = 
 u"""
 [<Entry index=3 label="H2">, <Entry index=395 label="Sirad">]
+[<Entry index=341 label="Si_H">, <Entry index=395 label="Sirad">]
 """,
 )
 
@@ -12570,8 +12573,8 @@ multiplicity [1,2,3,4,5]
 1 *3 S u[1,2,3,4]
 """,
     distances = DistanceData(
-        distances = {'d12': 0.12559, 'd13': 0.249249, 'd23': 0.228252},
-        uncertainties = {'d12': 1.56728, 'd13': 0.331143, 'd23': 1.3931},
+        distances = {'d12': 0.125945, 'd13': 0.248811, 'd23': 0.228316},
+        uncertainties = {'d12': 1.56696, 'd13': 0.331695, 'd23': 1.39339},
     ),
     shortDesc = u"""Fitted to 2 distances.
 """,
@@ -12592,7 +12595,7 @@ multiplicity [1,2,3,4,5]
 2    H u0         {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.198817, 'd13': 0.199968, 'd23': 0.153206},
+        distances = {'d12': 0.199145, 'd13': 0.199481, 'd23': 0.153117},
         uncertainties = {},
     ),
     shortDesc = u"""Fitted to 1 distances.
@@ -12613,7 +12616,7 @@ multiplicity [1,2,3,4,5]
 2    R!H u0         {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.067009, 'd13': 0.288673, 'd23': 0.288288},
+        distances = {'d12': 0.067385, 'd13': 0.288276, 'd23': 0.288476},
         uncertainties = {},
     ),
     shortDesc = u"""Fitted to 1 distances.
@@ -12634,7 +12637,7 @@ multiplicity [1,2,3,4,5]
 2    C u0         {1,S}
 """,
     distances = DistanceData(
-        distances = {'d12': 0.067009, 'd13': 0.288673, 'd23': 0.288288},
+        distances = {'d12': 0.067385, 'd13': 0.288276, 'd23': 0.288476},
         uncertainties = {},
     ),
     shortDesc = u"""Fitted to 1 distances.
